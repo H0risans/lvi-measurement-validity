@@ -1,5 +1,7 @@
 # lvi-measurement-validity
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412391.svg)](https://doi.org/10.5281/zenodo.24412391)
+
 Research code and derived data for **measurement-validity assessment** in tightly coupled LiDAR–visual–inertial odometry (LIVO). The repository accompanies the manuscript:
 
 > *When Is a Visual Measurement Still Valid? Event-Level Injection and Output Hold in Tightly Coupled LiDAR–Visual–Inertial Odometry*
@@ -58,7 +60,15 @@ The full experiment matrix requires the HILTI22 bags and the three estimator bui
 
 `data/content_replay/<tag>/` holds the per-run `run.json`, `fault_events.csv`, `safety_risk.csv` and estimator trajectory. `data/degradation/<tag>/` holds the degradation JSON and logs; multi-GB raw topic bags are not included.
 
-The paper's data statement should point to this repository at the tag below. If a DOI is required, archive the tagged release with Zenodo and replace the repository URL in the manuscript with the DOI.
+The paper's data statement should point to the DOI below. The archived version of record is the Zenodo deposit of tag `v0.3.2-w4c`.
+
+## Archive and DOI
+
+- Version DOI (this release): https://doi.org/10.5281/zenodo.24412391
+- Concept DOI (all versions): https://doi.org/10.5281/zenodo.24412390
+- GitHub tag: `v0.3.2-w4c` (commit `9207c35`)
+
+The version DOI is fixed to the archived tag. Documentation on `main` may be updated after publication; the archived files are not modified.
 
 ## Scope and limitations
 
@@ -83,7 +93,24 @@ Expected W3 result: `m12e1` 2480 rows / mismatch 0 / non-OK 2008; `m12c1` 2599 /
 
 ## Citation
 
-Citation metadata is in `CITATION.cff`. Update author names/affiliations before publication; the current entry uses the repository handle.
+If you use this software, please cite the archived release:
+
+Cai, Z. (2026). *lvi-measurement-validity 0.3.2-w4c: measurement-validity assessment and output hold for tightly coupled LiDAR–visual–inertial odometry* (Version 0.3.2-w4c) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24412391
+
+```bibtex
+@software{cai2026lvi,
+  author    = {Cai, Zihao},
+  title     = {lvi-measurement-validity 0.3.2-w4c: measurement-validity assessment and output hold for tightly coupled LiDAR--visual--inertial odometry},
+  month     = nov,
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {0.3.2-w4c},
+  doi       = {10.5281/zenodo.24412391},
+  url       = {https://doi.org/10.5281/zenodo.24412391}
+}
+```
+
+Machine-readable metadata is in `CITATION.cff`.
 
 ## License
 

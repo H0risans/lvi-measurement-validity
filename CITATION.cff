@@ -1,14 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the archived release and the accompanying manuscript."
-title: "lvi-measurement-validity: measurement-validity assessment for tightly coupled LiDAR-visual-inertial odometry"
+title: "lvi-measurement-validity 0.3.2-w4c: measurement-validity assessment and output hold for tightly coupled LiDAR-visual-inertial odometry"
 type: software
 authors:
-  - family-names: "H0risans"
+  - family-names: "Cai"
+    given-names: "Zihao"
+    affiliation: "Internet of Vehicles Laboratory, College of Information and Communication Engineering, Harbin Engineering University"
 version: "0.3.2-w4c"
 date-released: "2026-11-21"
 license: "MIT"
+doi: "10.5281/zenodo.24412391"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24412391"
+    description: "Version DOI for v0.3.2-w4c (concept DOI: 10.5281/zenodo.24412390)"
 repository-code: "https://github.com/H0risans/lvi-measurement-validity"
-url: "https://github.com/H0risans/lvi-measurement-validity"
+url: "https://doi.org/10.5281/zenodo.24412391"
 abstract: >-
   Research code and derived data for event-level fault injection, processing-exposure
   verification, measurement-validity assessment, and output-hold supervision in
