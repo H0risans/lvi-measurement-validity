@@ -1,0 +1,6 @@
+w4c_lvi_drop5_hold1_r2b: done
+counts: odom=539 safety=552 state=552
+state_counts: {"DEGRADED": 10, "OK": 524, "UNKNOWN": 18}
+first DEGRADED=1649856259.176 UNKNOWN=1649856261.36 OK_after=1649856264.615
+hold_frames=18 hold_disp=0 m raw_env=335.479 safety_env=335.479
+invalid_reasons=

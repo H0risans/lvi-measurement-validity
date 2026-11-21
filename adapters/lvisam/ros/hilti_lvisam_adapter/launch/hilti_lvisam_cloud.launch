@@ -1,0 +1,16 @@
+<launch>
+  <!-- Standalone converter: raw Hesai XT32 -> LVI-SAM PointXYZIRT contract. -->
+  <arg name="input_topic" default="/hesai/pandar" />
+  <arg name="output_topic" default="/lvisam/points" />
+  <arg name="frame_id" default="hilti_lidar_imu_axes" />
+  <arg name="max_rel_s" default="0.2" />
+
+  <node pkg="hilti_lvisam_adapter" type="point_cloud_converter.py"
+        name="hilti_lvisam_cloud" output="screen" required="true">
+    <param name="input_topic" value="$(arg input_topic)" />
+    <param name="output_topic" value="$(arg output_topic)" />
+    <param name="frame_id" value="$(arg frame_id)" />
+    <param name="max_rel_s" value="$(arg max_rel_s)" />
+    <param name="n_scan" value="32" />
+  </node>
+</launch>

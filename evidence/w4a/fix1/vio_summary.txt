@@ -1,0 +1,10 @@
+vio_stage_counts:
+   1094 callback_received
+      1 stage
+   1028 state_update_executed
+      6 state_update_skipped
+   1029 visual_tracked
+last_vio:
+1649856331.011196852	1033	state_update_executed	1	1	49	1	none	1	1
+1649856331.111190796	1034	visual_tracked	1	1	50	0	none	-1	-1
+bag_info:

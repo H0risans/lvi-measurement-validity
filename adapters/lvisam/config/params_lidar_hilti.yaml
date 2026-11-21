@@ -1,0 +1,83 @@
+# LVI-SAM / LIO-SAM parameters for Hilti22 exp14/exp18.
+# Point cloud: /lvisam/points from hilti_lvisam_adapter (Hesai XT32, IMU-aligned axes,
+#              fields x,y,z,intensity,ring,time; no translation).
+# IMU:         /alphasense/imu.
+# The points are already rotated into IMU axes by the adapter, so extrinsicRot and
+# extrinsicRPY are identity; extrinsicTrans is the Hilti lidar->IMU translation.
+PROJECT_NAME: "lvi_sam"
+
+lvi_sam:
+
+  # Topics
+  pointCloudTopic: "/lvisam/points"
+  imuTopic: "/alphasense/imu"
+
+  # Heading: Hilti has no GPS/dual-antenna heading; keep false.
+  useImuHeadingInitialization: false
+
+  # Export settings
+  savePCD: false
+  savePCDDirectory: "/Downloads/LOAM/"
+
+  # Sensor settings: Hesai XT32
+  N_SCAN: 32
+  Horizon_SCAN: 1800
+  timeField: "time"
+  downsampleRate: 1
+
+  # IMU settings: LIO-SAM defaults, kept as an explicit placeholder until Hilti
+  # IMU noise is re-identified. Accuracy claims must not rely on these values.
+  imuAccNoise: 3.9939570888238808e-03
+  imuGyrNoise: 1.5636343949698187e-03
+  imuAccBiasN: 6.4356659353532566e-05
+  imuGyrBiasN: 3.5640318696367613e-05
+  imuGravity: 9.80511
+
+  # Extrinsics (lidar -> IMU). Rotation is identity because the adapter already
+  # rotates points into IMU axes; translation is applied once here.
+  extrinsicTrans: [-0.001, -0.00855, 0.055]
+  extrinsicRot: [1, 0, 0,
+                 0, 1, 0,
+                 0, 0, 1]
+  extrinsicRPY: [1, 0, 0,
+                 0, 1, 0,
+                 0, 0, 1]
+
+  # LOAM feature thresholds
+  edgeThreshold: 1.0
+  surfThreshold: 0.1
+  edgeFeatureMinValidNum: 10
+  surfFeatureMinValidNum: 100
+
+  # Voxel filter parameters
+  odometrySurfLeafSize: 0.4
+  mappingCornerLeafSize: 0.2
+  mappingSurfLeafSize: 0.4
+
+  # Robot motion constraint
+  z_tollerance: 1000
+  rotation_tollerance: 1000
+
+  # CPU params
+  numberOfCores: 4
+  mappingProcessInterval: 0.15
+
+  # Surrounding map
+  surroundingkeyframeAddingDistThreshold: 1.0
+  surroundingkeyframeAddingAngleThreshold: 0.2
+  surroundingKeyframeDensity: 2.0
+  surroundingKeyframeSearchRadius: 50.0
+
+  # Loop closure: disabled for W4b integration. The visual loop node is not
+  # launched, so no vocabulary file is required.
+  loopClosureEnableFlag: false
+  surroundingKeyframeSize: 25
+  historyKeyframeSearchRadius: 20.0
+  historyKeyframeSearchTimeDiff: 30.0
+  historyKeyframeSearchNum: 25
+  historyKeyframeFitnessScore: 0.3
+
+  # Visualization
+  globalMapVisualizationSearchRadius: 1000.0
+  globalMapVisualizationPoseDensity: 10.0
+  globalMapVisualizationLeafSize: 1.0

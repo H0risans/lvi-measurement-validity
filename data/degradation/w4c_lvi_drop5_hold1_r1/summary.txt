@@ -1,0 +1,8 @@
+W4b summary
+valid=True exit=0 duration=109.395
+counts={"/clock": 10183, "/lvi_sam/lidar/mapping/odometry": 544, "/safety/state": 548, "/safety/odom": 548}
+states={"OK": 521, "DEGRADED": 10, "UNKNOWN": 17}
+hold_frames=17
+first_raw=[0.0, 0.0, 0.0] last_raw=[-110.14917755126953, 41.27986526489258, 110.85900115966797]
+first_safety=[0.0, 0.0, 0.0] last_safety=[-110.14917755126953, 41.27986526489258, 110.85900115966797]
+missing=[]

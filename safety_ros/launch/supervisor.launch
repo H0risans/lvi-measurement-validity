@@ -1,0 +1,22 @@
+<launch>
+  <!-- Level A adapter: change the three input topics for a new LIVO system. -->
+  <arg name="image_topic" default="/fault_injector/image_raw" />
+  <arg name="lidar_topic" default="/livox/lidar" />
+  <arg name="odom_topic" default="/aft_mapped_to_init" />
+  <arg name="state_topic" default="/safety/state" />
+  <arg name="odom_out_topic" default="/safety/odom" />
+  <arg name="hold_output" default="false" />
+  <arg name="lidar_p05" default="14.0" />
+  <arg name="lidar_p50" default="1406.5" />
+
+  <node pkg="safety_supervisor" type="supervisor_node" name="safety_supervisor" output="screen">
+    <param name="image_topic" value="$(arg image_topic)" />
+    <param name="lidar_topic" value="$(arg lidar_topic)" />
+    <param name="odom_topic" value="$(arg odom_topic)" />
+    <param name="state_topic" value="$(arg state_topic)" />
+    <param name="odom_out_topic" value="$(arg odom_out_topic)" />
+    <param name="hold_output" value="$(arg hold_output)" />
+    <param name="lidar_p05" value="$(arg lidar_p05)" />
+    <param name="lidar_p50" value="$(arg lidar_p50)" />
+  </node>
+</launch>

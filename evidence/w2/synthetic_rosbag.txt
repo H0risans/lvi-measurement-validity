@@ -1,0 +1,15 @@
+W2 synthetic ROS replay
+date: 2026-11-18
+VM: nano@192.168.58.129 (ROS Noetic)
+command: bash safety_ros/test/run_synth_test.sh
+
+result:
+states=40 odoms=40 last_x=1.500
+W2 PASS: synthetic ROS replay matches the offline W16 sequence
+
+expected sequence:
+- 10 clean frames with image, then 30 without image
+- DEGRADED on frame index 16 (7th blind frame)
+- UNKNOWN on frame index 26 (10 frames after DEGRADED)
+- every frame from index 26 onward holds
+- final published x remains 1.5 m (last OK pose)

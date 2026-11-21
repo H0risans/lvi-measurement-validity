@@ -1,0 +1,18 @@
+<launch>
+  <!-- 0-P0 integration test: injector + adapter only, no estimator.
+       The adapter must see ~10 Hz selected images, not the raw 40 Hz stream. -->
+  <arg name="audit_path" />
+  <arg name="injector_config" default="$(find camera_fault_injector)/config/hilti22_select10.yaml" />
+
+  <include file="$(find camera_fault_injector)/launch/camera_fault_injector.launch">
+    <arg name="config" value="$(arg injector_config)" />
+    <arg name="fault_log_enable" value="false" />
+  </include>
+
+  <node pkg="hilti_r3live_adapter" type="hilti_adapter_node.py" name="r3live_hilti_adapter"
+        output="screen" required="true">
+    <param name="audit_path" value="$(arg audit_path)" />
+    <remap from="~cloud_in" to="/hesai/pandar" />
+    <remap from="~image_in" to="/fault_injector/image_raw" />
+  </node>
+</launch>

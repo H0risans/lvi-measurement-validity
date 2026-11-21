@@ -1,0 +1,54 @@
+{
+  "label": "w4c_lvi_drop_hold1_r1",
+  "status": "invalid",
+  "valid": false,
+  "invalid_reasons": [
+    "no_UNKNOWN",
+    "hold_arm_has_no_hold"
+  ],
+  "bag": "/home/nano/experiments/w4c_20261119/runs/w4c_lvi_drop_hold1_r1/w4b_topics.bag",
+  "counts": {
+    "odom": 545,
+    "safety_odom": 551,
+    "state": 551
+  },
+  "state_counts": {
+    "OK": 523,
+    "DEGRADED": 28
+  },
+  "hold_frames": 0,
+  "first_DEGRADED_s": 1649856259.143,
+  "first_UNKNOWN_s": null,
+  "first_OK_after_UNKNOWN_s": null,
+  "hold_displacement_m": 0.0,
+  "raw_envelope_m": 95.64233893533823,
+  "safety_envelope_m": 95.64233893533823,
+  "safety_raw_pair_max_m": 1.7324422997504234,
+  "transitions": [
+    {
+      "t": 1649856259.143,
+      "from": "OK",
+      "to": "DEGRADED"
+    },
+    {
+      "t": 1649856264.67,
+      "from": "DEGRADED",
+      "to": "OK"
+    }
+  ],
+  "first_raw": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "last_raw": [
+    2.1235439777374268,
+    -25.70945930480957,
+    -92.09761810302734
+  ],
+  "last_safety": [
+    2.1235439777374268,
+    -25.70945930480957,
+    -92.09761810302734
+  ]
+}

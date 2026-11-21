@@ -1,0 +1,30 @@
+# FAST-LIVO2 适配清单（W4c）
+system: fast_livo2
+algorithm_type: "direct photometric + filter"
+integration_level: "in-process (native safety layer)"
+source:
+  repository: "~/catkin_ws/src/fast_livo"
+  commit: "916b3db29f6e0c8a9c70b8d189333fa359de7e58"
+  changes:
+    - "SAFETY_HOLD_OUTPUT: optional output hold in LIVMapper::publish_odometry()"
+    - "SAFETY_LIDAR_P50: runtime override for W16 lidar_p50"
+inputs:
+  image: "/fault_injector/image_raw (injector hilti22_select10, 10 Hz)"
+  lidar: "Hilti native point cloud"
+  odom: "/aft_mapped_to_init"
+decision:
+  location: "libvio W16"
+  thresholds: "safety_thresholds_v2.txt (tau_d2=700, tau_photo_z=32, ...)"
+hold:
+  location: "LIVMapper::publish_odometry()"
+  default: false
+  enabled_by: "SAFETY_HOLD_OUTPUT=1"
+validated:
+  - "exp15 real outage: UNKNOWN@29.44 s, hold envelope 5.28/5.29 m; no-hold 71,757/32,343 m"
+  - "stage 1 content replay 8 runs: no reproducible pose damage"
+evidence:
+  - "第4-5章_判别与恢复/a_stage/a_report.md"
+  - "第4-5章_判别与恢复/f_stage/phase1_report.md"
+gaps:
+  - "not migrated to external safety_supervisor"
+  - "no cross-system accuracy comparison"

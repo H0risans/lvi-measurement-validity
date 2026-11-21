@@ -1,0 +1,2 @@
+w4c_lvi_drop5_hold0_r2 system=LVI hold=0 rep=2 bag=/home/nano/datasets/HILTI22/exp18_corridor_lower_gallery_2.bag
+injector=/home/nano/experiments/w4c_20261119/cfg/inject_drop_30_35.yaml

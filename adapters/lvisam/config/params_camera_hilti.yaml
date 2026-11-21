@@ -1,0 +1,96 @@
+%YAML:1.0
+
+# LVI-SAM camera parameters for Hilti22 after the Hilti adapter.
+# The Hilti adapter already undistorts/rectifies the fisheye image to a 720x540
+# pinhole image, so the model here is PINHOLE with zero distortion.
+
+project_name: "lvi_sam"
+
+# Common parameters
+imu_topic: "/alphasense/imu"
+image_topic: "/r3live_hilti_adapter/image_out"
+point_cloud_topic: "lvi_sam/lidar/deskew/cloud_deskewed"
+
+# Lidar params
+use_lidar: 1
+lidar_skip: 0
+align_camera_lidar_estimation: 1
+
+# Lidar-to-camera transform, computed from Hilti R_IL/T_IL and R_IC/t_IC:
+# T_CL = (T_IC)^-1 * T_IL. Used for depth association, not for the state.
+lidar_to_cam_tx: -0.05497616
+lidar_to_cam_ty: 0.06754010
+lidar_to_cam_tz: -0.05205994
+lidar_to_cam_rx: -1.56843850
+lidar_to_cam_ry: -0.00673223
+lidar_to_cam_rz: -3.13150105
+
+# Camera model: rectified pinhole from the Hilti adapter
+model_type: PINHOLE
+camera_name: camera
+image_width: 720
+image_height: 540
+distortion_parameters:
+   k1: 0.0
+   k2: 0.0
+   p1: 0.0
+   p2: 0.0
+projection_parameters:
+   fx: 351.314
+   fy: 351.491
+   cx: 367.852
+   cy: 253.840
+
+# IMU noise parameters: LIO-SAM defaults, explicit placeholder. Do not use for
+# accuracy claims until the Hilti IMU is re-identified.
+acc_n: 0.02
+gyr_n: 0.01
+acc_w: 0.002
+gyr_w: 4.0e-5
+g_norm: 9.805
+
+# Extrinsic between IMU and camera: imu^R_cam / imu^T_cam.
+estimate_extrinsic: 0
+extrinsicRotation: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 0.00670802, 0.00242564, 0.999975,
+           0.999926, 0.0100912, -0.00673218,
+           -0.0101073, 0.999946, -0.00235777 ]
+
+extrinsicTranslation: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [0.051263551, 0.0453901, -0.013214874]
+
+# Feature tracker
+max_cnt: 150
+min_dist: 20
+freq: 10
+F_threshold: 1.0
+show_track: 0
+equalize: 1
+fisheye: 0
+
+# Optimization
+max_solver_time: 0.035
+max_num_iterations: 10
+keyframe_parallax: 10.0
+
+# Unsynchronization
+estimate_td: 0
+td: 0
+
+# Rolling shutter
+rolling_shutter: 0
+rolling_shutter_tr: 0
+
+# Loop closure: disabled for W4b; the visual loop node is not launched, so no
+# vocabulary files are needed.
+loop_closure: 0
+skip_time: 0.0
+skip_dist: 0.0
+debug_image: 0
+match_image_scale: 0.5

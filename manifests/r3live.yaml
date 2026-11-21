@@ -1,0 +1,32 @@
+# R3LIVE 适配清单（W4c）
+system: r3live
+algorithm_type: "ESIKF + RGB point cloud"
+integration_level: "Level A (external supervisor, read-only topics)"
+source:
+  repository: "~/catkin_r3live_ws/src/r3live"
+  commit: "6143a38537f28cb36eb24e9bbe2e39c8f7967157"
+  changes: "none in algorithm core; Hilti22 adapter and launch/remap only"
+inputs:
+  image: "/r3live_hilti_adapter/image_out (injector select10 -> Hilti adapter, 10 Hz)"
+  lidar: "/r3live_hilti_adapter/cloud_out"
+  odom: "/aft_mapped_to_init"
+decision:
+  location: "safety_supervisor (external)"
+  source: "safety_core ReliabilityMonitor"
+hold:
+  location: "/safety/odom (does not modify estimator output)"
+  default: true in W4a launch
+validated:
+  - "clean exp18: 1033 odom/state/safety messages, all OK, hold=0"
+  - "10 Hz image chain: 1094 images/1094 clouds; |dt| p50 6.1 ms"
+  - "event/acceptance layer: 36/36 data rows identical to FAST-LIVO2 P2 arm"
+  - "dropout [30,33): hold1 1121 state/safety, OK 987 / DEG 10 / UNK 124, hold_frames 124, hold_disp 0 m; hold0 same states, hold_frames 0, safety==raw by header"
+evidence:
+  - "工程化/evidence/w4a/fix1/"
+  - "工程化/evidence/w4a/calibration_exp18.csv"
+  - "工程化/evidence/w4c/w4c_r3_drop_hold1_r1f/"
+  - "工程化/evidence/w4c/w4c_r3_drop_hold0_r1/"
+gaps:
+  - "n=2 per arm; repeat variability large (UNKNOWN 124 vs 56 frames)"
+  - "estimator stops odom when images stop; supervisor 10 Hz timer required and verified in W2, not separately unit-tested"
+  - "no trajectory accuracy claim"

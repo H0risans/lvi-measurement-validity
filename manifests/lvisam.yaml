@@ -1,0 +1,36 @@
+# LVI-SAM 适配清单（W4c）
+system: lvisam
+algorithm_type: "factor-graph VIO + LIO"
+integration_level: "Level A (external supervisor, read-only topics)"
+source:
+  repository: "~/catkin_lvisam_ws/src/LVI-SAM"
+  commit: "0d822f6dcac3378312f6703b4f45829e049f221a"
+  changes:
+    - "OpenCV4/C++14 compatibility patch (7 files, 13 lines); no algorithmic change"
+    - "external point cloud converter and IMU orientation placeholder; no core edits"
+inputs:
+  image: "/r3live_hilti_adapter/image_out (injector select10 -> Hilti adapter, 10 Hz)"
+  lidar: "/lvisam/points (Hesai -> PointXYZIRT, ring 0-31, time relative seconds, rotated to IMU axes)"
+  imu: "/lvisam/imu (external converter fills zero quaternion with (0,0,0,1))"
+  odom: "/lvi_sam/lidar/mapping/odometry"
+decision:
+  location: "safety_supervisor (external)"
+  source: "safety_core ReliabilityMonitor"
+hold:
+  location: "/safety/odom (does not modify estimator output)"
+  default: true in W4b launch
+validated:
+  - "clean exp18: 538 odom/state/safety messages, all OK, hold=0"
+  - "converter smoke: point_step 24, ring 0-31, time 0.000001-0.100003 s"
+  - "dropout [30,35): hold1 548 state/safety, OK 521 / DEG 10 / UNK 17, hold_frames 17, hold_disp 0 m; hold0 556 state/safety, hold_frames 0, safety==raw by header"
+  - "rate dependence: 3 s dropout gives only 15 blind frames at ~5 Hz LIO, below 17 needed for UNKNOWN"
+evidence:
+  - "工程化/evidence/w4b/fix_imu1/"
+  - "工程化/evidence/w4b/converter_smoke.txt"
+  - "工程化/evidence/w4c/w4c_lvi_drop5_hold1_r1/"
+  - "工程化/evidence/w4c/w4c_lvi_drop5_hold0_r1/"
+  - "工程化/evidence/w4c/w4c_lvi_drop_hold1_r1/"
+gaps:
+  - "VINS reported 48 reboots; only LIO->supervisor publication chain is demonstrated"
+  - "n=2 per arm; recovery time highly variable (hold0 UNKNOWN 230 vs 18 frames)"
+  - "extrinsics/time field not validated by trajectory; IMU noise still placeholder"

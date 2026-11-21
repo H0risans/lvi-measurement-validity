@@ -1,0 +1,5 @@
+[0m[INFO] [1795080095.445752048]: Subscribing to /clock[0m
+[0m[INFO] [1795080095.448349704]: Subscribing to /lvi_sam/lidar/mapping/odometry[0m
+[0m[INFO] [1795080095.450391559]: Subscribing to /safety/odom[0m
+[0m[INFO] [1795080095.453527376]: Subscribing to /safety/state[0m
+[0m[INFO] [1795080096.844395784, 1649856227.623466000]: Recording to '/home/nano/experiments/w4b_20261119/runs/w4b_exp18_clean_hold_imu1/w4b_topics.bag'.[0m

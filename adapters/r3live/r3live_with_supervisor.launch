@@ -1,0 +1,49 @@
+<launch>
+  <!-- W4a: R3LIVE + external safety supervisor, launch/remap only.
+       No R3LIVE source change. The supervisor reads the image and LiDAR
+       messages that R3LIVE actually consumes, plus its /aft_mapped_to_init
+       odometry, and publishes /safety/state and /safety/odom.
+
+       Before a real run, calibrate lidar_p05/lidar_p50 on this system; the
+       defaults are Hilti/FAST-LIVO2 effective-constraint values and are only
+       placeholders. -->
+  <arg name="audit_path" />
+  <arg name="out_dir" default="$(env HOME)/r3live_output_w4a" />
+  <arg name="base_config" default="$(find r3live)/../config/r3live_config.yaml" />
+  <arg name="image_topic" default="/r3live_hilti_adapter/image_out" />
+  <!-- The adapter contract is "already selected/injected images"; the injector
+       below owns the 4:1 decimation (passthrough + select_stride=4). -->
+  <arg name="injected_image_topic" default="/fault_injector/image_raw" />
+  <arg name="injector_config" default="$(find camera_fault_injector)/config/hilti22_select10.yaml" />
+  <arg name="hold_output" default="true" />
+  <arg name="lidar_p05" default="55008.0" />
+  <arg name="lidar_p50" default="58931.0" />
+  <arg name="state_topic" default="/safety/state" />
+  <arg name="odom_out_topic" default="/safety/odom" />
+
+  <!-- Upstream decimation: the adapter must only ever see already-selected
+       10 Hz images (same contract as the P2 runs). -->
+  <include file="$(find camera_fault_injector)/launch/camera_fault_injector.launch">
+    <arg name="config" value="$(arg injector_config)" />
+    <arg name="fault_log_enable" value="false" />
+  </include>
+
+  <include file="$(find hilti_r3live_adapter)/launch/hilti_r3live.launch">
+    <arg name="audit_path" value="$(arg audit_path)" />
+    <arg name="out_dir" value="$(arg out_dir)" />
+    <arg name="base_config" value="$(arg base_config)" />
+    <arg name="image_topic" value="$(arg image_topic)" />
+    <arg name="injected_image_topic" value="$(arg injected_image_topic)" />
+  </include>
+
+  <node pkg="safety_supervisor" type="supervisor_node" name="safety_supervisor" output="screen">
+    <param name="image_topic" value="$(arg image_topic)" />
+    <param name="lidar_topic" value="/r3live_hilti_adapter/cloud_out" />
+    <param name="odom_topic" value="/aft_mapped_to_init" />
+    <param name="state_topic" value="$(arg state_topic)" />
+    <param name="odom_out_topic" value="$(arg odom_out_topic)" />
+    <param name="hold_output" value="$(arg hold_output)" />
+    <param name="lidar_p05" value="$(arg lidar_p05)" />
+    <param name="lidar_p50" value="$(arg lidar_p50)" />
+  </node>
+</launch>

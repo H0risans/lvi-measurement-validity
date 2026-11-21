@@ -1,0 +1,233 @@
+schema_version: 1
+generated: "2026-11-20T19:45:00+08:00"
+release: "safety_supervisor-0.3.2-w4c"
+scope: "W0-W3 plus W4a R3LIVE launch/remap, 10 Hz image chain, exp18 calibration and one clean run; W4b LVI-SAM build/adapter and one clean exp18 run; W4c three-LIVO adapter matrix, per-system manifests and 12-row degradation/hold validation (6 initial + 6 repeats, n=2); W5 packaged release with clean core/ROS build and offline W3 smoke"
+p0_budget_used: 17
+p0_total: "291/300"
+
+baseline:
+  fast_livo2:
+    repository: "~/catkin_ws/src/fast_livo"
+    commit: "916b3db29f6e0c8a9c70b8d189333fa359de7e58"
+    note: "adds optional SAFETY_HOLD_OUTPUT and SAFETY_LIDAR_P50; default off/default 1406.5"
+    binaries_sha256:
+      libvio.so: "1b2ad4b96ba6901f84e5d3d8d248942e215686526d7e9097ef378b3ce2575a52"
+      liblaser_mapping.so: "2746114fdf105a8b2eed6213d036895b939c7440e545d0c95fdbb905c14b03fa"
+      fastlivo_mapping: "938dbbf35fc5cf1d8880680538265ddc56f286db60a4263c36ce15b745dc5a51"
+  camera_fault_injector:
+    repository: "~/catkin_ws/src/camera_fault_injector"
+    commit: "5ade2ad327f820e7d12ea0b622d09de7ad5351c0"
+  r3live:
+    repository: "~/catkin_r3live_ws/src/r3live"
+    commit: "6143a38537f28cb36eb24e9bbe2e39c8f7967157"
+    note: "event/acceptance layer only; no safetyRelState / hold / safety_risk integration"
+
+configs:
+  hilti22_base:
+    path: "config/HILTI22.yaml"
+    sha256: "daeb30e2ebea970c650cc94281ed9f1903db3a2662f77faff595c704022c7f3d"
+  threshold_v2:
+    path: "第4-5章_判别与恢复/safety_thresholds_v2.txt"
+    sha256: "dc7b1d0a312cec1077596577802029d930f64a87871d33930b7a429f0ded3cec"
+  w16_source_of_truth:
+    path: "第4-5章_判别与恢复/m12_stage/safety_reliability.h"
+    upstream_sha256: "8fb1efc07a6ff785b3c618bf9528f017cd36bd32efdf3f58f7a82e08f218f93f"
+    copied_to: "safety_core/include/safety/reliability.h"
+    copied_sha256: "4415906ed1c6f6cea010b32809553bfadd7754e2f3a8fa8ca39efc58a0b0d9b2"
+
+datasets:
+  exp18_corridor_lower_gallery_2:
+    path: "/home/nano/datasets/HILTI22/exp18_corridor_lower_gallery_2.bag"
+    bytes: 8657654860
+    sha256: "98373b52f207b9ace3914792b5604a6642f89441190cabca6acbaf1d17249280"
+    note: "W4a R3LIVE clean run; 1094 LiDAR frames, 4376 images, 109.4 s"
+  exp15_attic_to_upper_gallery:
+    path: "/home/nano/datasets/HILTI22/exp15_attic_to_upper_gallery.bag"
+    bytes: 20302484455
+    sha256: "3489d7983699773c920d4680f192462d177b9957814c66c79a8d1237bf1ae84d"
+  m12e1_safety_csv:
+    path: "第4-5章_判别与恢复/m12_stage/m12e1_safety.csv"
+    sha256: "1c9a9b6a045af8d5652ebc1fac50c06f275174bf7c48f8d7fd1096c33b2de03d"
+    note: "recorded with the old p25 resume rule; W3 uses p50=67"
+  m12c1_safety_csv:
+    path: "第4-5章_判别与恢复/m12_stage/m12c1/m12c1_safety.csv"
+    sha256: "4f082a886fce2ba1fc1812366ef0f9803be91c57e20ae01d4c68432413df7699"
+    note: "recorded with v2 p50 rule"
+  m12r1_safety_csv:
+    path: "第4-5章_判别与恢复/m12_stage/m12r1_safety.csv"
+    sha256: "0f21d3bcfc64d2505c73f7896fe3db6f775975b0afec89420cf451f272de8b43"
+    note: "clean exp14 reference; no rel_state column"
+
+core:
+  language: "C++14"
+  dependencies: "C++ standard library only"
+  files:
+    include/safety/reliability.h: "4415906ed1c6f6cea010b32809553bfadd7754e2f3a8fa8ca39efc58a0b0d9b2"
+    include/safety/output_gate.h: "35c4ae1483ecb6a270555c8a9749700a2760d9b0208df4c5ebea61434827ed58"
+    include/safety/supervisor.h: "674321a45a8798003ebbc527830a2c690839cdff46bf0538d10e464a606f20c0"
+    src/output_gate.cpp: "ae8fbd06fc76db09629f233060fa65fad7a44f2af209886a47bc4f372999e83b"
+
+ros_adapter:
+  package: "safety_supervisor"
+  source: "safety_ros/src/supervisor_node.cpp"
+  source_sha256: "8352ecb4510a41f650cfc718158a2342a239899e8dc821eb90ecdbb61e751444"
+  topics_out:
+    state: "/safety/state"
+    odom: "/safety/odom"
+  tf: "none (by design; identity TF is not broadcast)"
+
+offline_equivalence:
+  tool: "tools/replay_w16.py"
+  tool_sha256: "62d44af2222ef0b60e2e4ab5ac7a259df5394d9be9aec41f0818af44d93267aa"
+  results:
+    - csv: "m12e1_safety.csv"
+      p50: 67.0
+      rows: 2480
+      mismatches: 0
+    - csv: "m12c1_safety.csv"
+      p50: 1406.5
+      rows: 2599
+      mismatches: 0
+    - csv: "m12r1_safety.csv"
+      p50: 1406.5
+      rows: 1336
+      non_ok: 0
+
+adapters:
+  r3live:
+    status: "clean exp18 run done: 1033 state/odom, all OK, hold=0; no degradation observed; 3 P0 total (2 technical-invalid launches + 1 valid run)"
+    launch: "adapters/r3live/r3live_with_supervisor.launch"
+    launch_sha256: "fd165c81537bb6531be5b9332302a5fc9aa7876065f3b4115d7e3503492d4be4"
+    check_tool: "adapters/r3live/check_w4a_launch.py"
+    check_tool_sha256: "7d07303e8a1d4127c109db824ed1949dd392cdb33afc69aaf136d9b2c60dd91f"
+    run_script: "adapters/r3live/run_w4a_bag.sh"
+    run_script_sha256: "ab38bf2c7bf4ede06dbd9525382b6550758ae2940c88947b55dc53e82b144093"
+    image_chain_test:
+      launch: "adapters/r3live/test_w4a_image_chain.launch"
+      launch_sha256: "9d38d8a168e173f9a98cb776d66cf59166da64bce9be4c35161f57c55a9f8319"
+      script: "adapters/r3live/run_w4a_image_chain_test.sh"
+      script_sha256: "d668bc62d3a8b507f4cccda0d11541cb6e871d7abb55ae6e45d610a6b80c6ae9"
+      result: "images=1094 clouds=1094; nearest image-cloud |dt| p50=6.1 ms p95=7.7 ms"
+      result_file: "evidence/w4a/image_chain_summary.txt"
+      result_file_sha256: "f968a8e98dd13404af6dd109719d27d9d4b28e4bf545131ef95d8e1bfdf21514"
+    calibration:
+      tool: "adapters/r3live/calibrate_w4a_lidar.sh"
+      tool_sha256: "09293c0490891fd7c7be5f83cfb225bf8e65d253fd306d7f50ad2bfc2c1557fc"
+      result_csv: "evidence/w4a/calibration_exp18.csv"
+      result_csv_sha256: "65c85644464d28dbe009792b547288d227c847609f42e4cc719a0b607515bddb"
+      bag: "exp18_corridor_lower_gallery_2"
+      frames: 1094
+      points:
+        p01: 53781
+        p05: 55008
+        p25: 56461
+        p50: 58931
+        p75: 61003
+        p95: 61790
+        p99: 62457
+        max: 63013
+      frozen_for_w4a:
+        lidar_p05: 55008
+        lidar_p50: 58931
+    topics:
+      image: "/r3live_hilti_adapter/image_out"
+      lidar: "/r3live_hilti_adapter/cloud_out"
+      odom: "/aft_mapped_to_init"
+      state_out: "/safety/state"
+      odom_out: "/safety/odom"
+    result:
+      tag: "w4a_exp18_clean_hold_fix1"
+      bag: "evidence/w4a/fix1/w4a_topics.bag"
+      run_json: "evidence/w4a/fix1/run.json"
+      state_counts: {OK: 1033}
+      hold_frames: 0
+      raw_odom: 1033
+      safety_odom: 1033
+      final_position: [-16.602989, 7.970427, -33.120181]
+      max_safety_vs_raw_m: 0.0
+      r3live_vio: {callback_received: 1094, state_update_executed: 1028, skipped: 6}
+      note: "all OK; clean exp18 did not exercise UNKNOWN/hold"
+    note: "Level-A only; R3LIVE source unchanged. lidar_p05/p50 from exp18 adapter cloud_out, not FAST-LIVO2's 14/1406.5."
+  lvisam:
+    status: "adapter built, 0 P0 validated; clean exp18 run completed with 538 LIO odom/state/safety messages, all OK, hold=0; VINS rebooted 48 times; no trajectory accuracy claim"
+    source:
+      repository: "~/catkin_lvisam_ws/src/LVI-SAM"
+      commit: "0d822f6dcac3378312f6703b4f45829e049f221a"
+      patch: "adapters/lvisam/patches/opencv4_cxx14.patch"
+      patch_sha256: "5d54406b42c9d1fac5b3efa0601f827529e23787f6f51c164224cf1239bb7f20"
+      note: "OpenCV4 includes/enums and C++14; no algorithmic change"
+    package: "adapters/lvisam/ros/hilti_lvisam_adapter"
+    files:
+      package.xml: "9ebf92638f72398a6c5408d5e7902d8af3e7f68c331bcb1f938c06052648da3c"
+      CMakeLists.txt: "46410579219784bbcdef8f2e75c7ea03472e9b85460adb9a78bd3d295536c186"
+      scripts/point_cloud_converter.py: "6994687f26f0bf0ecc9b5745341c30092b642c5997a062fb1c4a1c625cbb855b"
+      scripts/imu_converter.py: "7a8ef8601a17c63c62f093b1583f4aa1c37a87550e91e6cb847ffbd76a248264"
+      launch/hilti_lvisam_cloud.launch: "c2b843232bd2a740fd9471a42aaa94f87bf8b1092613cfae3ca87a256d5b5be4"
+      launch/lvisam_hilti.launch: "492c0ee309a90ff9dad688b16474e1d5ad7e6191ef29ebac9766436e470b4865"
+      launch/lvisam_hilti_stack.launch: "768b34534b4975dd9f29ff57609b6fac509f1407c9e370902b8bed18349bfadf"
+      config/params_lidar_hilti.yaml: "9572fc31148cb2e7ffa820380dd302d785eb42d9fe0420213eff5d547464edb1"
+      config/params_camera_hilti.yaml: "070fc313b711f6a3d057666fe45ab8ab9b8b3c11f505f18fe73919767b06beef"
+      run_w4b_bag.sh: "5e6aaa11b73cab6e0c6a4a9a939b1f833a5b7ab7b39b52f906f8f4f1c4a25cd2"
+      summarize_w4b.py: "5cab706201e3fca46f721cd9186176c7fa84006dafb67af0a3d5cc7fce066f44"
+    check_tool: "adapters/lvisam/check_w4b_launch.py"
+    check_tool_sha256: "aa362a4a22f61cce7899f5e70274db2927744653dec167192e43f4083b8689f6"
+    topics:
+      image: "/r3live_hilti_adapter/image_out"
+      lidar: "/lvisam/points"
+      odom: "/lvi_sam/lidar/mapping/odometry"
+      state_out: "/safety/state"
+      odom_out: "/safety/odom"
+    config:
+      lidar: "N_SCAN=32, Horizon_SCAN=1800, loopClosureEnableFlag=false"
+      camera: "PINHOLE 720x540, zero distortion, R_IC/t_IC from Hilti adapter"
+      extrinsic_trans: [-0.001, -0.00855, 0.055]
+      note: "points are rotated to IMU axes by the converter; translation is applied once via extrinsicTrans"
+    validation:
+      build: "catkin_make -j4 succeeded; seven lvi_sam_* binaries"
+      launch_files: "evidence/w4b/launch_check.txt"
+      static_check: "PASS; evidence/w4b/static_check.txt"
+      converter_smoke: "3 messages, width 60976/60965, point_step 24, ring 0-31, time 0.000001-0.100003 s; evidence/w4b/converter_smoke.txt"
+    result: "clean exp18 run w4b_exp18_clean_hold_imu1: odom/state/safety_odom=538/538/538, all OK, hold=0, run.json done/valid/exit 0; 2 P0 total (1 IMU technical-invalid + 1 valid)"
+    note: "LIO output only; VINS had 48 failure-detection/reboot events, so do not claim visual-inertial stability or accuracy. Supervisor lidar_p05/p50 are R3LIVE point-count values, not LVI-SAM's frontend metric."
+
+w4c:
+  matrix: "ADAPTERS.md"
+  manifests:
+    fast_livo2: "manifests/fast_livo2.yaml"
+    r3live: "manifests/r3live.yaml"
+    lvisam: "manifests/lvisam.yaml"
+  files:
+    ADAPTERS.md: "00a31da4ed11ab6acc2266334d7f37cf78c2142c7eb273bb4b534f9dd59ac344"
+    manifests/fast_livo2.yaml: "0f7e0c8821125a4f0820ff5d7715c1a8b19552a2dd469cfd6300370362650527"
+    manifests/r3live.yaml: "48d24c16ec5e00196f21ad0f0e1d793265a73a8a218e07840439e041afae7b52"
+    manifests/lvisam.yaml: "4f130334ea8cf72b4f1cb13e96797d290073e5a7a5773b2257e69b327ff786f4"
+    W4c_退化段记录_20261119.md: "692fc9a56615e23b9ce013bee06de09bda33a1ce626ad9c0a88a691a7b9651ce"
+    adapters/common/summarize_degradation.py: "c73ee329f868b60ff6272ac88229d77ad6887c9f76e3400a439686c292dd45ff"
+    adapters/common/inject_drop_30_33.yaml: "7183dfbab72ef6fef3259e83358ab6586213f08770bbd83a10f4acc7ca7f16ae"
+    adapters/common/inject_drop_30_35.yaml: "8b1a3b94c162495ef99684df276cbe73e3d95b35c289b036daed783cd8ef2df0"
+  status: "complete; three systems mapped; R3LIVE and LVI-SAM degradation/hold behavior verified in 12 P0 (6 initial + 6 repeats; 2 repeat rows technical-invalid); n=2 per arm; hold freeze reproduced, but UNKNOWN duration/envelope vary widely"
+  degradation_record: "W4c_退化段记录_20261119.md"
+  degradation:
+    r3live:
+      dropout: "3 s [30,33)"
+      hold1: "r1f: 1121 state/safety, OK 987 / DEG 10 / UNK 124, hold 124, env 43.34 m; r2b: 1121, OK 1055 / DEG 10 / UNK 56, hold 56, env 52.85 m"
+      hold0: "r1: UNK 124, env 39.81 m; r2: UNK 58, env 78.82 m; hold 0, safety==raw by header"
+      note: "estimator stops odom during dropout; supervisor 10 Hz timer required"
+    lvisam:
+      dropout: "5 s [30,35)"
+      hold1: "r1: 548 state/safety, OK 521 / DEG 10 / UNK 17, hold 17, env 173.88 m; r2b: 552, OK 524 / DEG 10 / UNK 18, hold 18, env 335.48 m"
+      hold0: "r1: UNK 230, env 469.59 m; r2: UNK 18, env 557.07 m; hold 0, safety==raw by header"
+      invalid_3s: "w4c_lvi_drop_hold1_r1: only 15 blind frames at ~5 Hz LIO, below 17 needed for UNKNOWN; rate dependence"
+
+w5:
+  status: "packaged separately; tar hash and clean-build evidence live in the outer release record, not inside this manifest"
+
+notes:
+  - "W0-W3 started no estimator (274/280). W4a started R3LIVE three times: two technical-invalid launches and one valid clean exp18 run; total after W4a 277/280."
+  - "W4b started LVI-SAM twice: first invalid due to zero-quaternion 6-axis IMU (1 P0), second valid after an external IMU converter (1 P0)."
+  - "W4c first round started R3LIVE and LVI-SAM six times: R3LIVE hold1 pilot invalid (odom stopped with images), R3LIVE hold1/hold0 valid after a 10 Hz supervisor timer, LVI-SAM 3 s hold1 invalid (only 15 blind frames at ~5 Hz LIO), LVI-SAM 5 s hold1/hold0 valid. Repeat round: R3 hold1 r2 invalid (stale Xvfb) + r2b valid; R3 hold0 r2 valid; LVI hold1 r2 invalid (wrong 3 s config) + r2b valid; LVI hold0 r2 valid. Total now 291/300; 9 P0 left (D 1 + G 8)."
+  - "W4b clean exp18: 538 LIO odom/state/safety-odom messages, all OK, hold=0; VINS rebooted 48 times, so this validates Level-A LIO->supervisor wiring/recording only, not VINS stability, accuracy, abstention or recovery gain."
+  - "W4a clean run is all OK, so it validates Level-A wiring/recording, not UNKNOWN abstention, accuracy, recovery gain or real-time performance."
+  - "Level-A LiDAR counts must be re-calibrated per system; 14/1406.5 are Hilti/FAST-LIVO2 effective-constraint values."
+  - "W5 packaging is recorded in the outer release record; this manifest describes the 0.3.2-w4c snapshot contents and the pre-packaging P0 ledger."
+  - "The optional output hold is default-off and never writes back into the estimator."

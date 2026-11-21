@@ -1,0 +1,6 @@
+w4c_lvi_drop5_hold1_r2: invalid
+counts: odom=538 safety=551 state=551
+state_counts: {"DEGRADED": 27, "OK": 524}
+first DEGRADED=1649856259.182 UNKNOWN=None OK_after=None
+hold_frames=0 hold_disp=0 m raw_env=165.644 safety_env=165.644
+invalid_reasons=no_UNKNOWN,hold_arm_has_no_hold

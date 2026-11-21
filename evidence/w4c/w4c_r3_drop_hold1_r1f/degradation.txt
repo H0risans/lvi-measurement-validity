@@ -1,0 +1,6 @@
+w4c_r3_drop_hold1_r1f: done
+counts: odom=1092 safety=1121 state=1121
+state_counts: {"DEGRADED": 10, "OK": 987, "UNKNOWN": 124}
+first DEGRADED=1649856258.526 UNKNOWN=1649856259.531 OK_after=1649856268.888
+hold_frames=124 hold_disp=0 m raw_env=43.3399 safety_env=43.3399
+invalid_reasons=

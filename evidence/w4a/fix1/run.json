@@ -1,0 +1,41 @@
+{
+  "bag": "/home/nano/experiments/w4a_20261119/runs/w4a_exp18_clean_hold_fix1/w4a_topics.bag",
+  "bag_bytes": 8657654860,
+  "bag_sha256": "98373b52f207b9ace3914792b5604a6642f89441190cabca6acbaf1d17249280",
+  "counts": {
+    "raw_odom": 1033,
+    "safety_odom": 1033,
+    "state": 1033
+  },
+  "exit_code": 0,
+  "final_raw_odom": [
+    -16.602989256444534,
+    7.970427275426587,
+    -33.12018138109382
+  ],
+  "final_safety_odom": [
+    -16.602989256444534,
+    7.970427275426587,
+    -33.12018138109382
+  ],
+  "hold_frames": 0,
+  "hold_output": true,
+  "invalid_reasons": [],
+  "lidar_p05": 55008.0,
+  "lidar_p50": 58931.0,
+  "play_exit": 0,
+  "settle_timeout": 0,
+  "start_utc": "2026-11-18T14:40:00Z",
+  "state_counts": {
+    "OK": 1033
+  },
+  "status": "done",
+  "tag": "w4a_exp18_clean_hold_fix1",
+  "transitions": [
+    {
+      "state": "OK",
+      "t": 1649856227.951766
+    }
+  ],
+  "valid": true
+}

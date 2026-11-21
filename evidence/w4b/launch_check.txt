@@ -1,0 +1,3 @@
+/home/nano/catkin_lvisam_ws/src/hilti_lvisam_adapter/launch/lvisam_hilti_stack.launch
+/home/nano/catkin_lvisam_ws/src/hilti_lvisam_adapter/launch/hilti_lvisam_cloud.launch
+/home/nano/catkin_lvisam_ws/src/hilti_lvisam_adapter/launch/lvisam_hilti.launch

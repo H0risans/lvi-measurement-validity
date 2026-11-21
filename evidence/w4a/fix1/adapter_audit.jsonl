@@ -1,0 +1,2188 @@
+{"kind": "cloud", "stamp_ns": 1649856227623466000, "points": 60976, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856227717628920, "seq": 1}
+{"kind": "cloud", "stamp_ns": 1649856227723471000, "points": 60965, "last_ms": 100.00896453857422}
+{"kind": "image", "stamp_ns": 1649856227817622820, "seq": 2}
+{"kind": "cloud", "stamp_ns": 1649856227823482000, "points": 60925, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856227917616620, "seq": 3}
+{"kind": "cloud", "stamp_ns": 1649856227923487000, "points": 60952, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856228017610420, "seq": 4}
+{"kind": "cloud", "stamp_ns": 1649856228023488000, "points": 60953, "last_ms": 99.99298858642578}
+{"kind": "image", "stamp_ns": 1649856228117604320, "seq": 5}
+{"kind": "cloud", "stamp_ns": 1649856228123483000, "points": 60947, "last_ms": 99.98798370361328}
+{"kind": "image", "stamp_ns": 1649856228217598020, "seq": 6}
+{"kind": "cloud", "stamp_ns": 1649856228223474000, "points": 60982, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856228317591920, "seq": 7}
+{"kind": "cloud", "stamp_ns": 1649856228323477000, "points": 60990, "last_ms": 100.01182556152344}
+{"kind": "image", "stamp_ns": 1649856228417585720, "seq": 8}
+{"kind": "cloud", "stamp_ns": 1649856228423491000, "points": 60946, "last_ms": 100.02183532714844}
+{"kind": "image", "stamp_ns": 1649856228517579520, "seq": 9}
+{"kind": "cloud", "stamp_ns": 1649856228523515000, "points": 60944, "last_ms": 100.02803802490234}
+{"kind": "image", "stamp_ns": 1649856228617573420, "seq": 10}
+{"kind": "cloud", "stamp_ns": 1649856228623545000, "points": 60958, "last_ms": 99.99800109863281}
+{"kind": "image", "stamp_ns": 1649856228717567220, "seq": 11}
+{"kind": "cloud", "stamp_ns": 1649856228723545000, "points": 60942, "last_ms": 99.98178100585938}
+{"kind": "image", "stamp_ns": 1649856228817561120, "seq": 12}
+{"kind": "cloud", "stamp_ns": 1649856228823529000, "points": 60928, "last_ms": 99.97987365722656}
+{"kind": "image", "stamp_ns": 1649856228917554920, "seq": 13}
+{"kind": "cloud", "stamp_ns": 1649856228923511000, "points": 60931, "last_ms": 99.97200775146484}
+{"kind": "image", "stamp_ns": 1649856229017548620, "seq": 14}
+{"kind": "cloud", "stamp_ns": 1649856229023485000, "points": 60957, "last_ms": 99.97892761230469}
+{"kind": "image", "stamp_ns": 1649856229117542520, "seq": 15}
+{"kind": "cloud", "stamp_ns": 1649856229123466000, "points": 60937, "last_ms": 99.97486877441406}
+{"kind": "image", "stamp_ns": 1649856229217536320, "seq": 16}
+{"kind": "cloud", "stamp_ns": 1649856229223443000, "points": 60934, "last_ms": 99.97391510009766}
+{"kind": "image", "stamp_ns": 1649856229317530220, "seq": 17}
+{"kind": "cloud", "stamp_ns": 1649856229323418000, "points": 60939, "last_ms": 99.97200775146484}
+{"kind": "image", "stamp_ns": 1649856229417524020, "seq": 18}
+{"kind": "cloud", "stamp_ns": 1649856229423393000, "points": 60961, "last_ms": 99.96795654296875}
+{"kind": "image", "stamp_ns": 1649856229517517820, "seq": 19}
+{"kind": "cloud", "stamp_ns": 1649856229523364000, "points": 60913, "last_ms": 99.98774719238281}
+{"kind": "image", "stamp_ns": 1649856229617511720, "seq": 20}
+{"kind": "cloud", "stamp_ns": 1649856229623354000, "points": 60981, "last_ms": 100.00801086425781}
+{"kind": "image", "stamp_ns": 1649856229717505420, "seq": 21}
+{"kind": "cloud", "stamp_ns": 1649856229723365000, "points": 60940, "last_ms": 100.01587677001953}
+{"kind": "image", "stamp_ns": 1649856229817499320, "seq": 22}
+{"kind": "cloud", "stamp_ns": 1649856229823382000, "points": 60952, "last_ms": 100.0111083984375}
+{"kind": "image", "stamp_ns": 1649856229917493120, "seq": 23}
+{"kind": "cloud", "stamp_ns": 1649856229923395000, "points": 60967, "last_ms": 100.0111083984375}
+{"kind": "image", "stamp_ns": 1649856230017486920, "seq": 24}
+{"kind": "cloud", "stamp_ns": 1649856230023408000, "points": 61029, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856230117480820, "seq": 25}
+{"kind": "cloud", "stamp_ns": 1649856230123410000, "points": 61008, "last_ms": 100.0020523071289}
+{"kind": "image", "stamp_ns": 1649856230217474620, "seq": 26}
+{"kind": "cloud", "stamp_ns": 1649856230223413000, "points": 60967, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856230317466627, "seq": 27}
+{"kind": "cloud", "stamp_ns": 1649856230323421000, "points": 61012, "last_ms": 100.00991821289062}
+{"kind": "image", "stamp_ns": 1649856230417460327, "seq": 28}
+{"kind": "cloud", "stamp_ns": 1649856230423434000, "points": 61006, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856230517454127, "seq": 29}
+{"kind": "cloud", "stamp_ns": 1649856230523439000, "points": 60984, "last_ms": 99.99203491210938}
+{"kind": "image", "stamp_ns": 1649856230617447927, "seq": 30}
+{"kind": "cloud", "stamp_ns": 1649856230623434000, "points": 60958, "last_ms": 99.9808349609375}
+{"kind": "image", "stamp_ns": 1649856230717441727, "seq": 31}
+{"kind": "cloud", "stamp_ns": 1649856230723418000, "points": 60994, "last_ms": 99.9848861694336}
+{"kind": "image", "stamp_ns": 1649856230817435527, "seq": 32}
+{"kind": "cloud", "stamp_ns": 1649856230823405000, "points": 61002, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856230917429327, "seq": 33}
+{"kind": "cloud", "stamp_ns": 1649856230923408000, "points": 61031, "last_ms": 100.01396942138672}
+{"kind": "image", "stamp_ns": 1649856231017423027, "seq": 34}
+{"kind": "cloud", "stamp_ns": 1649856231023424000, "points": 61016, "last_ms": 100.00801086425781}
+{"kind": "image", "stamp_ns": 1649856231117416927, "seq": 35}
+{"kind": "cloud", "stamp_ns": 1649856231123435000, "points": 61055, "last_ms": 99.99800109863281}
+{"kind": "image", "stamp_ns": 1649856231217410627, "seq": 36}
+{"kind": "cloud", "stamp_ns": 1649856231223435000, "points": 61093, "last_ms": 99.97105407714844}
+{"kind": "image", "stamp_ns": 1649856231317404427, "seq": 37}
+{"kind": "cloud", "stamp_ns": 1649856231323409000, "points": 61026, "last_ms": 99.95889282226562}
+{"kind": "image", "stamp_ns": 1649856231417398227, "seq": 38}
+{"kind": "cloud", "stamp_ns": 1649856231423369000, "points": 61058, "last_ms": 99.97605895996094}
+{"kind": "image", "stamp_ns": 1649856231517391927, "seq": 39}
+{"kind": "cloud", "stamp_ns": 1649856231523347000, "points": 61017, "last_ms": 99.99513244628906}
+{"kind": "image", "stamp_ns": 1649856231617385827, "seq": 40}
+{"kind": "cloud", "stamp_ns": 1649856231623344000, "points": 61056, "last_ms": 99.99108123779297}
+{"kind": "image", "stamp_ns": 1649856231717379527, "seq": 41}
+{"kind": "cloud", "stamp_ns": 1649856231723337000, "points": 61096, "last_ms": 99.98202514648438}
+{"kind": "image", "stamp_ns": 1649856231817373427, "seq": 42}
+{"kind": "cloud", "stamp_ns": 1649856231823322000, "points": 61080, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856231917367127, "seq": 43}
+{"kind": "cloud", "stamp_ns": 1649856231923326000, "points": 61071, "last_ms": 99.9948959350586}
+{"kind": "image", "stamp_ns": 1649856232017360927, "seq": 44}
+{"kind": "cloud", "stamp_ns": 1649856232023323000, "points": 61023, "last_ms": 99.9808349609375}
+{"kind": "image", "stamp_ns": 1649856232117354727, "seq": 45}
+{"kind": "cloud", "stamp_ns": 1649856232123306000, "points": 61019, "last_ms": 99.97892761230469}
+{"kind": "image", "stamp_ns": 1649856232217348427, "seq": 46}
+{"kind": "cloud", "stamp_ns": 1649856232223288000, "points": 61077, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856232317342327, "seq": 47}
+{"kind": "cloud", "stamp_ns": 1649856232323292000, "points": 61060, "last_ms": 100.00682067871094}
+{"kind": "image", "stamp_ns": 1649856232417336027, "seq": 48}
+{"kind": "cloud", "stamp_ns": 1649856232423301000, "points": 61008, "last_ms": 99.99298858642578}
+{"kind": "image", "stamp_ns": 1649856232517329827, "seq": 49}
+{"kind": "cloud", "stamp_ns": 1649856232523297000, "points": 61029, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856232617323627, "seq": 50}
+{"kind": "cloud", "stamp_ns": 1649856232623298000, "points": 61058, "last_ms": 99.98798370361328}
+{"kind": "image", "stamp_ns": 1649856232717317427, "seq": 51}
+{"kind": "cloud", "stamp_ns": 1649856232723288000, "points": 61059, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856232817311227, "seq": 52}
+{"kind": "cloud", "stamp_ns": 1649856232823281000, "points": 61017, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856232917305027, "seq": 53}
+{"kind": "cloud", "stamp_ns": 1649856232923290000, "points": 61039, "last_ms": 100.01301574707031}
+{"kind": "image", "stamp_ns": 1649856233017298727, "seq": 54}
+{"kind": "cloud", "stamp_ns": 1649856233023304000, "points": 61034, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856233117292627, "seq": 55}
+{"kind": "cloud", "stamp_ns": 1649856233123311000, "points": 61048, "last_ms": 99.9917984008789}
+{"kind": "image", "stamp_ns": 1649856233217286327, "seq": 56}
+{"kind": "cloud", "stamp_ns": 1649856233223305000, "points": 61056, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856233317280127, "seq": 57}
+{"kind": "cloud", "stamp_ns": 1649856233323292000, "points": 61054, "last_ms": 99.98703002929688}
+{"kind": "image", "stamp_ns": 1649856233417273927, "seq": 58}
+{"kind": "cloud", "stamp_ns": 1649856233423281000, "points": 61024, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856233517267627, "seq": 59}
+{"kind": "cloud", "stamp_ns": 1649856233523283000, "points": 61043, "last_ms": 100.02183532714844}
+{"kind": "image", "stamp_ns": 1649856233617261527, "seq": 60}
+{"kind": "cloud", "stamp_ns": 1649856233623306000, "points": 60972, "last_ms": 100.03089904785156}
+{"kind": "image", "stamp_ns": 1649856233717255227, "seq": 61}
+{"kind": "cloud", "stamp_ns": 1649856233723340000, "points": 60888, "last_ms": 100.00395965576172}
+{"kind": "image", "stamp_ns": 1649856233817249127, "seq": 62}
+{"kind": "cloud", "stamp_ns": 1649856233823345000, "points": 60892, "last_ms": 99.96390533447266}
+{"kind": "image", "stamp_ns": 1649856233917242827, "seq": 63}
+{"kind": "cloud", "stamp_ns": 1649856233923311000, "points": 60852, "last_ms": 99.9410171508789}
+{"kind": "image", "stamp_ns": 1649856234017236627, "seq": 64}
+{"kind": "cloud", "stamp_ns": 1649856234023253000, "points": 60917, "last_ms": 99.94387817382812}
+{"kind": "image", "stamp_ns": 1649856234117230427, "seq": 65}
+{"kind": "cloud", "stamp_ns": 1649856234123198000, "points": 60911, "last_ms": 99.96295166015625}
+{"kind": "image", "stamp_ns": 1649856234217224127, "seq": 66}
+{"kind": "cloud", "stamp_ns": 1649856234223162000, "points": 60976, "last_ms": 99.97511291503906}
+{"kind": "image", "stamp_ns": 1649856234317218027, "seq": 67}
+{"kind": "cloud", "stamp_ns": 1649856234323138000, "points": 61030, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856234417211727, "seq": 68}
+{"kind": "cloud", "stamp_ns": 1649856234423130000, "points": 61026, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856234517205527, "seq": 69}
+{"kind": "cloud", "stamp_ns": 1649856234523135000, "points": 61118, "last_ms": 99.98893737792969}
+{"kind": "image", "stamp_ns": 1649856234617199327, "seq": 70}
+{"kind": "cloud", "stamp_ns": 1649856234623126000, "points": 61099, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856234717193127, "seq": 71}
+{"kind": "cloud", "stamp_ns": 1649856234723114000, "points": 61096, "last_ms": 99.98297882080078}
+{"kind": "image", "stamp_ns": 1649856234817186927, "seq": 72}
+{"kind": "cloud", "stamp_ns": 1649856234823099000, "points": 61121, "last_ms": 99.98703002929688}
+{"kind": "image", "stamp_ns": 1649856234917180727, "seq": 73}
+{"kind": "cloud", "stamp_ns": 1649856234923089000, "points": 61091, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856235017174427, "seq": 74}
+{"kind": "cloud", "stamp_ns": 1649856235023076000, "points": 61019, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856235117168227, "seq": 75}
+{"kind": "cloud", "stamp_ns": 1649856235123077000, "points": 61044, "last_ms": 100.006103515625}
+{"kind": "image", "stamp_ns": 1649856235217162027, "seq": 76}
+{"kind": "cloud", "stamp_ns": 1649856235223085000, "points": 61052, "last_ms": 100.00896453857422}
+{"kind": "image", "stamp_ns": 1649856235317155827, "seq": 77}
+{"kind": "cloud", "stamp_ns": 1649856235323096000, "points": 61061, "last_ms": 100.01182556152344}
+{"kind": "image", "stamp_ns": 1649856235417149627, "seq": 78}
+{"kind": "cloud", "stamp_ns": 1649856235423110000, "points": 61034, "last_ms": 100.01802062988281}
+{"kind": "image", "stamp_ns": 1649856235517143327, "seq": 79}
+{"kind": "cloud", "stamp_ns": 1649856235523130000, "points": 61070, "last_ms": 100.01587677001953}
+{"kind": "image", "stamp_ns": 1649856235617137227, "seq": 80}
+{"kind": "cloud", "stamp_ns": 1649856235623148000, "points": 61050, "last_ms": 100.00491333007812}
+{"kind": "image", "stamp_ns": 1649856235717130927, "seq": 81}
+{"kind": "cloud", "stamp_ns": 1649856235723155000, "points": 61054, "last_ms": 99.99394226074219}
+{"kind": "image", "stamp_ns": 1649856235817124827, "seq": 82}
+{"kind": "cloud", "stamp_ns": 1649856235823152000, "points": 61040, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856235917118527, "seq": 83}
+{"kind": "cloud", "stamp_ns": 1649856235923155000, "points": 61088, "last_ms": 99.99275207519531}
+{"kind": "image", "stamp_ns": 1649856236017112227, "seq": 84}
+{"kind": "cloud", "stamp_ns": 1649856236023149000, "points": 61080, "last_ms": 99.99394226074219}
+{"kind": "image", "stamp_ns": 1649856236117106127, "seq": 85}
+{"kind": "cloud", "stamp_ns": 1649856236123146000, "points": 61075, "last_ms": 99.9848861694336}
+{"kind": "image", "stamp_ns": 1649856236217099827, "seq": 86}
+{"kind": "cloud", "stamp_ns": 1649856236223132000, "points": 61058, "last_ms": 99.99394226074219}
+{"kind": "image", "stamp_ns": 1649856236317095732, "seq": 87}
+{"kind": "cloud", "stamp_ns": 1649856236323127000, "points": 61032, "last_ms": 99.9917984008789}
+{"kind": "image", "stamp_ns": 1649856236417089432, "seq": 88}
+{"kind": "cloud", "stamp_ns": 1649856236423121000, "points": 61060, "last_ms": 99.98202514648438}
+{"kind": "image", "stamp_ns": 1649856236517083232, "seq": 89}
+{"kind": "cloud", "stamp_ns": 1649856236523105000, "points": 61056, "last_ms": 99.98107147216797}
+{"kind": "image", "stamp_ns": 1649856236617077032, "seq": 90}
+{"kind": "cloud", "stamp_ns": 1649856236623087000, "points": 61041, "last_ms": 100.0010986328125}
+{"kind": "image", "stamp_ns": 1649856236717070832, "seq": 91}
+{"kind": "cloud", "stamp_ns": 1649856236723090000, "points": 61097, "last_ms": 100.0070571899414}
+{"kind": "image", "stamp_ns": 1649856236817064632, "seq": 92}
+{"kind": "cloud", "stamp_ns": 1649856236823098000, "points": 61056, "last_ms": 100.01492309570312}
+{"kind": "image", "stamp_ns": 1649856236917058332, "seq": 93}
+{"kind": "cloud", "stamp_ns": 1649856236923115000, "points": 60980, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856237017052132, "seq": 94}
+{"kind": "cloud", "stamp_ns": 1649856237023120000, "points": 61067, "last_ms": 99.98607635498047}
+{"kind": "image", "stamp_ns": 1649856237117045932, "seq": 95}
+{"kind": "cloud", "stamp_ns": 1649856237123107000, "points": 61041, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856237217039732, "seq": 96}
+{"kind": "cloud", "stamp_ns": 1649856237223093000, "points": 61059, "last_ms": 99.98798370361328}
+{"kind": "image", "stamp_ns": 1649856237317033532, "seq": 97}
+{"kind": "cloud", "stamp_ns": 1649856237323082000, "points": 61093, "last_ms": 99.99394226074219}
+{"kind": "image", "stamp_ns": 1649856237417027332, "seq": 98}
+{"kind": "cloud", "stamp_ns": 1649856237423078000, "points": 61073, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856237517021032, "seq": 99}
+{"kind": "cloud", "stamp_ns": 1649856237523086000, "points": 61018, "last_ms": 100.00491333007812}
+{"kind": "image", "stamp_ns": 1649856237617014932, "seq": 100}
+{"kind": "cloud", "stamp_ns": 1649856237623093000, "points": 61075, "last_ms": 99.99800109863281}
+{"kind": "image", "stamp_ns": 1649856237717008632, "seq": 101}
+{"kind": "cloud", "stamp_ns": 1649856237723093000, "points": 61090, "last_ms": 99.9808349609375}
+{"kind": "image", "stamp_ns": 1649856237817002432, "seq": 102}
+{"kind": "cloud", "stamp_ns": 1649856237823076000, "points": 61060, "last_ms": 99.96390533447266}
+{"kind": "image", "stamp_ns": 1649856237916996232, "seq": 103}
+{"kind": "cloud", "stamp_ns": 1649856237923043000, "points": 61083, "last_ms": 99.98202514648438}
+{"kind": "image", "stamp_ns": 1649856238016989932, "seq": 104}
+{"kind": "cloud", "stamp_ns": 1649856238023027000, "points": 61077, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856238116983832, "seq": 105}
+{"kind": "cloud", "stamp_ns": 1649856238123028000, "points": 61015, "last_ms": 100.02589416503906}
+{"kind": "image", "stamp_ns": 1649856238216977532, "seq": 106}
+{"kind": "cloud", "stamp_ns": 1649856238223056000, "points": 61063, "last_ms": 100.02374267578125}
+{"kind": "image", "stamp_ns": 1649856238316971432, "seq": 107}
+{"kind": "cloud", "stamp_ns": 1649856238323082000, "points": 60949, "last_ms": 99.99703979492188}
+{"kind": "image", "stamp_ns": 1649856238416965132, "seq": 108}
+{"kind": "cloud", "stamp_ns": 1649856238423081000, "points": 60934, "last_ms": 99.99394226074219}
+{"kind": "image", "stamp_ns": 1649856238516958932, "seq": 109}
+{"kind": "cloud", "stamp_ns": 1649856238523077000, "points": 61018, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856238616952732, "seq": 110}
+{"kind": "cloud", "stamp_ns": 1649856238623064000, "points": 61012, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856238716946432, "seq": 111}
+{"kind": "cloud", "stamp_ns": 1649856238723057000, "points": 61025, "last_ms": 99.97987365722656}
+{"kind": "image", "stamp_ns": 1649856238816940332, "seq": 112}
+{"kind": "cloud", "stamp_ns": 1649856238823040000, "points": 60982, "last_ms": 99.97702026367188}
+{"kind": "image", "stamp_ns": 1649856238916934032, "seq": 113}
+{"kind": "cloud", "stamp_ns": 1649856238923018000, "points": 61112, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856239016927832, "seq": 114}
+{"kind": "cloud", "stamp_ns": 1649856239023005000, "points": 61251, "last_ms": 99.97702026367188}
+{"kind": "image", "stamp_ns": 1649856239116921632, "seq": 115}
+{"kind": "cloud", "stamp_ns": 1649856239122984000, "points": 61275, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856239216915432, "seq": 116}
+{"kind": "cloud", "stamp_ns": 1649856239222976000, "points": 61329, "last_ms": 99.9848861694336}
+{"kind": "image", "stamp_ns": 1649856239316909232, "seq": 117}
+{"kind": "cloud", "stamp_ns": 1649856239322962000, "points": 61338, "last_ms": 100.00682067871094}
+{"kind": "image", "stamp_ns": 1649856239416903032, "seq": 118}
+{"kind": "cloud", "stamp_ns": 1649856239422971000, "points": 61412, "last_ms": 99.9968032836914}
+{"kind": "image", "stamp_ns": 1649856239516896732, "seq": 119}
+{"kind": "cloud", "stamp_ns": 1649856239522970000, "points": 61382, "last_ms": 99.99203491210938}
+{"kind": "image", "stamp_ns": 1649856239616890532, "seq": 120}
+{"kind": "cloud", "stamp_ns": 1649856239622964000, "points": 61397, "last_ms": 99.99298858642578}
+{"kind": "image", "stamp_ns": 1649856239716884332, "seq": 121}
+{"kind": "cloud", "stamp_ns": 1649856239722959000, "points": 61398, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856239816878132, "seq": 122}
+{"kind": "cloud", "stamp_ns": 1649856239822946000, "points": 61397, "last_ms": 99.9948959350586}
+{"kind": "image", "stamp_ns": 1649856239916871932, "seq": 123}
+{"kind": "cloud", "stamp_ns": 1649856239922944000, "points": 61383, "last_ms": 100.02374267578125}
+{"kind": "image", "stamp_ns": 1649856240016865632, "seq": 124}
+{"kind": "cloud", "stamp_ns": 1649856240022971000, "points": 61332, "last_ms": 100.08406829833984}
+{"kind": "image", "stamp_ns": 1649856240116859532, "seq": 125}
+{"kind": "cloud", "stamp_ns": 1649856240123058000, "points": 61312, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856240216853232, "seq": 126}
+{"kind": "cloud", "stamp_ns": 1649856240223065000, "points": 61343, "last_ms": 99.78794860839844}
+{"kind": "image", "stamp_ns": 1649856240316848012, "seq": 127}
+{"kind": "cloud", "stamp_ns": 1649856240322854000, "points": 61371, "last_ms": 99.68781280517578}
+{"kind": "image", "stamp_ns": 1649856240416841812, "seq": 128}
+{"kind": "cloud", "stamp_ns": 1649856240422544000, "points": 61145, "last_ms": 100.09884643554688}
+{"kind": "image", "stamp_ns": 1649856240516835612, "seq": 129}
+{"kind": "cloud", "stamp_ns": 1649856240522645000, "points": 61225, "last_ms": 99.88784790039062}
+{"kind": "image", "stamp_ns": 1649856240616829512, "seq": 130}
+{"kind": "cloud", "stamp_ns": 1649856240622534000, "points": 61456, "last_ms": 99.95985412597656}
+{"kind": "image", "stamp_ns": 1649856240716823312, "seq": 131}
+{"kind": "cloud", "stamp_ns": 1649856240722497000, "points": 61536, "last_ms": 100.26001739501953}
+{"kind": "image", "stamp_ns": 1649856240816817212, "seq": 132}
+{"kind": "cloud", "stamp_ns": 1649856240822759000, "points": 61711, "last_ms": 99.71404266357422}
+{"kind": "image", "stamp_ns": 1649856240916811012, "seq": 133}
+{"kind": "cloud", "stamp_ns": 1649856240922473000, "points": 61576, "last_ms": 99.64608764648438}
+{"kind": "image", "stamp_ns": 1649856241016804812, "seq": 134}
+{"kind": "cloud", "stamp_ns": 1649856241022120000, "points": 61696, "last_ms": 99.94197082519531}
+{"kind": "image", "stamp_ns": 1649856241116798712, "seq": 135}
+{"kind": "cloud", "stamp_ns": 1649856241122065000, "points": 62308, "last_ms": 100.0578384399414}
+{"kind": "image", "stamp_ns": 1649856241216792512, "seq": 136}
+{"kind": "cloud", "stamp_ns": 1649856241222126000, "points": 62150, "last_ms": 100.45695495605469}
+{"kind": "image", "stamp_ns": 1649856241316786412, "seq": 137}
+{"kind": "cloud", "stamp_ns": 1649856241322587000, "points": 61835, "last_ms": 100.44193267822266}
+{"kind": "image", "stamp_ns": 1649856241416780212, "seq": 138}
+{"kind": "cloud", "stamp_ns": 1649856241423036000, "points": 61134, "last_ms": 100.19683837890625}
+{"kind": "image", "stamp_ns": 1649856241516774012, "seq": 139}
+{"kind": "cloud", "stamp_ns": 1649856241523236000, "points": 60645, "last_ms": 100.12483215332031}
+{"kind": "image", "stamp_ns": 1649856241616767912, "seq": 140}
+{"kind": "cloud", "stamp_ns": 1649856241623364000, "points": 60331, "last_ms": 100.07500457763672}
+{"kind": "image", "stamp_ns": 1649856241716761712, "seq": 141}
+{"kind": "cloud", "stamp_ns": 1649856241723442000, "points": 59807, "last_ms": 99.71595001220703}
+{"kind": "image", "stamp_ns": 1649856241816755612, "seq": 142}
+{"kind": "cloud", "stamp_ns": 1649856241823159000, "points": 60304, "last_ms": 100.06904602050781}
+{"kind": "image", "stamp_ns": 1649856241916749412, "seq": 143}
+{"kind": "cloud", "stamp_ns": 1649856241923230000, "points": 60322, "last_ms": 99.68495178222656}
+{"kind": "image", "stamp_ns": 1649856242016743212, "seq": 144}
+{"kind": "cloud", "stamp_ns": 1649856242022917000, "points": 60437, "last_ms": 100.30484008789062}
+{"kind": "image", "stamp_ns": 1649856242116737112, "seq": 145}
+{"kind": "cloud", "stamp_ns": 1649856242123226000, "points": 61184, "last_ms": 99.97081756591797}
+{"kind": "image", "stamp_ns": 1649856242216730912, "seq": 146}
+{"kind": "cloud", "stamp_ns": 1649856242223199000, "points": 61008, "last_ms": 99.02882385253906}
+{"kind": "image", "stamp_ns": 1649856242316724812, "seq": 147}
+{"kind": "cloud", "stamp_ns": 1649856242322231000, "points": 61504, "last_ms": 99.32589721679688}
+{"kind": "image", "stamp_ns": 1649856242416718612, "seq": 148}
+{"kind": "cloud", "stamp_ns": 1649856242421560000, "points": 61284, "last_ms": 99.02691650390625}
+{"kind": "image", "stamp_ns": 1649856242516712412, "seq": 149}
+{"kind": "cloud", "stamp_ns": 1649856242520587000, "points": 61461, "last_ms": 99.47705078125}
+{"kind": "image", "stamp_ns": 1649856242616706312, "seq": 150}
+{"kind": "cloud", "stamp_ns": 1649856242620067000, "points": 61670, "last_ms": 99.90596771240234}
+{"kind": "image", "stamp_ns": 1649856242716700112, "seq": 151}
+{"kind": "cloud", "stamp_ns": 1649856242719975000, "points": 61777, "last_ms": 100.31199645996094}
+{"kind": "image", "stamp_ns": 1649856242816694012, "seq": 152}
+{"kind": "cloud", "stamp_ns": 1649856242820290000, "points": 61797, "last_ms": 100.13890075683594}
+{"kind": "image", "stamp_ns": 1649856242916687812, "seq": 153}
+{"kind": "cloud", "stamp_ns": 1649856242920432000, "points": 61889, "last_ms": 100.26097106933594}
+{"kind": "image", "stamp_ns": 1649856243016681612, "seq": 154}
+{"kind": "cloud", "stamp_ns": 1649856243020696000, "points": 61018, "last_ms": 99.6999740600586}
+{"kind": "image", "stamp_ns": 1649856243116675512, "seq": 155}
+{"kind": "cloud", "stamp_ns": 1649856243120398000, "points": 59661, "last_ms": 99.77197265625}
+{"kind": "image", "stamp_ns": 1649856243216669312, "seq": 156}
+{"kind": "cloud", "stamp_ns": 1649856243220173000, "points": 58472, "last_ms": 100.50917053222656}
+{"kind": "image", "stamp_ns": 1649856243316663212, "seq": 157}
+{"kind": "cloud", "stamp_ns": 1649856243320685000, "points": 58173, "last_ms": 100.7120590209961}
+{"kind": "image", "stamp_ns": 1649856243416657012, "seq": 158}
+{"kind": "cloud", "stamp_ns": 1649856243421400000, "points": 59658, "last_ms": 100.66199493408203}
+{"kind": "image", "stamp_ns": 1649856243516650812, "seq": 159}
+{"kind": "cloud", "stamp_ns": 1649856243522065000, "points": 60732, "last_ms": 100.45004272460938}
+{"kind": "image", "stamp_ns": 1649856243616644712, "seq": 160}
+{"kind": "cloud", "stamp_ns": 1649856243622518000, "points": 61599, "last_ms": 100.36993408203125}
+{"kind": "image", "stamp_ns": 1649856243716638512, "seq": 161}
+{"kind": "cloud", "stamp_ns": 1649856243722891000, "points": 59089, "last_ms": 100.4679183959961}
+{"kind": "image", "stamp_ns": 1649856243816632412, "seq": 162}
+{"kind": "cloud", "stamp_ns": 1649856243823362000, "points": 56461, "last_ms": 100.20184326171875}
+{"kind": "image", "stamp_ns": 1649856243916626212, "seq": 163}
+{"kind": "cloud", "stamp_ns": 1649856243923567000, "points": 54883, "last_ms": 100.37398529052734}
+{"kind": "image", "stamp_ns": 1649856244016620012, "seq": 164}
+{"kind": "cloud", "stamp_ns": 1649856244023944000, "points": 54378, "last_ms": 99.74503326416016}
+{"kind": "image", "stamp_ns": 1649856244116613912, "seq": 165}
+{"kind": "cloud", "stamp_ns": 1649856244123692000, "points": 54010, "last_ms": 99.32685089111328}
+{"kind": "image", "stamp_ns": 1649856244216607712, "seq": 166}
+{"kind": "cloud", "stamp_ns": 1649856244223021000, "points": 54424, "last_ms": 99.1768798828125}
+{"kind": "image", "stamp_ns": 1649856244316601512, "seq": 167}
+{"kind": "cloud", "stamp_ns": 1649856244322201000, "points": 55230, "last_ms": 99.27677917480469}
+{"kind": "image", "stamp_ns": 1649856244416595312, "seq": 168}
+{"kind": "cloud", "stamp_ns": 1649856244421480000, "points": 54566, "last_ms": 99.1270523071289}
+{"kind": "image", "stamp_ns": 1649856244516589112, "seq": 169}
+{"kind": "cloud", "stamp_ns": 1649856244520610000, "points": 54791, "last_ms": 99.42579650878906}
+{"kind": "image", "stamp_ns": 1649856244616583012, "seq": 170}
+{"kind": "cloud", "stamp_ns": 1649856244620038000, "points": 55008, "last_ms": 99.85398864746094}
+{"kind": "image", "stamp_ns": 1649856244716576812, "seq": 171}
+{"kind": "cloud", "stamp_ns": 1649856244719894000, "points": 54713, "last_ms": 100.13103485107422}
+{"kind": "image", "stamp_ns": 1649856244816570712, "seq": 172}
+{"kind": "cloud", "stamp_ns": 1649856244820028000, "points": 54278, "last_ms": 100.12984466552734}
+{"kind": "image", "stamp_ns": 1649856244916564512, "seq": 173}
+{"kind": "cloud", "stamp_ns": 1649856244920161000, "points": 54599, "last_ms": 100.31295013427734}
+{"kind": "image", "stamp_ns": 1649856245016558312, "seq": 174}
+{"kind": "cloud", "stamp_ns": 1649856245020478000, "points": 55687, "last_ms": 100.2409439086914}
+{"kind": "image", "stamp_ns": 1649856245116552212, "seq": 175}
+{"kind": "cloud", "stamp_ns": 1649856245120722000, "points": 56800, "last_ms": 100.07595825195312}
+{"kind": "image", "stamp_ns": 1649856245216546012, "seq": 176}
+{"kind": "cloud", "stamp_ns": 1649856245220800000, "points": 56520, "last_ms": 100.11005401611328}
+{"kind": "image", "stamp_ns": 1649856245316539912, "seq": 177}
+{"kind": "cloud", "stamp_ns": 1649856245320913000, "points": 55967, "last_ms": 100.02589416503906}
+{"kind": "image", "stamp_ns": 1649856245416533712, "seq": 178}
+{"kind": "cloud", "stamp_ns": 1649856245420940000, "points": 55466, "last_ms": 99.86901092529297}
+{"kind": "image", "stamp_ns": 1649856245516527512, "seq": 179}
+{"kind": "cloud", "stamp_ns": 1649856245520811000, "points": 56214, "last_ms": 99.7109375}
+{"kind": "image", "stamp_ns": 1649856245616521412, "seq": 180}
+{"kind": "cloud", "stamp_ns": 1649856245620523000, "points": 56676, "last_ms": 100.08883666992188}
+{"kind": "image", "stamp_ns": 1649856245716515212, "seq": 181}
+{"kind": "cloud", "stamp_ns": 1649856245720617000, "points": 56956, "last_ms": 100.73590087890625}
+{"kind": "image", "stamp_ns": 1649856245816509112, "seq": 182}
+{"kind": "cloud", "stamp_ns": 1649856245821358000, "points": 57626, "last_ms": 100.75187683105469}
+{"kind": "image", "stamp_ns": 1649856245916502912, "seq": 183}
+{"kind": "cloud", "stamp_ns": 1649856245922114000, "points": 57925, "last_ms": 100.43692779541016}
+{"kind": "image", "stamp_ns": 1649856246016496712, "seq": 184}
+{"kind": "cloud", "stamp_ns": 1649856246022554000, "points": 58046, "last_ms": 100.38710021972656}
+{"kind": "image", "stamp_ns": 1649856246116490612, "seq": 185}
+{"kind": "cloud", "stamp_ns": 1649856246122945000, "points": 58195, "last_ms": 99.98178100585938}
+{"kind": "image", "stamp_ns": 1649856246216484412, "seq": 186}
+{"kind": "cloud", "stamp_ns": 1649856246222929000, "points": 57977, "last_ms": 99.87593078613281}
+{"kind": "image", "stamp_ns": 1649856246316478312, "seq": 187}
+{"kind": "cloud", "stamp_ns": 1649856246322807000, "points": 57980, "last_ms": 99.72286224365234}
+{"kind": "image", "stamp_ns": 1649856246416472112, "seq": 188}
+{"kind": "cloud", "stamp_ns": 1649856246422530000, "points": 58156, "last_ms": 99.67803955078125}
+{"kind": "image", "stamp_ns": 1649856246516465912, "seq": 189}
+{"kind": "cloud", "stamp_ns": 1649856246522208000, "points": 58461, "last_ms": 99.52783203125}
+{"kind": "image", "stamp_ns": 1649856246616459812, "seq": 190}
+{"kind": "cloud", "stamp_ns": 1649856246621738000, "points": 58336, "last_ms": 99.77388000488281}
+{"kind": "image", "stamp_ns": 1649856246716453612, "seq": 191}
+{"kind": "cloud", "stamp_ns": 1649856246721514000, "points": 58236, "last_ms": 100.17371368408203}
+{"kind": "image", "stamp_ns": 1649856246816447512, "seq": 192}
+{"kind": "cloud", "stamp_ns": 1649856246821690000, "points": 57955, "last_ms": 100.35371398925781}
+{"kind": "image", "stamp_ns": 1649856246916441312, "seq": 193}
+{"kind": "cloud", "stamp_ns": 1649856246922046000, "points": 58007, "last_ms": 100.4078369140625}
+{"kind": "image", "stamp_ns": 1649856247016435112, "seq": 194}
+{"kind": "cloud", "stamp_ns": 1649856247022456000, "points": 57826, "last_ms": 100.534912109375}
+{"kind": "image", "stamp_ns": 1649856247116429012, "seq": 195}
+{"kind": "cloud", "stamp_ns": 1649856247122993000, "points": 57381, "last_ms": 100.13079833984375}
+{"kind": "image", "stamp_ns": 1649856247216422812, "seq": 196}
+{"kind": "cloud", "stamp_ns": 1649856247223126000, "points": 57354, "last_ms": 99.78294372558594}
+{"kind": "image", "stamp_ns": 1649856247316416712, "seq": 197}
+{"kind": "cloud", "stamp_ns": 1649856247322911000, "points": 57598, "last_ms": 99.58100128173828}
+{"kind": "image", "stamp_ns": 1649856247416410512, "seq": 198}
+{"kind": "cloud", "stamp_ns": 1649856247422495000, "points": 57706, "last_ms": 99.37596130371094}
+{"kind": "image", "stamp_ns": 1649856247516404312, "seq": 199}
+{"kind": "cloud", "stamp_ns": 1649856247521872000, "points": 57378, "last_ms": 99.32565307617188}
+{"kind": "image", "stamp_ns": 1649856247616398212, "seq": 200}
+{"kind": "cloud", "stamp_ns": 1649856247621201000, "points": 57004, "last_ms": 99.54094696044922}
+{"kind": "image", "stamp_ns": 1649856247716392012, "seq": 201}
+{"kind": "cloud", "stamp_ns": 1649856247720744000, "points": 57146, "last_ms": 100.14891815185547}
+{"kind": "image", "stamp_ns": 1649856247816385912, "seq": 202}
+{"kind": "cloud", "stamp_ns": 1649856247820896000, "points": 57824, "last_ms": 100.53109741210938}
+{"kind": "image", "stamp_ns": 1649856247916379712, "seq": 203}
+{"kind": "cloud", "stamp_ns": 1649856247921432000, "points": 57664, "last_ms": 100.49485778808594}
+{"kind": "image", "stamp_ns": 1649856248016373512, "seq": 204}
+{"kind": "cloud", "stamp_ns": 1649856248021931000, "points": 57670, "last_ms": 100.37303161621094}
+{"kind": "image", "stamp_ns": 1649856248116367412, "seq": 205}
+{"kind": "cloud", "stamp_ns": 1649856248122308000, "points": 56856, "last_ms": 100.12793731689453}
+{"kind": "image", "stamp_ns": 1649856248216361212, "seq": 206}
+{"kind": "cloud", "stamp_ns": 1649856248222439000, "points": 56214, "last_ms": 99.95698547363281}
+{"kind": "image", "stamp_ns": 1649856248316355112, "seq": 207}
+{"kind": "cloud", "stamp_ns": 1649856248322398000, "points": 54772, "last_ms": 99.87593078613281}
+{"kind": "image", "stamp_ns": 1649856248416348912, "seq": 208}
+{"kind": "cloud", "stamp_ns": 1649856248422276000, "points": 54781, "last_ms": 99.6389389038086}
+{"kind": "image", "stamp_ns": 1649856248516342712, "seq": 209}
+{"kind": "cloud", "stamp_ns": 1649856248521918000, "points": 56088, "last_ms": 99.52497863769531}
+{"kind": "image", "stamp_ns": 1649856248616336612, "seq": 210}
+{"kind": "cloud", "stamp_ns": 1649856248621446000, "points": 55596, "last_ms": 99.96009063720703}
+{"kind": "image", "stamp_ns": 1649856248716330412, "seq": 211}
+{"kind": "cloud", "stamp_ns": 1649856248721409000, "points": 54643, "last_ms": 100.40283203125}
+{"kind": "image", "stamp_ns": 1649856248816324312, "seq": 212}
+{"kind": "cloud", "stamp_ns": 1649856248821815000, "points": 54935, "last_ms": 100.73089599609375}
+{"kind": "image", "stamp_ns": 1649856248916318112, "seq": 213}
+{"kind": "cloud", "stamp_ns": 1649856248922549000, "points": 54565, "last_ms": 100.7578353881836}
+{"kind": "image", "stamp_ns": 1649856249016311912, "seq": 214}
+{"kind": "cloud", "stamp_ns": 1649856249023309000, "points": 55562, "last_ms": 100.45195007324219}
+{"kind": "image", "stamp_ns": 1649856249116305812, "seq": 215}
+{"kind": "cloud", "stamp_ns": 1649856249123764000, "points": 56604, "last_ms": 99.65872955322266}
+{"kind": "image", "stamp_ns": 1649856249216299612, "seq": 216}
+{"kind": "cloud", "stamp_ns": 1649856249223425000, "points": 57200, "last_ms": 99.07913208007812}
+{"kind": "image", "stamp_ns": 1649856249316293512, "seq": 217}
+{"kind": "cloud", "stamp_ns": 1649856249322504000, "points": 55483, "last_ms": 99.17974853515625}
+{"kind": "image", "stamp_ns": 1649856249416287312, "seq": 218}
+{"kind": "cloud", "stamp_ns": 1649856249421686000, "points": 55937, "last_ms": 99.58195495605469}
+{"kind": "image", "stamp_ns": 1649856249516281112, "seq": 219}
+{"kind": "cloud", "stamp_ns": 1649856249521270000, "points": 58493, "last_ms": 99.89166259765625}
+{"kind": "image", "stamp_ns": 1649856249616275012, "seq": 220}
+{"kind": "cloud", "stamp_ns": 1649856249621164000, "points": 59714, "last_ms": 100.19158935546875}
+{"kind": "image", "stamp_ns": 1649856249716268812, "seq": 221}
+{"kind": "cloud", "stamp_ns": 1649856249721358000, "points": 60191, "last_ms": 100.08477783203125}
+{"kind": "image", "stamp_ns": 1649856249816262712, "seq": 222}
+{"kind": "cloud", "stamp_ns": 1649856249821445000, "points": 60436, "last_ms": 99.94578552246094}
+{"kind": "image", "stamp_ns": 1649856249916256512, "seq": 223}
+{"kind": "cloud", "stamp_ns": 1649856249921393000, "points": 60864, "last_ms": 99.91883850097656}
+{"kind": "image", "stamp_ns": 1649856250016250312, "seq": 224}
+{"kind": "cloud", "stamp_ns": 1649856250021314000, "points": 59709, "last_ms": 100.31700134277344}
+{"kind": "image", "stamp_ns": 1649856250116244212, "seq": 225}
+{"kind": "cloud", "stamp_ns": 1649856250121634000, "points": 60822, "last_ms": 99.97868347167969}
+{"kind": "image", "stamp_ns": 1649856250216238012, "seq": 226}
+{"kind": "cloud", "stamp_ns": 1649856250221615000, "points": 60701, "last_ms": 99.37786865234375}
+{"kind": "image", "stamp_ns": 1649856250316231912, "seq": 227}
+{"kind": "cloud", "stamp_ns": 1649856250320996000, "points": 60582, "last_ms": 99.2777328491211}
+{"kind": "image", "stamp_ns": 1649856250416225712, "seq": 228}
+{"kind": "cloud", "stamp_ns": 1649856250420277000, "points": 61097, "last_ms": 99.78056335449219}
+{"kind": "image", "stamp_ns": 1649856250516219512, "seq": 229}
+{"kind": "cloud", "stamp_ns": 1649856250520061000, "points": 60988, "last_ms": 100.00181579589844}
+{"kind": "image", "stamp_ns": 1649856250616213412, "seq": 230}
+{"kind": "cloud", "stamp_ns": 1649856250620066000, "points": 60670, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856250716207212, "seq": 231}
+{"kind": "cloud", "stamp_ns": 1649856250720070000, "points": 59937, "last_ms": 100.1119613647461}
+{"kind": "image", "stamp_ns": 1649856250816201112, "seq": 232}
+{"kind": "cloud", "stamp_ns": 1649856250820185000, "points": 59735, "last_ms": 100.39186096191406}
+{"kind": "image", "stamp_ns": 1649856250916194912, "seq": 233}
+{"kind": "cloud", "stamp_ns": 1649856250920580000, "points": 60235, "last_ms": 100.76188659667969}
+{"kind": "image", "stamp_ns": 1649856251016188712, "seq": 234}
+{"kind": "cloud", "stamp_ns": 1649856251021345000, "points": 59644, "last_ms": 100.595947265625}
+{"kind": "image", "stamp_ns": 1649856251116182612, "seq": 235}
+{"kind": "cloud", "stamp_ns": 1649856251121944000, "points": 60148, "last_ms": 100.07572174072266}
+{"kind": "image", "stamp_ns": 1649856251216176412, "seq": 236}
+{"kind": "cloud", "stamp_ns": 1649856251222023000, "points": 60395, "last_ms": 99.87664031982422}
+{"kind": "image", "stamp_ns": 1649856251316167990, "seq": 237}
+{"kind": "cloud", "stamp_ns": 1649856251321902000, "points": 60728, "last_ms": 99.78079986572266}
+{"kind": "image", "stamp_ns": 1649856251416161790, "seq": 238}
+{"kind": "cloud", "stamp_ns": 1649856251421686000, "points": 61316, "last_ms": 100.12984466552734}
+{"kind": "image", "stamp_ns": 1649856251516155590, "seq": 239}
+{"kind": "cloud", "stamp_ns": 1649856251521819000, "points": 61495, "last_ms": 99.60770416259766}
+{"kind": "image", "stamp_ns": 1649856251616149490, "seq": 240}
+{"kind": "cloud", "stamp_ns": 1649856251621429000, "points": 61636, "last_ms": 99.42674255371094}
+{"kind": "image", "stamp_ns": 1649856251716143290, "seq": 241}
+{"kind": "cloud", "stamp_ns": 1649856251720858000, "points": 61978, "last_ms": 99.78771209716797}
+{"kind": "image", "stamp_ns": 1649856251816137190, "seq": 242}
+{"kind": "cloud", "stamp_ns": 1649856251820648000, "points": 61735, "last_ms": 100.32486724853516}
+{"kind": "image", "stamp_ns": 1649856251916130990, "seq": 243}
+{"kind": "cloud", "stamp_ns": 1649856251920975000, "points": 61264, "last_ms": 100.50582885742188}
+{"kind": "image", "stamp_ns": 1649856252016124790, "seq": 244}
+{"kind": "cloud", "stamp_ns": 1649856252021483000, "points": 60906, "last_ms": 100.30793762207031}
+{"kind": "image", "stamp_ns": 1649856252116118690, "seq": 245}
+{"kind": "cloud", "stamp_ns": 1649856252121793000, "points": 61263, "last_ms": 100.42881774902344}
+{"kind": "image", "stamp_ns": 1649856252216112490, "seq": 246}
+{"kind": "cloud", "stamp_ns": 1649856252222224000, "points": 61823, "last_ms": 100.1639404296875}
+{"kind": "image", "stamp_ns": 1649856252316106390, "seq": 247}
+{"kind": "cloud", "stamp_ns": 1649856252322391000, "points": 61985, "last_ms": 100.48770904541016}
+{"kind": "image", "stamp_ns": 1649856252416100190, "seq": 248}
+{"kind": "cloud", "stamp_ns": 1649856252422881000, "points": 62008, "last_ms": 100.47293090820312}
+{"kind": "image", "stamp_ns": 1649856252516093990, "seq": 249}
+{"kind": "cloud", "stamp_ns": 1649856252523356000, "points": 62063, "last_ms": 99.74384307861328}
+{"kind": "image", "stamp_ns": 1649856252616087890, "seq": 250}
+{"kind": "cloud", "stamp_ns": 1649856252623102000, "points": 62095, "last_ms": 99.90882873535156}
+{"kind": "image", "stamp_ns": 1649856252716081690, "seq": 251}
+{"kind": "cloud", "stamp_ns": 1649856252723013000, "points": 62202, "last_ms": 99.46990203857422}
+{"kind": "image", "stamp_ns": 1649856252816075490, "seq": 252}
+{"kind": "cloud", "stamp_ns": 1649856252822485000, "points": 62056, "last_ms": 99.37572479248047}
+{"kind": "image", "stamp_ns": 1649856252916069290, "seq": 253}
+{"kind": "cloud", "stamp_ns": 1649856252921864000, "points": 62073, "last_ms": 99.42770385742188}
+{"kind": "image", "stamp_ns": 1649856253016063090, "seq": 254}
+{"kind": "cloud", "stamp_ns": 1649856253021294000, "points": 61890, "last_ms": 99.64561462402344}
+{"kind": "image", "stamp_ns": 1649856253116056990, "seq": 255}
+{"kind": "cloud", "stamp_ns": 1649856253120942000, "points": 61787, "last_ms": 99.57575988769531}
+{"kind": "image", "stamp_ns": 1649856253216050790, "seq": 256}
+{"kind": "cloud", "stamp_ns": 1649856253220520000, "points": 61543, "last_ms": 99.85995483398438}
+{"kind": "image", "stamp_ns": 1649856253316044690, "seq": 257}
+{"kind": "cloud", "stamp_ns": 1649856253320383000, "points": 61515, "last_ms": 100.13079833984375}
+{"kind": "image", "stamp_ns": 1649856253416038490, "seq": 258}
+{"kind": "cloud", "stamp_ns": 1649856253420516000, "points": 61387, "last_ms": 100.67486572265625}
+{"kind": "image", "stamp_ns": 1649856253516032290, "seq": 259}
+{"kind": "cloud", "stamp_ns": 1649856253521193000, "points": 61152, "last_ms": 100.42691040039062}
+{"kind": "image", "stamp_ns": 1649856253616026190, "seq": 260}
+{"kind": "cloud", "stamp_ns": 1649856253621623000, "points": 60971, "last_ms": 100.21090698242188}
+{"kind": "image", "stamp_ns": 1649856253716019990, "seq": 261}
+{"kind": "cloud", "stamp_ns": 1649856253721837000, "points": 61112, "last_ms": 99.80988311767578}
+{"kind": "image", "stamp_ns": 1649856253816013890, "seq": 262}
+{"kind": "cloud", "stamp_ns": 1649856253821650000, "points": 61315, "last_ms": 99.72286224365234}
+{"kind": "image", "stamp_ns": 1649856253916007690, "seq": 263}
+{"kind": "cloud", "stamp_ns": 1649856253921375000, "points": 61187, "last_ms": 99.61080932617188}
+{"kind": "image", "stamp_ns": 1649856254016001490, "seq": 264}
+{"kind": "cloud", "stamp_ns": 1649856254020988000, "points": 61265, "last_ms": 99.88784790039062}
+{"kind": "image", "stamp_ns": 1649856254115995390, "seq": 265}
+{"kind": "cloud", "stamp_ns": 1649856254120878000, "points": 61186, "last_ms": 99.65277099609375}
+{"kind": "image", "stamp_ns": 1649856254215989190, "seq": 266}
+{"kind": "cloud", "stamp_ns": 1649856254220533000, "points": 61114, "last_ms": 99.4780044555664}
+{"kind": "image", "stamp_ns": 1649856254315983090, "seq": 267}
+{"kind": "cloud", "stamp_ns": 1649856254320011000, "points": 61207, "last_ms": 99.67208099365234}
+{"kind": "image", "stamp_ns": 1649856254415976890, "seq": 268}
+{"kind": "cloud", "stamp_ns": 1649856254419684000, "points": 61476, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856254515970690, "seq": 269}
+{"kind": "cloud", "stamp_ns": 1649856254519687000, "points": 61721, "last_ms": 100.30889892578125}
+{"kind": "image", "stamp_ns": 1649856254615964590, "seq": 270}
+{"kind": "cloud", "stamp_ns": 1649856254620002000, "points": 62092, "last_ms": 101.12380981445312}
+{"kind": "image", "stamp_ns": 1649856254715958390, "seq": 271}
+{"kind": "cloud", "stamp_ns": 1649856254721134000, "points": 62278, "last_ms": 101.12190246582031}
+{"kind": "image", "stamp_ns": 1649856254815952290, "seq": 272}
+{"kind": "cloud", "stamp_ns": 1649856254822262000, "points": 62303, "last_ms": 100.49796295166016}
+{"kind": "image", "stamp_ns": 1649856254915946090, "seq": 273}
+{"kind": "cloud", "stamp_ns": 1649856254922764000, "points": 62270, "last_ms": 100.13294219970703}
+{"kind": "image", "stamp_ns": 1649856255015939890, "seq": 274}
+{"kind": "cloud", "stamp_ns": 1649856255022901000, "points": 61875, "last_ms": 100.01683044433594}
+{"kind": "image", "stamp_ns": 1649856255115933790, "seq": 275}
+{"kind": "cloud", "stamp_ns": 1649856255122920000, "points": 61458, "last_ms": 99.65586853027344}
+{"kind": "image", "stamp_ns": 1649856255215927590, "seq": 276}
+{"kind": "cloud", "stamp_ns": 1649856255222579000, "points": 61503, "last_ms": 99.2279052734375}
+{"kind": "image", "stamp_ns": 1649856255315917011, "seq": 277}
+{"kind": "cloud", "stamp_ns": 1649856255321810000, "points": 61550, "last_ms": 99.72572326660156}
+{"kind": "image", "stamp_ns": 1649856255415910811, "seq": 278}
+{"kind": "cloud", "stamp_ns": 1649856255421538000, "points": 61550, "last_ms": 99.66159057617188}
+{"kind": "image", "stamp_ns": 1649856255515904511, "seq": 279}
+{"kind": "cloud", "stamp_ns": 1649856255521202000, "points": 61127, "last_ms": 99.68280792236328}
+{"kind": "image", "stamp_ns": 1649856255615898311, "seq": 280}
+{"kind": "cloud", "stamp_ns": 1649856255620887000, "points": 61419, "last_ms": 99.7366943359375}
+{"kind": "image", "stamp_ns": 1649856255715892011, "seq": 281}
+{"kind": "cloud", "stamp_ns": 1649856255720626000, "points": 61790, "last_ms": 100.08573913574219}
+{"kind": "image", "stamp_ns": 1649856255815885811, "seq": 282}
+{"kind": "cloud", "stamp_ns": 1649856255820714000, "points": 61706, "last_ms": 100.61168670654297}
+{"kind": "image", "stamp_ns": 1649856255915879511, "seq": 283}
+{"kind": "cloud", "stamp_ns": 1649856255921328000, "points": 61799, "last_ms": 100.63362121582031}
+{"kind": "image", "stamp_ns": 1649856256015873211, "seq": 284}
+{"kind": "cloud", "stamp_ns": 1649856256021964000, "points": 61429, "last_ms": 100.45075225830078}
+{"kind": "image", "stamp_ns": 1649856256115867011, "seq": 285}
+{"kind": "cloud", "stamp_ns": 1649856256122417000, "points": 61371, "last_ms": 100.39091491699219}
+{"kind": "image", "stamp_ns": 1649856256215860711, "seq": 286}
+{"kind": "cloud", "stamp_ns": 1649856256222810000, "points": 61414, "last_ms": 99.89571380615234}
+{"kind": "image", "stamp_ns": 1649856256315854511, "seq": 287}
+{"kind": "cloud", "stamp_ns": 1649856256322708000, "points": 60911, "last_ms": 99.57814025878906}
+{"kind": "image", "stamp_ns": 1649856256415848311, "seq": 288}
+{"kind": "cloud", "stamp_ns": 1649856256422289000, "points": 61082, "last_ms": 99.57504272460938}
+{"kind": "image", "stamp_ns": 1649856256515842011, "seq": 289}
+{"kind": "cloud", "stamp_ns": 1649856256521867000, "points": 60584, "last_ms": 99.63273620605469}
+{"kind": "image", "stamp_ns": 1649856256615835811, "seq": 290}
+{"kind": "cloud", "stamp_ns": 1649856256621502000, "points": 60224, "last_ms": 99.72691345214844}
+{"kind": "image", "stamp_ns": 1649856256715829511, "seq": 291}
+{"kind": "cloud", "stamp_ns": 1649856256721231000, "points": 60093, "last_ms": 99.64179992675781}
+{"kind": "image", "stamp_ns": 1649856256815823311, "seq": 292}
+{"kind": "cloud", "stamp_ns": 1649856256820875000, "points": 60275, "last_ms": 99.62606811523438}
+{"kind": "image", "stamp_ns": 1649856256915817011, "seq": 293}
+{"kind": "cloud", "stamp_ns": 1649856256920504000, "points": 60357, "last_ms": 100.02374267578125}
+{"kind": "image", "stamp_ns": 1649856257015810711, "seq": 294}
+{"kind": "cloud", "stamp_ns": 1649856257020530000, "points": 59864, "last_ms": 100.59785461425781}
+{"kind": "image", "stamp_ns": 1649856257115804511, "seq": 295}
+{"kind": "cloud", "stamp_ns": 1649856257121130000, "points": 59255, "last_ms": 100.47698211669922}
+{"kind": "image", "stamp_ns": 1649856257215798211, "seq": 296}
+{"kind": "cloud", "stamp_ns": 1649856257221610000, "points": 59152, "last_ms": 100.15583038330078}
+{"kind": "image", "stamp_ns": 1649856257315792011, "seq": 297}
+{"kind": "cloud", "stamp_ns": 1649856257321768000, "points": 59699, "last_ms": 100.14677429199219}
+{"kind": "image", "stamp_ns": 1649856257415785811, "seq": 298}
+{"kind": "cloud", "stamp_ns": 1649856257421917000, "points": 60209, "last_ms": 100.26383209228516}
+{"kind": "image", "stamp_ns": 1649856257515779511, "seq": 299}
+{"kind": "cloud", "stamp_ns": 1649856257522183000, "points": 60167, "last_ms": 99.98893737792969}
+{"kind": "image", "stamp_ns": 1649856257615773311, "seq": 300}
+{"kind": "cloud", "stamp_ns": 1649856257622174000, "points": 59770, "last_ms": 99.79987335205078}
+{"kind": "image", "stamp_ns": 1649856257715767011, "seq": 301}
+{"kind": "cloud", "stamp_ns": 1649856257721976000, "points": 59391, "last_ms": 99.5779037475586}
+{"kind": "image", "stamp_ns": 1649856257815760811, "seq": 302}
+{"kind": "cloud", "stamp_ns": 1649856257821557000, "points": 59215, "last_ms": 99.42579650878906}
+{"kind": "image", "stamp_ns": 1649856257915754511, "seq": 303}
+{"kind": "cloud", "stamp_ns": 1649856257920985000, "points": 59958, "last_ms": 99.32589721679688}
+{"kind": "image", "stamp_ns": 1649856258015748211, "seq": 304}
+{"kind": "cloud", "stamp_ns": 1649856258020313000, "points": 60891, "last_ms": 99.42698669433594}
+{"kind": "image", "stamp_ns": 1649856258115742011, "seq": 305}
+{"kind": "cloud", "stamp_ns": 1649856258119743000, "points": 61349, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856258215735711, "seq": 306}
+{"kind": "cloud", "stamp_ns": 1649856258219732000, "points": 62127, "last_ms": 100.67295837402344}
+{"kind": "image", "stamp_ns": 1649856258315729511, "seq": 307}
+{"kind": "cloud", "stamp_ns": 1649856258320408000, "points": 62078, "last_ms": 100.8718032836914}
+{"kind": "image", "stamp_ns": 1649856258415723311, "seq": 308}
+{"kind": "cloud", "stamp_ns": 1649856258421283000, "points": 61708, "last_ms": 100.54588317871094}
+{"kind": "image", "stamp_ns": 1649856258515717011, "seq": 309}
+{"kind": "cloud", "stamp_ns": 1649856258521831000, "points": 61204, "last_ms": 100.42190551757812}
+{"kind": "image", "stamp_ns": 1649856258615710811, "seq": 310}
+{"kind": "cloud", "stamp_ns": 1649856258622256000, "points": 60901, "last_ms": 100.17085266113281}
+{"kind": "image", "stamp_ns": 1649856258715704511, "seq": 311}
+{"kind": "cloud", "stamp_ns": 1649856258722429000, "points": 58473, "last_ms": 100.06285095214844}
+{"kind": "image", "stamp_ns": 1649856258815698311, "seq": 312}
+{"kind": "cloud", "stamp_ns": 1649856258822494000, "points": 57697, "last_ms": 99.97486877441406}
+{"kind": "image", "stamp_ns": 1649856258915692011, "seq": 313}
+{"kind": "cloud", "stamp_ns": 1649856258922472000, "points": 57622, "last_ms": 99.75004577636719}
+{"kind": "image", "stamp_ns": 1649856259015685711, "seq": 314}
+{"kind": "cloud", "stamp_ns": 1649856259022225000, "points": 57448, "last_ms": 99.58100128173828}
+{"kind": "image", "stamp_ns": 1649856259115679511, "seq": 315}
+{"kind": "cloud", "stamp_ns": 1649856259121809000, "points": 57479, "last_ms": 99.47586059570312}
+{"kind": "image", "stamp_ns": 1649856259215673211, "seq": 316}
+{"kind": "cloud", "stamp_ns": 1649856259221287000, "points": 57088, "last_ms": 99.70402526855469}
+{"kind": "image", "stamp_ns": 1649856259315667011, "seq": 317}
+{"kind": "cloud", "stamp_ns": 1649856259320994000, "points": 55583, "last_ms": 100.09098052978516}
+{"kind": "image", "stamp_ns": 1649856259415660811, "seq": 318}
+{"kind": "cloud", "stamp_ns": 1649856259421087000, "points": 55077, "last_ms": 100.25096130371094}
+{"kind": "image", "stamp_ns": 1649856259515654511, "seq": 319}
+{"kind": "cloud", "stamp_ns": 1649856259521341000, "points": 53978, "last_ms": 100.29483032226562}
+{"kind": "image", "stamp_ns": 1649856259615648311, "seq": 320}
+{"kind": "cloud", "stamp_ns": 1649856259621639000, "points": 53623, "last_ms": 99.995849609375}
+{"kind": "image", "stamp_ns": 1649856259715642011, "seq": 321}
+{"kind": "cloud", "stamp_ns": 1649856259721637000, "points": 54335, "last_ms": 100.03900146484375}
+{"kind": "image", "stamp_ns": 1649856259815635811, "seq": 322}
+{"kind": "cloud", "stamp_ns": 1649856259821679000, "points": 55403, "last_ms": 100.45289611816406}
+{"kind": "image", "stamp_ns": 1649856259915629511, "seq": 323}
+{"kind": "cloud", "stamp_ns": 1649856259922135000, "points": 55478, "last_ms": 100.49485778808594}
+{"kind": "image", "stamp_ns": 1649856260015623211, "seq": 324}
+{"kind": "cloud", "stamp_ns": 1649856260022633000, "points": 55099, "last_ms": 100.23689270019531}
+{"kind": "image", "stamp_ns": 1649856260115617011, "seq": 325}
+{"kind": "cloud", "stamp_ns": 1649856260122873000, "points": 54529, "last_ms": 99.73382568359375}
+{"kind": "image", "stamp_ns": 1649856260215610711, "seq": 326}
+{"kind": "cloud", "stamp_ns": 1649856260222609000, "points": 53997, "last_ms": 98.82783508300781}
+{"kind": "image", "stamp_ns": 1649856260315604511, "seq": 327}
+{"kind": "cloud", "stamp_ns": 1649856260321439000, "points": 53957, "last_ms": 98.77872467041016}
+{"kind": "image", "stamp_ns": 1649856260415598311, "seq": 328}
+{"kind": "cloud", "stamp_ns": 1649856260420220000, "points": 55627, "last_ms": 98.9778060913086}
+{"kind": "image", "stamp_ns": 1649856260515592011, "seq": 329}
+{"kind": "cloud", "stamp_ns": 1649856260519201000, "points": 57393, "last_ms": 99.27582550048828}
+{"kind": "image", "stamp_ns": 1649856260615585811, "seq": 330}
+{"kind": "cloud", "stamp_ns": 1649856260618479000, "points": 59411, "last_ms": 99.93290710449219}
+{"kind": "image", "stamp_ns": 1649856260715579511, "seq": 331}
+{"kind": "cloud", "stamp_ns": 1649856260718415000, "points": 60677, "last_ms": 100.25572967529297}
+{"kind": "image", "stamp_ns": 1649856260815573311, "seq": 332}
+{"kind": "cloud", "stamp_ns": 1649856260818673000, "points": 61189, "last_ms": 100.91400146484375}
+{"kind": "image", "stamp_ns": 1649856260915567011, "seq": 333}
+{"kind": "cloud", "stamp_ns": 1649856260919589000, "points": 61535, "last_ms": 100.95381927490234}
+{"kind": "image", "stamp_ns": 1649856261015560711, "seq": 334}
+{"kind": "cloud", "stamp_ns": 1649856261020545000, "points": 61264, "last_ms": 100.64983367919922}
+{"kind": "image", "stamp_ns": 1649856261115554511, "seq": 335}
+{"kind": "cloud", "stamp_ns": 1649856261121197000, "points": 60986, "last_ms": 100.49391174316406}
+{"kind": "image", "stamp_ns": 1649856261215548211, "seq": 336}
+{"kind": "cloud", "stamp_ns": 1649856261221693000, "points": 60647, "last_ms": 99.9848861694336}
+{"kind": "image", "stamp_ns": 1649856261315542011, "seq": 337}
+{"kind": "cloud", "stamp_ns": 1649856261321681000, "points": 60010, "last_ms": 99.78389739990234}
+{"kind": "image", "stamp_ns": 1649856261415535711, "seq": 338}
+{"kind": "cloud", "stamp_ns": 1649856261421468000, "points": 60167, "last_ms": 99.7018814086914}
+{"kind": "image", "stamp_ns": 1649856261515529511, "seq": 339}
+{"kind": "cloud", "stamp_ns": 1649856261521173000, "points": 60919, "last_ms": 99.65777587890625}
+{"kind": "image", "stamp_ns": 1649856261615523311, "seq": 340}
+{"kind": "cloud", "stamp_ns": 1649856261620833000, "points": 61038, "last_ms": 100.03996276855469}
+{"kind": "image", "stamp_ns": 1649856261715517011, "seq": 341}
+{"kind": "cloud", "stamp_ns": 1649856261720875000, "points": 61855, "last_ms": 100.51178741455078}
+{"kind": "image", "stamp_ns": 1649856261815510811, "seq": 342}
+{"kind": "cloud", "stamp_ns": 1649856261821389000, "points": 61755, "last_ms": 100.94880676269531}
+{"kind": "image", "stamp_ns": 1649856261915504511, "seq": 343}
+{"kind": "cloud", "stamp_ns": 1649856261922340000, "points": 61667, "last_ms": 100.72398376464844}
+{"kind": "image", "stamp_ns": 1649856262015498211, "seq": 344}
+{"kind": "cloud", "stamp_ns": 1649856262023066000, "points": 61323, "last_ms": 100.1138687133789}
+{"kind": "image", "stamp_ns": 1649856262115492011, "seq": 345}
+{"kind": "cloud", "stamp_ns": 1649856262123183000, "points": 60469, "last_ms": 99.28178405761719}
+{"kind": "image", "stamp_ns": 1649856262215485711, "seq": 346}
+{"kind": "cloud", "stamp_ns": 1649856262222467000, "points": 60155, "last_ms": 99.37691497802734}
+{"kind": "image", "stamp_ns": 1649856262315479511, "seq": 347}
+{"kind": "cloud", "stamp_ns": 1649856262321846000, "points": 59876, "last_ms": 99.53189086914062}
+{"kind": "image", "stamp_ns": 1649856262415473211, "seq": 348}
+{"kind": "cloud", "stamp_ns": 1649856262421380000, "points": 59319, "last_ms": 99.68685913085938}
+{"kind": "image", "stamp_ns": 1649856262515467011, "seq": 349}
+{"kind": "cloud", "stamp_ns": 1649856262521070000, "points": 58579, "last_ms": 99.48277282714844}
+{"kind": "image", "stamp_ns": 1649856262615460811, "seq": 350}
+{"kind": "cloud", "stamp_ns": 1649856262620556000, "points": 58658, "last_ms": 99.42579650878906}
+{"kind": "image", "stamp_ns": 1649856262715454511, "seq": 351}
+{"kind": "cloud", "stamp_ns": 1649856262719985000, "points": 59387, "last_ms": 99.5738525390625}
+{"kind": "image", "stamp_ns": 1649856262815448311, "seq": 352}
+{"kind": "cloud", "stamp_ns": 1649856262819561000, "points": 60206, "last_ms": 99.84683990478516}
+{"kind": "image", "stamp_ns": 1649856262915442011, "seq": 353}
+{"kind": "cloud", "stamp_ns": 1649856262919410000, "points": 60317, "last_ms": 100.21805572509766}
+{"kind": "image", "stamp_ns": 1649856263015435711, "seq": 354}
+{"kind": "cloud", "stamp_ns": 1649856263019631000, "points": 60350, "last_ms": 100.1169662475586}
+{"kind": "image", "stamp_ns": 1649856263115429511, "seq": 355}
+{"kind": "cloud", "stamp_ns": 1649856263119750000, "points": 60818, "last_ms": 100.2290267944336}
+{"kind": "image", "stamp_ns": 1649856263215423211, "seq": 356}
+{"kind": "cloud", "stamp_ns": 1649856263219982000, "points": 61200, "last_ms": 100.38304138183594}
+{"kind": "image", "stamp_ns": 1649856263315417011, "seq": 357}
+{"kind": "cloud", "stamp_ns": 1649856263320368000, "points": 60439, "last_ms": 100.08788299560547}
+{"kind": "image", "stamp_ns": 1649856263415410711, "seq": 358}
+{"kind": "cloud", "stamp_ns": 1649856263420459000, "points": 60088, "last_ms": 100.1069564819336}
+{"kind": "image", "stamp_ns": 1649856263515404511, "seq": 359}
+{"kind": "cloud", "stamp_ns": 1649856263520569000, "points": 59894, "last_ms": 99.96676635742188}
+{"kind": "image", "stamp_ns": 1649856263615398311, "seq": 360}
+{"kind": "cloud", "stamp_ns": 1649856263620538000, "points": 60624, "last_ms": 99.60699462890625}
+{"kind": "image", "stamp_ns": 1649856263715392011, "seq": 361}
+{"kind": "cloud", "stamp_ns": 1649856263720148000, "points": 61265, "last_ms": 99.53355407714844}
+{"kind": "image", "stamp_ns": 1649856263815385811, "seq": 362}
+{"kind": "cloud", "stamp_ns": 1649856263819684000, "points": 61737, "last_ms": 99.98368835449219}
+{"kind": "image", "stamp_ns": 1649856263915379511, "seq": 363}
+{"kind": "cloud", "stamp_ns": 1649856263919671000, "points": 61861, "last_ms": 100.46267700195312}
+{"kind": "image", "stamp_ns": 1649856264015373211, "seq": 364}
+{"kind": "cloud", "stamp_ns": 1649856264020137000, "points": 61716, "last_ms": 100.73661804199219}
+{"kind": "image", "stamp_ns": 1649856264115367011, "seq": 365}
+{"kind": "cloud", "stamp_ns": 1649856264120877000, "points": 61830, "last_ms": 100.60668182373047}
+{"kind": "image", "stamp_ns": 1649856264215360711, "seq": 366}
+{"kind": "cloud", "stamp_ns": 1649856264221487000, "points": 61678, "last_ms": 100.53562927246094}
+{"kind": "image", "stamp_ns": 1649856264315354511, "seq": 367}
+{"kind": "cloud", "stamp_ns": 1649856264322026000, "points": 61443, "last_ms": 100.19374084472656}
+{"kind": "image", "stamp_ns": 1649856264415348211, "seq": 368}
+{"kind": "cloud", "stamp_ns": 1649856264422223000, "points": 61243, "last_ms": 99.89666748046875}
+{"kind": "image", "stamp_ns": 1649856264515342011, "seq": 369}
+{"kind": "cloud", "stamp_ns": 1649856264522123000, "points": 60944, "last_ms": 99.70974731445312}
+{"kind": "image", "stamp_ns": 1649856264615335811, "seq": 370}
+{"kind": "cloud", "stamp_ns": 1649856264621836000, "points": 61085, "last_ms": 99.37596130371094}
+{"kind": "image", "stamp_ns": 1649856264715329511, "seq": 371}
+{"kind": "cloud", "stamp_ns": 1649856264721215000, "points": 60985, "last_ms": 99.44701385498047}
+{"kind": "image", "stamp_ns": 1649856264815323311, "seq": 372}
+{"kind": "cloud", "stamp_ns": 1649856264820665000, "points": 60969, "last_ms": 100.15511322021484}
+{"kind": "image", "stamp_ns": 1649856264915317011, "seq": 373}
+{"kind": "cloud", "stamp_ns": 1649856264920823000, "points": 59553, "last_ms": 100.20279693603516}
+{"kind": "image", "stamp_ns": 1649856265015310711, "seq": 374}
+{"kind": "cloud", "stamp_ns": 1649856265021028000, "points": 56284, "last_ms": 100.49485778808594}
+{"kind": "image", "stamp_ns": 1649856265115304511, "seq": 375}
+{"kind": "cloud", "stamp_ns": 1649856265121526000, "points": 55082, "last_ms": 100.60596466064453}
+{"kind": "image", "stamp_ns": 1649856265215298211, "seq": 376}
+{"kind": "cloud", "stamp_ns": 1649856265222135000, "points": 53781, "last_ms": 100.5859375}
+{"kind": "image", "stamp_ns": 1649856265315292011, "seq": 377}
+{"kind": "cloud", "stamp_ns": 1649856265322724000, "points": 54340, "last_ms": 99.99871063232422}
+{"kind": "image", "stamp_ns": 1649856265415285711, "seq": 378}
+{"kind": "cloud", "stamp_ns": 1649856265422725000, "points": 55983, "last_ms": 99.39598846435547}
+{"kind": "image", "stamp_ns": 1649856265515279511, "seq": 379}
+{"kind": "cloud", "stamp_ns": 1649856265522124000, "points": 57255, "last_ms": 99.17568969726562}
+{"kind": "image", "stamp_ns": 1649856265615273311, "seq": 380}
+{"kind": "cloud", "stamp_ns": 1649856265621302000, "points": 56846, "last_ms": 98.927978515625}
+{"kind": "image", "stamp_ns": 1649856265715267011, "seq": 381}
+{"kind": "cloud", "stamp_ns": 1649856265720232000, "points": 56259, "last_ms": 99.07675170898438}
+{"kind": "image", "stamp_ns": 1649856265815260811, "seq": 382}
+{"kind": "cloud", "stamp_ns": 1649856265819312000, "points": 55617, "last_ms": 99.12776947021484}
+{"kind": "image", "stamp_ns": 1649856265915254511, "seq": 383}
+{"kind": "cloud", "stamp_ns": 1649856265918441000, "points": 55853, "last_ms": 99.37786865234375}
+{"kind": "image", "stamp_ns": 1649856266015248211, "seq": 384}
+{"kind": "cloud", "stamp_ns": 1649856266017822000, "points": 56747, "last_ms": 99.77268981933594}
+{"kind": "image", "stamp_ns": 1649856266115242011, "seq": 385}
+{"kind": "cloud", "stamp_ns": 1649856266117597000, "points": 57202, "last_ms": 100.17276000976562}
+{"kind": "image", "stamp_ns": 1649856266215235711, "seq": 386}
+{"kind": "cloud", "stamp_ns": 1649856266217772000, "points": 57848, "last_ms": 100.62384796142578}
+{"kind": "image", "stamp_ns": 1649856266315229511, "seq": 387}
+{"kind": "cloud", "stamp_ns": 1649856266318398000, "points": 58187, "last_ms": 101.01294708251953}
+{"kind": "image", "stamp_ns": 1649856266415223211, "seq": 388}
+{"kind": "cloud", "stamp_ns": 1649856266419414000, "points": 58166, "last_ms": 100.9468994140625}
+{"kind": "image", "stamp_ns": 1649856266515217011, "seq": 389}
+{"kind": "cloud", "stamp_ns": 1649856266520364000, "points": 58047, "last_ms": 100.514892578125}
+{"kind": "image", "stamp_ns": 1649856266615210811, "seq": 390}
+{"kind": "cloud", "stamp_ns": 1649856266620882000, "points": 58027, "last_ms": 100.14987182617188}
+{"kind": "image", "stamp_ns": 1649856266715204511, "seq": 391}
+{"kind": "cloud", "stamp_ns": 1649856266721035000, "points": 58244, "last_ms": 100.19374084472656}
+{"kind": "image", "stamp_ns": 1649856266815198311, "seq": 392}
+{"kind": "cloud", "stamp_ns": 1649856266821231000, "points": 58573, "last_ms": 100.2409439086914}
+{"kind": "image", "stamp_ns": 1649856266915192011, "seq": 393}
+{"kind": "cloud", "stamp_ns": 1649856266921474000, "points": 58415, "last_ms": 100.19874572753906}
+{"kind": "image", "stamp_ns": 1649856267015185711, "seq": 394}
+{"kind": "cloud", "stamp_ns": 1649856267021675000, "points": 57810, "last_ms": 100.26264190673828}
+{"kind": "image", "stamp_ns": 1649856267115179511, "seq": 395}
+{"kind": "cloud", "stamp_ns": 1649856267121940000, "points": 56780, "last_ms": 100.19802856445312}
+{"kind": "image", "stamp_ns": 1649856267215173211, "seq": 396}
+{"kind": "cloud", "stamp_ns": 1649856267222141000, "points": 54379, "last_ms": 100.2187728881836}
+{"kind": "image", "stamp_ns": 1649856267315167011, "seq": 397}
+{"kind": "cloud", "stamp_ns": 1649856267322362000, "points": 54864, "last_ms": 99.97796630859375}
+{"kind": "image", "stamp_ns": 1649856267415160711, "seq": 398}
+{"kind": "cloud", "stamp_ns": 1649856267422343000, "points": 55676, "last_ms": 99.79391479492188}
+{"kind": "image", "stamp_ns": 1649856267515154511, "seq": 399}
+{"kind": "cloud", "stamp_ns": 1649856267522140000, "points": 56655, "last_ms": 99.7579116821289}
+{"kind": "image", "stamp_ns": 1649856267615148311, "seq": 400}
+{"kind": "cloud", "stamp_ns": 1649856267621901000, "points": 58505, "last_ms": 99.65682220458984}
+{"kind": "image", "stamp_ns": 1649856267715142011, "seq": 401}
+{"kind": "cloud", "stamp_ns": 1649856267721560000, "points": 58327, "last_ms": 99.62773132324219}
+{"kind": "image", "stamp_ns": 1649856267815135811, "seq": 402}
+{"kind": "cloud", "stamp_ns": 1649856267821190000, "points": 58359, "last_ms": 99.57456970214844}
+{"kind": "image", "stamp_ns": 1649856267915129511, "seq": 403}
+{"kind": "cloud", "stamp_ns": 1649856267920768000, "points": 59550, "last_ms": 99.6458511352539}
+{"kind": "image", "stamp_ns": 1649856268015123211, "seq": 404}
+{"kind": "cloud", "stamp_ns": 1649856268020417000, "points": 60773, "last_ms": 99.52688598632812}
+{"kind": "image", "stamp_ns": 1649856268115117011, "seq": 405}
+{"kind": "cloud", "stamp_ns": 1649856268119946000, "points": 62089, "last_ms": 99.67994689941406}
+{"kind": "image", "stamp_ns": 1649856268215110711, "seq": 406}
+{"kind": "cloud", "stamp_ns": 1649856268219627000, "points": 62474, "last_ms": 100.25596618652344}
+{"kind": "image", "stamp_ns": 1649856268315104511, "seq": 407}
+{"kind": "cloud", "stamp_ns": 1649856268319887000, "points": 62536, "last_ms": 100.28290557861328}
+{"kind": "image", "stamp_ns": 1649856268415098211, "seq": 408}
+{"kind": "cloud", "stamp_ns": 1649856268420172000, "points": 62121, "last_ms": 100.10003662109375}
+{"kind": "image", "stamp_ns": 1649856268515092011, "seq": 409}
+{"kind": "cloud", "stamp_ns": 1649856268520273000, "points": 61744, "last_ms": 99.7579116821289}
+{"kind": "image", "stamp_ns": 1649856268615085811, "seq": 410}
+{"kind": "cloud", "stamp_ns": 1649856268620033000, "points": 61548, "last_ms": 99.9968032836914}
+{"kind": "image", "stamp_ns": 1649856268715079511, "seq": 411}
+{"kind": "cloud", "stamp_ns": 1649856268720032000, "points": 61538, "last_ms": 100.12197875976562}
+{"kind": "image", "stamp_ns": 1649856268815073311, "seq": 412}
+{"kind": "cloud", "stamp_ns": 1649856268820157000, "points": 61647, "last_ms": 100.19087982177734}
+{"kind": "image", "stamp_ns": 1649856268915067011, "seq": 413}
+{"kind": "cloud", "stamp_ns": 1649856268920352000, "points": 61469, "last_ms": 100.44384002685547}
+{"kind": "image", "stamp_ns": 1649856269015060711, "seq": 414}
+{"kind": "cloud", "stamp_ns": 1649856269020799000, "points": 60979, "last_ms": 100.13103485107422}
+{"kind": "image", "stamp_ns": 1649856269115054511, "seq": 415}
+{"kind": "cloud", "stamp_ns": 1649856269120931000, "points": 61196, "last_ms": 99.66397094726562}
+{"kind": "image", "stamp_ns": 1649856269215048211, "seq": 416}
+{"kind": "cloud", "stamp_ns": 1649856269220596000, "points": 60368, "last_ms": 99.84374237060547}
+{"kind": "image", "stamp_ns": 1649856269315044312, "seq": 417}
+{"kind": "cloud", "stamp_ns": 1649856269320442000, "points": 58614, "last_ms": 100.14605712890625}
+{"kind": "image", "stamp_ns": 1649856269415038012, "seq": 418}
+{"kind": "cloud", "stamp_ns": 1649856269420592000, "points": 58062, "last_ms": 100.2757568359375}
+{"kind": "image", "stamp_ns": 1649856269515031812, "seq": 419}
+{"kind": "cloud", "stamp_ns": 1649856269520871000, "points": 58464, "last_ms": 100.60906219482422}
+{"kind": "image", "stamp_ns": 1649856269615025612, "seq": 420}
+{"kind": "cloud", "stamp_ns": 1649856269621485000, "points": 58173, "last_ms": 100.79002380371094}
+{"kind": "image", "stamp_ns": 1649856269715019312, "seq": 421}
+{"kind": "cloud", "stamp_ns": 1649856269722280000, "points": 58584, "last_ms": 100.27599334716797}
+{"kind": "image", "stamp_ns": 1649856269815013112, "seq": 422}
+{"kind": "cloud", "stamp_ns": 1649856269822558000, "points": 59649, "last_ms": 99.52998352050781}
+{"kind": "image", "stamp_ns": 1649856269915006812, "seq": 423}
+{"kind": "cloud", "stamp_ns": 1649856269922091000, "points": 59512, "last_ms": 99.22599792480469}
+{"kind": "image", "stamp_ns": 1649856270015000512, "seq": 424}
+{"kind": "cloud", "stamp_ns": 1649856270021320000, "points": 59655, "last_ms": 99.27558898925781}
+{"kind": "image", "stamp_ns": 1649856270114994312, "seq": 425}
+{"kind": "cloud", "stamp_ns": 1649856270120598000, "points": 59554, "last_ms": 99.52473449707031}
+{"kind": "image", "stamp_ns": 1649856270214988012, "seq": 426}
+{"kind": "cloud", "stamp_ns": 1649856270220125000, "points": 60302, "last_ms": 99.5748062133789}
+{"kind": "image", "stamp_ns": 1649856270314981812, "seq": 427}
+{"kind": "cloud", "stamp_ns": 1649856270319702000, "points": 60869, "last_ms": 99.47705078125}
+{"kind": "image", "stamp_ns": 1649856270414975512, "seq": 428}
+{"kind": "cloud", "stamp_ns": 1649856270419180000, "points": 61637, "last_ms": 100.03996276855469}
+{"kind": "image", "stamp_ns": 1649856270514969312, "seq": 429}
+{"kind": "cloud", "stamp_ns": 1649856270519223000, "points": 61801, "last_ms": 100.412841796875}
+{"kind": "image", "stamp_ns": 1649856270614963112, "seq": 430}
+{"kind": "cloud", "stamp_ns": 1649856270619639000, "points": 61792, "last_ms": 100.47793579101562}
+{"kind": "image", "stamp_ns": 1649856270714956812, "seq": 431}
+{"kind": "cloud", "stamp_ns": 1649856270720121000, "points": 61448, "last_ms": 100.45909881591797}
+{"kind": "image", "stamp_ns": 1649856270814950612, "seq": 432}
+{"kind": "cloud", "stamp_ns": 1649856270820584000, "points": 61315, "last_ms": 100.46195983886719}
+{"kind": "image", "stamp_ns": 1649856270914944312, "seq": 433}
+{"kind": "cloud", "stamp_ns": 1649856270921051000, "points": 61457, "last_ms": 100.44789123535156}
+{"kind": "image", "stamp_ns": 1649856271014938012, "seq": 434}
+{"kind": "cloud", "stamp_ns": 1649856271021502000, "points": 61673, "last_ms": 100.117919921875}
+{"kind": "image", "stamp_ns": 1649856271114931812, "seq": 435}
+{"kind": "cloud", "stamp_ns": 1649856271121621000, "points": 61675, "last_ms": 99.7049789428711}
+{"kind": "image", "stamp_ns": 1649856271214925512, "seq": 436}
+{"kind": "cloud", "stamp_ns": 1649856271221327000, "points": 61622, "last_ms": 99.66993713378906}
+{"kind": "image", "stamp_ns": 1649856271314919312, "seq": 437}
+{"kind": "cloud", "stamp_ns": 1649856271320998000, "points": 61290, "last_ms": 99.84207153320312}
+{"kind": "image", "stamp_ns": 1649856271414913012, "seq": 438}
+{"kind": "cloud", "stamp_ns": 1649856271420842000, "points": 60984, "last_ms": 99.86209869384766}
+{"kind": "image", "stamp_ns": 1649856271514906712, "seq": 439}
+{"kind": "cloud", "stamp_ns": 1649856271520705000, "points": 60603, "last_ms": 99.90501403808594}
+{"kind": "image", "stamp_ns": 1649856271614900612, "seq": 440}
+{"kind": "cloud", "stamp_ns": 1649856271620611000, "points": 60010, "last_ms": 99.8170394897461}
+{"kind": "image", "stamp_ns": 1649856271714894312, "seq": 441}
+{"kind": "cloud", "stamp_ns": 1649856271720429000, "points": 58860, "last_ms": 99.9400634765625}
+{"kind": "image", "stamp_ns": 1649856271814888112, "seq": 442}
+{"kind": "cloud", "stamp_ns": 1649856271820371000, "points": 57858, "last_ms": 100.44598388671875}
+{"kind": "image", "stamp_ns": 1649856271914881812, "seq": 443}
+{"kind": "cloud", "stamp_ns": 1649856271920822000, "points": 58791, "last_ms": 100.76594543457031}
+{"kind": "image", "stamp_ns": 1649856272014875512, "seq": 444}
+{"kind": "cloud", "stamp_ns": 1649856272021591000, "points": 58959, "last_ms": 99.91693115234375}
+{"kind": "image", "stamp_ns": 1649856272114869312, "seq": 445}
+{"kind": "cloud", "stamp_ns": 1649856272121509000, "points": 58617, "last_ms": 99.42579650878906}
+{"kind": "image", "stamp_ns": 1649856272214863012, "seq": 446}
+{"kind": "cloud", "stamp_ns": 1649856272220937000, "points": 58417, "last_ms": 99.67184448242188}
+{"kind": "image", "stamp_ns": 1649856272314856812, "seq": 447}
+{"kind": "cloud", "stamp_ns": 1649856272320611000, "points": 58336, "last_ms": 100.07381439208984}
+{"kind": "image", "stamp_ns": 1649856272414850512, "seq": 448}
+{"kind": "cloud", "stamp_ns": 1649856272420687000, "points": 58489, "last_ms": 100.02088928222656}
+{"kind": "image", "stamp_ns": 1649856272514844212, "seq": 449}
+{"kind": "cloud", "stamp_ns": 1649856272520710000, "points": 58347, "last_ms": 99.86996459960938}
+{"kind": "image", "stamp_ns": 1649856272614838112, "seq": 450}
+{"kind": "cloud", "stamp_ns": 1649856272620583000, "points": 57603, "last_ms": 100.23474884033203}
+{"kind": "image", "stamp_ns": 1649856272714831812, "seq": 451}
+{"kind": "cloud", "stamp_ns": 1649856272720820000, "points": 57405, "last_ms": 101.30191040039062}
+{"kind": "image", "stamp_ns": 1649856272814825612, "seq": 452}
+{"kind": "cloud", "stamp_ns": 1649856272822124000, "points": 58423, "last_ms": 101.09281921386719}
+{"kind": "image", "stamp_ns": 1649856272914819312, "seq": 453}
+{"kind": "cloud", "stamp_ns": 1649856272923219000, "points": 59026, "last_ms": 100.02589416503906}
+{"kind": "image", "stamp_ns": 1649856273014813012, "seq": 454}
+{"kind": "cloud", "stamp_ns": 1649856273023247000, "points": 58598, "last_ms": 99.2279052734375}
+{"kind": "image", "stamp_ns": 1649856273114806812, "seq": 455}
+{"kind": "cloud", "stamp_ns": 1649856273122478000, "points": 57919, "last_ms": 98.67691802978516}
+{"kind": "image", "stamp_ns": 1649856273214800512, "seq": 456}
+{"kind": "cloud", "stamp_ns": 1649856273221158000, "points": 57754, "last_ms": 98.57893371582031}
+{"kind": "image", "stamp_ns": 1649856273314798043, "seq": 457}
+{"kind": "cloud", "stamp_ns": 1649856273319740000, "points": 56713, "last_ms": 98.82879638671875}
+{"kind": "image", "stamp_ns": 1649856273414791843, "seq": 458}
+{"kind": "cloud", "stamp_ns": 1649856273418571000, "points": 56619, "last_ms": 99.37786865234375}
+{"kind": "image", "stamp_ns": 1649856273514785643, "seq": 459}
+{"kind": "cloud", "stamp_ns": 1649856273517951000, "points": 58064, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856273614779543, "seq": 460}
+{"kind": "cloud", "stamp_ns": 1649856273617953000, "points": 58970, "last_ms": 99.69973754882812}
+{"kind": "image", "stamp_ns": 1649856273714773343, "seq": 461}
+{"kind": "cloud", "stamp_ns": 1649856273717655000, "points": 58621, "last_ms": 99.57575988769531}
+{"kind": "image", "stamp_ns": 1649856273814767243, "seq": 462}
+{"kind": "cloud", "stamp_ns": 1649856273817233000, "points": 58097, "last_ms": 99.81560516357422}
+{"kind": "image", "stamp_ns": 1649856273914761043, "seq": 463}
+{"kind": "cloud", "stamp_ns": 1649856273917051000, "points": 57141, "last_ms": 100.2197265625}
+{"kind": "image", "stamp_ns": 1649856274014754843, "seq": 464}
+{"kind": "cloud", "stamp_ns": 1649856274017273000, "points": 56380, "last_ms": 99.65991973876953}
+{"kind": "image", "stamp_ns": 1649856274114748743, "seq": 465}
+{"kind": "cloud", "stamp_ns": 1649856274116935000, "points": 56048, "last_ms": 99.27677917480469}
+{"kind": "image", "stamp_ns": 1649856274214742543, "seq": 466}
+{"kind": "cloud", "stamp_ns": 1649856274216214000, "points": 56023, "last_ms": 99.71595001220703}
+{"kind": "image", "stamp_ns": 1649856274314736443, "seq": 467}
+{"kind": "cloud", "stamp_ns": 1649856274315932000, "points": 55900, "last_ms": 100.69298553466797}
+{"kind": "image", "stamp_ns": 1649856274414730243, "seq": 468}
+{"kind": "cloud", "stamp_ns": 1649856274416628000, "points": 56066, "last_ms": 101.35197448730469}
+{"kind": "image", "stamp_ns": 1649856274514724043, "seq": 469}
+{"kind": "cloud", "stamp_ns": 1649856274517982000, "points": 56701, "last_ms": 101.19795989990234}
+{"kind": "image", "stamp_ns": 1649856274614717943, "seq": 470}
+{"kind": "cloud", "stamp_ns": 1649856274619183000, "points": 57830, "last_ms": 100.68392944335938}
+{"kind": "image", "stamp_ns": 1649856274714711743, "seq": 471}
+{"kind": "cloud", "stamp_ns": 1649856274719870000, "points": 58093, "last_ms": 100.32987976074219}
+{"kind": "image", "stamp_ns": 1649856274814705543, "seq": 472}
+{"kind": "cloud", "stamp_ns": 1649856274820203000, "points": 58587, "last_ms": 100.3968734741211}
+{"kind": "image", "stamp_ns": 1649856274914699343, "seq": 473}
+{"kind": "cloud", "stamp_ns": 1649856274920603000, "points": 57742, "last_ms": 100.31700134277344}
+{"kind": "image", "stamp_ns": 1649856275014693143, "seq": 474}
+{"kind": "cloud", "stamp_ns": 1649856275020923000, "points": 56111, "last_ms": 100.16012573242188}
+{"kind": "image", "stamp_ns": 1649856275114687043, "seq": 475}
+{"kind": "cloud", "stamp_ns": 1649856275121086000, "points": 56449, "last_ms": 100.40617370605469}
+{"kind": "image", "stamp_ns": 1649856275214680843, "seq": 476}
+{"kind": "cloud", "stamp_ns": 1649856275221495000, "points": 57305, "last_ms": 102.14900970458984}
+{"kind": "image", "stamp_ns": 1649856275314674743, "seq": 477}
+{"kind": "cloud", "stamp_ns": 1649856275323647000, "points": 56353, "last_ms": 102.04887390136719}
+{"kind": "image", "stamp_ns": 1649856275414668543, "seq": 478}
+{"kind": "cloud", "stamp_ns": 1649856275425698000, "points": 56946, "last_ms": 100.51583862304688}
+{"kind": "image", "stamp_ns": 1649856275514662343, "seq": 479}
+{"kind": "cloud", "stamp_ns": 1649856275526216000, "points": 57640, "last_ms": 98.37985229492188}
+{"kind": "image", "stamp_ns": 1649856275614656243, "seq": 480}
+{"kind": "cloud", "stamp_ns": 1649856275624598000, "points": 56112, "last_ms": 96.53687286376953}
+{"kind": "image", "stamp_ns": 1649856275714650043, "seq": 481}
+{"kind": "cloud", "stamp_ns": 1649856275721138000, "points": 54407, "last_ms": 96.08793640136719}
+{"kind": "image", "stamp_ns": 1649856275814643943, "seq": 482}
+{"kind": "cloud", "stamp_ns": 1649856275817229000, "points": 55039, "last_ms": 96.13681030273438}
+{"kind": "image", "stamp_ns": 1649856275914637743, "seq": 483}
+{"kind": "cloud", "stamp_ns": 1649856275913368000, "points": 55846, "last_ms": 96.38786315917969}
+{"kind": "image", "stamp_ns": 1649856276014631543, "seq": 484}
+{"kind": "cloud", "stamp_ns": 1649856276009757000, "points": 55924, "last_ms": 97.38373565673828}
+{"kind": "image", "stamp_ns": 1649856276114625443, "seq": 485}
+{"kind": "cloud", "stamp_ns": 1649856276107143000, "points": 56770, "last_ms": 98.63090515136719}
+{"kind": "image", "stamp_ns": 1649856276214619243, "seq": 486}
+{"kind": "cloud", "stamp_ns": 1649856276205776000, "points": 57688, "last_ms": 100.1088638305664}
+{"kind": "image", "stamp_ns": 1649856276314613143, "seq": 487}
+{"kind": "cloud", "stamp_ns": 1649856276305887000, "points": 57619, "last_ms": 101.36890411376953}
+{"kind": "image", "stamp_ns": 1649856276414606943, "seq": 488}
+{"kind": "cloud", "stamp_ns": 1649856276407258000, "points": 57246, "last_ms": 102.20885467529297}
+{"kind": "image", "stamp_ns": 1649856276514600743, "seq": 489}
+{"kind": "cloud", "stamp_ns": 1649856276509469000, "points": 57249, "last_ms": 102.55288696289062}
+{"kind": "image", "stamp_ns": 1649856276614594643, "seq": 490}
+{"kind": "cloud", "stamp_ns": 1649856276612050000, "points": 56995, "last_ms": 102.54669189453125}
+{"kind": "image", "stamp_ns": 1649856276714588443, "seq": 491}
+{"kind": "cloud", "stamp_ns": 1649856276714606000, "points": 56931, "last_ms": 101.79686737060547}
+{"kind": "image", "stamp_ns": 1649856276814582343, "seq": 492}
+{"kind": "cloud", "stamp_ns": 1649856276816406000, "points": 55968, "last_ms": 101.1698226928711}
+{"kind": "image", "stamp_ns": 1649856276914576043, "seq": 493}
+{"kind": "cloud", "stamp_ns": 1649856276917585000, "points": 55528, "last_ms": 100.54206848144531}
+{"kind": "image", "stamp_ns": 1649856277014569843, "seq": 494}
+{"kind": "cloud", "stamp_ns": 1649856277018142000, "points": 55400, "last_ms": 100.39496612548828}
+{"kind": "image", "stamp_ns": 1649856277114563743, "seq": 495}
+{"kind": "cloud", "stamp_ns": 1649856277118567000, "points": 55361, "last_ms": 100.36682891845703}
+{"kind": "image", "stamp_ns": 1649856277214557543, "seq": 496}
+{"kind": "cloud", "stamp_ns": 1649856277218964000, "points": 55440, "last_ms": 100.18181610107422}
+{"kind": "image", "stamp_ns": 1649856277314548747, "seq": 497}
+{"kind": "cloud", "stamp_ns": 1649856277319176000, "points": 55450, "last_ms": 100.2349853515625}
+{"kind": "image", "stamp_ns": 1649856277414542547, "seq": 498}
+{"kind": "cloud", "stamp_ns": 1649856277419439000, "points": 55499, "last_ms": 100.4698257446289}
+{"kind": "image", "stamp_ns": 1649856277514536347, "seq": 499}
+{"kind": "cloud", "stamp_ns": 1649856277519937000, "points": 55566, "last_ms": 100.50082397460938}
+{"kind": "image", "stamp_ns": 1649856277614530247, "seq": 500}
+{"kind": "cloud", "stamp_ns": 1649856277620466000, "points": 55631, "last_ms": 100.2359390258789}
+{"kind": "image", "stamp_ns": 1649856277714524047, "seq": 501}
+{"kind": "cloud", "stamp_ns": 1649856277720711000, "points": 55682, "last_ms": 100.17776489257812}
+{"kind": "image", "stamp_ns": 1649856277814517947, "seq": 502}
+{"kind": "cloud", "stamp_ns": 1649856277820898000, "points": 55725, "last_ms": 100.23689270019531}
+{"kind": "image", "stamp_ns": 1649856277914511747, "seq": 503}
+{"kind": "cloud", "stamp_ns": 1649856277921145000, "points": 55764, "last_ms": 100.10791015625}
+{"kind": "image", "stamp_ns": 1649856278014505547, "seq": 504}
+{"kind": "cloud", "stamp_ns": 1649856278021255000, "points": 55880, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856278114499447, "seq": 505}
+{"kind": "cloud", "stamp_ns": 1649856278121243000, "points": 55936, "last_ms": 100.07476806640625}
+{"kind": "image", "stamp_ns": 1649856278214493247, "seq": 506}
+{"kind": "cloud", "stamp_ns": 1649856278221320000, "points": 55940, "last_ms": 100.0528335571289}
+{"kind": "image", "stamp_ns": 1649856278314487147, "seq": 507}
+{"kind": "cloud", "stamp_ns": 1649856278321377000, "points": 56057, "last_ms": 99.88594055175781}
+{"kind": "image", "stamp_ns": 1649856278414480947, "seq": 508}
+{"kind": "cloud", "stamp_ns": 1649856278421266000, "points": 56074, "last_ms": 99.91168975830078}
+{"kind": "image", "stamp_ns": 1649856278514474747, "seq": 509}
+{"kind": "cloud", "stamp_ns": 1649856278521182000, "points": 56104, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856278614468647, "seq": 510}
+{"kind": "cloud", "stamp_ns": 1649856278621176000, "points": 56130, "last_ms": 99.95794677734375}
+{"kind": "image", "stamp_ns": 1649856278714462447, "seq": 511}
+{"kind": "cloud", "stamp_ns": 1649856278721137000, "points": 56119, "last_ms": 99.82371520996094}
+{"kind": "image", "stamp_ns": 1649856278814456347, "seq": 512}
+{"kind": "cloud", "stamp_ns": 1649856278820963000, "points": 56193, "last_ms": 99.94888305664062}
+{"kind": "image", "stamp_ns": 1649856278914450147, "seq": 513}
+{"kind": "cloud", "stamp_ns": 1649856278920914000, "points": 56233, "last_ms": 100.07190704345703}
+{"kind": "image", "stamp_ns": 1649856279014443947, "seq": 514}
+{"kind": "cloud", "stamp_ns": 1649856279020988000, "points": 56204, "last_ms": 100.056884765625}
+{"kind": "image", "stamp_ns": 1649856279114437747, "seq": 515}
+{"kind": "cloud", "stamp_ns": 1649856279121047000, "points": 56243, "last_ms": 100.02494049072266}
+{"kind": "image", "stamp_ns": 1649856279214431547, "seq": 516}
+{"kind": "cloud", "stamp_ns": 1649856279221075000, "points": 56219, "last_ms": 100.0478286743164}
+{"kind": "image", "stamp_ns": 1649856279314425447, "seq": 517}
+{"kind": "cloud", "stamp_ns": 1649856279321125000, "points": 56211, "last_ms": 99.97987365722656}
+{"kind": "image", "stamp_ns": 1649856279414419247, "seq": 518}
+{"kind": "cloud", "stamp_ns": 1649856279421108000, "points": 56177, "last_ms": 99.9257583618164}
+{"kind": "image", "stamp_ns": 1649856279514413047, "seq": 519}
+{"kind": "cloud", "stamp_ns": 1649856279521036000, "points": 56225, "last_ms": 100.08096313476562}
+{"kind": "image", "stamp_ns": 1649856279614406947, "seq": 520}
+{"kind": "cloud", "stamp_ns": 1649856279621119000, "points": 56155, "last_ms": 100.1138687133789}
+{"kind": "image", "stamp_ns": 1649856279714400747, "seq": 521}
+{"kind": "cloud", "stamp_ns": 1649856279721235000, "points": 56115, "last_ms": 99.8728256225586}
+{"kind": "image", "stamp_ns": 1649856279814394647, "seq": 522}
+{"kind": "cloud", "stamp_ns": 1649856279821110000, "points": 56173, "last_ms": 99.9398193359375}
+{"kind": "image", "stamp_ns": 1649856279914388447, "seq": 523}
+{"kind": "cloud", "stamp_ns": 1649856279921052000, "points": 56096, "last_ms": 100.08692932128906}
+{"kind": "image", "stamp_ns": 1649856280014382247, "seq": 524}
+{"kind": "cloud", "stamp_ns": 1649856280021143000, "points": 56024, "last_ms": 100.00801086425781}
+{"kind": "image", "stamp_ns": 1649856280114376147, "seq": 525}
+{"kind": "cloud", "stamp_ns": 1649856280121154000, "points": 56021, "last_ms": 99.7977294921875}
+{"kind": "image", "stamp_ns": 1649856280214369947, "seq": 526}
+{"kind": "cloud", "stamp_ns": 1649856280220954000, "points": 56034, "last_ms": 99.8728256225586}
+{"kind": "image", "stamp_ns": 1649856280314363847, "seq": 527}
+{"kind": "cloud", "stamp_ns": 1649856280320829000, "points": 56085, "last_ms": 100.00395965576172}
+{"kind": "image", "stamp_ns": 1649856280414357647, "seq": 528}
+{"kind": "cloud", "stamp_ns": 1649856280420837000, "points": 56146, "last_ms": 100.11005401611328}
+{"kind": "image", "stamp_ns": 1649856280514351447, "seq": 529}
+{"kind": "cloud", "stamp_ns": 1649856280520950000, "points": 56165, "last_ms": 100.09789276123047}
+{"kind": "image", "stamp_ns": 1649856280614345347, "seq": 530}
+{"kind": "cloud", "stamp_ns": 1649856280621051000, "points": 56080, "last_ms": 100.056884765625}
+{"kind": "image", "stamp_ns": 1649856280714339147, "seq": 531}
+{"kind": "cloud", "stamp_ns": 1649856280721111000, "points": 56082, "last_ms": 100.01683044433594}
+{"kind": "image", "stamp_ns": 1649856280814333047, "seq": 532}
+{"kind": "cloud", "stamp_ns": 1649856280821130000, "points": 56044, "last_ms": 99.9808349609375}
+{"kind": "image", "stamp_ns": 1649856280914326847, "seq": 533}
+{"kind": "cloud", "stamp_ns": 1649856280921113000, "points": 55959, "last_ms": 100.01277923583984}
+{"kind": "image", "stamp_ns": 1649856281014320647, "seq": 534}
+{"kind": "cloud", "stamp_ns": 1649856281021130000, "points": 55874, "last_ms": 99.97677612304688}
+{"kind": "image", "stamp_ns": 1649856281114314547, "seq": 535}
+{"kind": "cloud", "stamp_ns": 1649856281121111000, "points": 55783, "last_ms": 100.01396942138672}
+{"kind": "image", "stamp_ns": 1649856281214308347, "seq": 536}
+{"kind": "cloud", "stamp_ns": 1649856281221143000, "points": 55737, "last_ms": 99.89881896972656}
+{"kind": "image", "stamp_ns": 1649856281314300157, "seq": 537}
+{"kind": "cloud", "stamp_ns": 1649856281321060000, "points": 55738, "last_ms": 99.90000915527344}
+{"kind": "image", "stamp_ns": 1649856281414293857, "seq": 538}
+{"kind": "cloud", "stamp_ns": 1649856281420978000, "points": 55784, "last_ms": 99.94387817382812}
+{"kind": "image", "stamp_ns": 1649856281514287657, "seq": 539}
+{"kind": "cloud", "stamp_ns": 1649856281520940000, "points": 55742, "last_ms": 99.95484161376953}
+{"kind": "image", "stamp_ns": 1649856281614281457, "seq": 540}
+{"kind": "cloud", "stamp_ns": 1649856281620908000, "points": 55775, "last_ms": 99.99275207519531}
+{"kind": "image", "stamp_ns": 1649856281714275257, "seq": 541}
+{"kind": "cloud", "stamp_ns": 1649856281720906000, "points": 55778, "last_ms": 100.00872802734375}
+{"kind": "image", "stamp_ns": 1649856281814269057, "seq": 542}
+{"kind": "cloud", "stamp_ns": 1649856281820919000, "points": 55718, "last_ms": 99.90382385253906}
+{"kind": "image", "stamp_ns": 1649856281914262857, "seq": 543}
+{"kind": "cloud", "stamp_ns": 1649856281920827000, "points": 55805, "last_ms": 99.995849609375}
+{"kind": "image", "stamp_ns": 1649856282014256557, "seq": 544}
+{"kind": "cloud", "stamp_ns": 1649856282020825000, "points": 55798, "last_ms": 100.0459213256836}
+{"kind": "image", "stamp_ns": 1649856282114250457, "seq": 545}
+{"kind": "cloud", "stamp_ns": 1649856282120873000, "points": 55737, "last_ms": 100.06094360351562}
+{"kind": "image", "stamp_ns": 1649856282214244157, "seq": 546}
+{"kind": "cloud", "stamp_ns": 1649856282220938000, "points": 55718, "last_ms": 100.0418701171875}
+{"kind": "image", "stamp_ns": 1649856282314238057, "seq": 547}
+{"kind": "cloud", "stamp_ns": 1649856282320982000, "points": 55752, "last_ms": 100.0418701171875}
+{"kind": "image", "stamp_ns": 1649856282414231857, "seq": 548}
+{"kind": "cloud", "stamp_ns": 1649856282421026000, "points": 55755, "last_ms": 100.03280639648438}
+{"kind": "image", "stamp_ns": 1649856282514225557, "seq": 549}
+{"kind": "cloud", "stamp_ns": 1649856282521061000, "points": 55756, "last_ms": 99.9917984008789}
+{"kind": "image", "stamp_ns": 1649856282614219457, "seq": 550}
+{"kind": "cloud", "stamp_ns": 1649856282621055000, "points": 55786, "last_ms": 99.97200775146484}
+{"kind": "image", "stamp_ns": 1649856282714213157, "seq": 551}
+{"kind": "cloud", "stamp_ns": 1649856282721029000, "points": 55714, "last_ms": 99.96772003173828}
+{"kind": "image", "stamp_ns": 1649856282814207057, "seq": 552}
+{"kind": "cloud", "stamp_ns": 1649856282820999000, "points": 55656, "last_ms": 99.98893737792969}
+{"kind": "image", "stamp_ns": 1649856282914200757, "seq": 553}
+{"kind": "cloud", "stamp_ns": 1649856282920990000, "points": 55654, "last_ms": 99.96986389160156}
+{"kind": "image", "stamp_ns": 1649856283014194557, "seq": 554}
+{"kind": "cloud", "stamp_ns": 1649856283020962000, "points": 55577, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856283114188357, "seq": 555}
+{"kind": "cloud", "stamp_ns": 1649856283120964000, "points": 55616, "last_ms": 100.00372314453125}
+{"kind": "image", "stamp_ns": 1649856283214182157, "seq": 556}
+{"kind": "cloud", "stamp_ns": 1649856283220970000, "points": 55589, "last_ms": 99.99203491210938}
+{"kind": "image", "stamp_ns": 1649856283314175957, "seq": 557}
+{"kind": "cloud", "stamp_ns": 1649856283320965000, "points": 55609, "last_ms": 99.9867935180664}
+{"kind": "image", "stamp_ns": 1649856283414169757, "seq": 558}
+{"kind": "cloud", "stamp_ns": 1649856283420954000, "points": 55594, "last_ms": 99.9848861694336}
+{"kind": "image", "stamp_ns": 1649856283514163457, "seq": 559}
+{"kind": "cloud", "stamp_ns": 1649856283520941000, "points": 55603, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856283614157357, "seq": 560}
+{"kind": "cloud", "stamp_ns": 1649856283620943000, "points": 55558, "last_ms": 99.98274230957031}
+{"kind": "image", "stamp_ns": 1649856283714151157, "seq": 561}
+{"kind": "cloud", "stamp_ns": 1649856283720930000, "points": 55619, "last_ms": 99.97677612304688}
+{"kind": "image", "stamp_ns": 1649856283814144957, "seq": 562}
+{"kind": "cloud", "stamp_ns": 1649856283820911000, "points": 55559, "last_ms": 100.00991821289062}
+{"kind": "image", "stamp_ns": 1649856283914138757, "seq": 563}
+{"kind": "cloud", "stamp_ns": 1649856283920925000, "points": 55620, "last_ms": 100.03495025634766}
+{"kind": "image", "stamp_ns": 1649856284014132457, "seq": 564}
+{"kind": "cloud", "stamp_ns": 1649856284020964000, "points": 55659, "last_ms": 100.03590393066406}
+{"kind": "image", "stamp_ns": 1649856284114126357, "seq": 565}
+{"kind": "cloud", "stamp_ns": 1649856284121004000, "points": 55608, "last_ms": 99.995849609375}
+{"kind": "image", "stamp_ns": 1649856284214120057, "seq": 566}
+{"kind": "cloud", "stamp_ns": 1649856284221004000, "points": 55642, "last_ms": 99.95985412597656}
+{"kind": "image", "stamp_ns": 1649856284314113957, "seq": 567}
+{"kind": "cloud", "stamp_ns": 1649856284320966000, "points": 55651, "last_ms": 99.95484161376953}
+{"kind": "image", "stamp_ns": 1649856284414107657, "seq": 568}
+{"kind": "cloud", "stamp_ns": 1649856284420923000, "points": 55644, "last_ms": 99.96795654296875}
+{"kind": "image", "stamp_ns": 1649856284514101457, "seq": 569}
+{"kind": "cloud", "stamp_ns": 1649856284520894000, "points": 55625, "last_ms": 99.97582244873047}
+{"kind": "image", "stamp_ns": 1649856284614095257, "seq": 570}
+{"kind": "cloud", "stamp_ns": 1649856284620872000, "points": 55611, "last_ms": 99.9808349609375}
+{"kind": "image", "stamp_ns": 1649856284714089057, "seq": 571}
+{"kind": "cloud", "stamp_ns": 1649856284720855000, "points": 55609, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856284814082857, "seq": 572}
+{"kind": "cloud", "stamp_ns": 1649856284820847000, "points": 55645, "last_ms": 100.00372314453125}
+{"kind": "image", "stamp_ns": 1649856284914076657, "seq": 573}
+{"kind": "cloud", "stamp_ns": 1649856284920853000, "points": 55668, "last_ms": 100.01087188720703}
+{"kind": "image", "stamp_ns": 1649856285014070457, "seq": 574}
+{"kind": "cloud", "stamp_ns": 1649856285020866000, "points": 55592, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856285114064257, "seq": 575}
+{"kind": "cloud", "stamp_ns": 1649856285120872000, "points": 55619, "last_ms": 100.00491333007812}
+{"kind": "image", "stamp_ns": 1649856285214058057, "seq": 576}
+{"kind": "cloud", "stamp_ns": 1649856285220880000, "points": 55605, "last_ms": 99.995849609375}
+{"kind": "image", "stamp_ns": 1649856285314051857, "seq": 577}
+{"kind": "cloud", "stamp_ns": 1649856285320878000, "points": 55625, "last_ms": 99.9948959350586}
+{"kind": "image", "stamp_ns": 1649856285414045657, "seq": 578}
+{"kind": "cloud", "stamp_ns": 1649856285420876000, "points": 55582, "last_ms": 99.9867935180664}
+{"kind": "image", "stamp_ns": 1649856285514039357, "seq": 579}
+{"kind": "cloud", "stamp_ns": 1649856285520865000, "points": 55631, "last_ms": 99.97582244873047}
+{"kind": "image", "stamp_ns": 1649856285614033257, "seq": 580}
+{"kind": "cloud", "stamp_ns": 1649856285620843000, "points": 55565, "last_ms": 99.98202514648438}
+{"kind": "image", "stamp_ns": 1649856285714026957, "seq": 581}
+{"kind": "cloud", "stamp_ns": 1649856285720828000, "points": 55630, "last_ms": 99.99775695800781}
+{"kind": "image", "stamp_ns": 1649856285814020857, "seq": 582}
+{"kind": "cloud", "stamp_ns": 1649856285820828000, "points": 55550, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856285914014557, "seq": 583}
+{"kind": "cloud", "stamp_ns": 1649856285920830000, "points": 55526, "last_ms": 99.9968032836914}
+{"kind": "image", "stamp_ns": 1649856286014008357, "seq": 584}
+{"kind": "cloud", "stamp_ns": 1649856286020829000, "points": 55573, "last_ms": 99.9968032836914}
+{"kind": "image", "stamp_ns": 1649856286114002157, "seq": 585}
+{"kind": "cloud", "stamp_ns": 1649856286120828000, "points": 55567, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856286213995957, "seq": 586}
+{"kind": "cloud", "stamp_ns": 1649856286220830000, "points": 55577, "last_ms": 100.00896453857422}
+{"kind": "image", "stamp_ns": 1649856286313989857, "seq": 587}
+{"kind": "cloud", "stamp_ns": 1649856286320842000, "points": 55560, "last_ms": 100.01587677001953}
+{"kind": "image", "stamp_ns": 1649856286413983557, "seq": 588}
+{"kind": "cloud", "stamp_ns": 1649856286420861000, "points": 55531, "last_ms": 100.01587677001953}
+{"kind": "image", "stamp_ns": 1649856286513977357, "seq": 589}
+{"kind": "cloud", "stamp_ns": 1649856286520879000, "points": 55578, "last_ms": 100.00276184082031}
+{"kind": "image", "stamp_ns": 1649856286613971157, "seq": 590}
+{"kind": "cloud", "stamp_ns": 1649856286620884000, "points": 55563, "last_ms": 99.99203491210938}
+{"kind": "image", "stamp_ns": 1649856286713964957, "seq": 591}
+{"kind": "cloud", "stamp_ns": 1649856286720879000, "points": 55570, "last_ms": 99.97486877441406}
+{"kind": "image", "stamp_ns": 1649856286813958757, "seq": 592}
+{"kind": "cloud", "stamp_ns": 1649856286820857000, "points": 55596, "last_ms": 99.97677612304688}
+{"kind": "image", "stamp_ns": 1649856286913952557, "seq": 593}
+{"kind": "cloud", "stamp_ns": 1649856286920836000, "points": 55555, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856287013946257, "seq": 594}
+{"kind": "cloud", "stamp_ns": 1649856287020829000, "points": 55607, "last_ms": 99.98798370361328}
+{"kind": "image", "stamp_ns": 1649856287113940157, "seq": 595}
+{"kind": "cloud", "stamp_ns": 1649856287120820000, "points": 55541, "last_ms": 99.96986389160156}
+{"kind": "image", "stamp_ns": 1649856287213933857, "seq": 596}
+{"kind": "cloud", "stamp_ns": 1649856287220793000, "points": 55539, "last_ms": 99.97081756591797}
+{"kind": "image", "stamp_ns": 1649856287313927757, "seq": 597}
+{"kind": "cloud", "stamp_ns": 1649856287320766000, "points": 55573, "last_ms": 99.97081756591797}
+{"kind": "image", "stamp_ns": 1649856287413921457, "seq": 598}
+{"kind": "cloud", "stamp_ns": 1649856287420739000, "points": 55572, "last_ms": 99.98297882080078}
+{"kind": "image", "stamp_ns": 1649856287513915257, "seq": 599}
+{"kind": "cloud", "stamp_ns": 1649856287520725000, "points": 55551, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856287613909157, "seq": 600}
+{"kind": "cloud", "stamp_ns": 1649856287620713000, "points": 55515, "last_ms": 99.9867935180664}
+{"kind": "image", "stamp_ns": 1649856287713902857, "seq": 601}
+{"kind": "cloud", "stamp_ns": 1649856287720702000, "points": 55565, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856287813896757, "seq": 602}
+{"kind": "cloud", "stamp_ns": 1649856287820695000, "points": 55588, "last_ms": 99.99298858642578}
+{"kind": "image", "stamp_ns": 1649856287913890457, "seq": 603}
+{"kind": "cloud", "stamp_ns": 1649856287920691000, "points": 55543, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856288013884257, "seq": 604}
+{"kind": "cloud", "stamp_ns": 1649856288020679000, "points": 55576, "last_ms": 99.99394226074219}
+{"kind": "image", "stamp_ns": 1649856288113878057, "seq": 605}
+{"kind": "cloud", "stamp_ns": 1649856288120676000, "points": 55603, "last_ms": 99.995849609375}
+{"kind": "image", "stamp_ns": 1649856288213871857, "seq": 606}
+{"kind": "cloud", "stamp_ns": 1649856288220674000, "points": 55577, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856288313865657, "seq": 607}
+{"kind": "cloud", "stamp_ns": 1649856288320677000, "points": 55558, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856288413859457, "seq": 608}
+{"kind": "cloud", "stamp_ns": 1649856288420681000, "points": 55543, "last_ms": 100.02279663085938}
+{"kind": "image", "stamp_ns": 1649856288513853157, "seq": 609}
+{"kind": "cloud", "stamp_ns": 1649856288520706000, "points": 55633, "last_ms": 100.02303314208984}
+{"kind": "image", "stamp_ns": 1649856288613847057, "seq": 610}
+{"kind": "cloud", "stamp_ns": 1649856288620732000, "points": 55613, "last_ms": 100.02088928222656}
+{"kind": "image", "stamp_ns": 1649856288713840757, "seq": 611}
+{"kind": "cloud", "stamp_ns": 1649856288720756000, "points": 55572, "last_ms": 100.00777435302734}
+{"kind": "image", "stamp_ns": 1649856288813834657, "seq": 612}
+{"kind": "cloud", "stamp_ns": 1649856288820766000, "points": 55517, "last_ms": 99.9848861694336}
+{"kind": "image", "stamp_ns": 1649856288913828457, "seq": 613}
+{"kind": "cloud", "stamp_ns": 1649856288920753000, "points": 55531, "last_ms": 99.9867935180664}
+{"kind": "image", "stamp_ns": 1649856289013822157, "seq": 614}
+{"kind": "cloud", "stamp_ns": 1649856289020742000, "points": 55553, "last_ms": 99.94697570800781}
+{"kind": "image", "stamp_ns": 1649856289113816057, "seq": 615}
+{"kind": "cloud", "stamp_ns": 1649856289120692000, "points": 55621, "last_ms": 99.86090850830078}
+{"kind": "image", "stamp_ns": 1649856289213809757, "seq": 616}
+{"kind": "cloud", "stamp_ns": 1649856289220557000, "points": 55686, "last_ms": 99.37381744384766}
+{"kind": "image", "stamp_ns": 1649856289313803657, "seq": 617}
+{"kind": "cloud", "stamp_ns": 1649856289319947000, "points": 56121, "last_ms": 98.61588287353516}
+{"kind": "image", "stamp_ns": 1649856289413797357, "seq": 618}
+{"kind": "cloud", "stamp_ns": 1649856289418565000, "points": 56421, "last_ms": 97.63264465332031}
+{"kind": "image", "stamp_ns": 1649856289513791157, "seq": 619}
+{"kind": "cloud", "stamp_ns": 1649856289516200000, "points": 56989, "last_ms": 97.83077239990234}
+{"kind": "image", "stamp_ns": 1649856289613784957, "seq": 620}
+{"kind": "cloud", "stamp_ns": 1649856289614034000, "points": 56940, "last_ms": 99.54905700683594}
+{"kind": "image", "stamp_ns": 1649856289713778757, "seq": 621}
+{"kind": "cloud", "stamp_ns": 1649856289713586000, "points": 57782, "last_ms": 102.3917236328125}
+{"kind": "image", "stamp_ns": 1649856289813772557, "seq": 622}
+{"kind": "cloud", "stamp_ns": 1649856289815980000, "points": 58393, "last_ms": 103.48391723632812}
+{"kind": "image", "stamp_ns": 1649856289913766357, "seq": 623}
+{"kind": "cloud", "stamp_ns": 1649856289919466000, "points": 57823, "last_ms": 102.45179748535156}
+{"kind": "image", "stamp_ns": 1649856290013760157, "seq": 624}
+{"kind": "cloud", "stamp_ns": 1649856290021920000, "points": 55553, "last_ms": 101.66382598876953}
+{"kind": "image", "stamp_ns": 1649856290113753957, "seq": 625}
+{"kind": "cloud", "stamp_ns": 1649856290123586000, "points": 58089, "last_ms": 101.21488952636719}
+{"kind": "image", "stamp_ns": 1649856290213747757, "seq": 626}
+{"kind": "cloud", "stamp_ns": 1649856290224803000, "points": 58019, "last_ms": 99.5228271484375}
+{"kind": "image", "stamp_ns": 1649856290313741557, "seq": 627}
+{"kind": "cloud", "stamp_ns": 1649856290324328000, "points": 56918, "last_ms": 97.63288879394531}
+{"kind": "image", "stamp_ns": 1649856290413735357, "seq": 628}
+{"kind": "cloud", "stamp_ns": 1649856290421963000, "points": 56270, "last_ms": 96.88496398925781}
+{"kind": "image", "stamp_ns": 1649856290513729057, "seq": 629}
+{"kind": "cloud", "stamp_ns": 1649856290518851000, "points": 55573, "last_ms": 97.48291778564453}
+{"kind": "image", "stamp_ns": 1649856290613722957, "seq": 630}
+{"kind": "cloud", "stamp_ns": 1649856290616337000, "points": 55112, "last_ms": 98.12974548339844}
+{"kind": "image", "stamp_ns": 1649856290713716657, "seq": 631}
+{"kind": "cloud", "stamp_ns": 1649856290714469000, "points": 55461, "last_ms": 98.77896118164062}
+{"kind": "image", "stamp_ns": 1649856290813710557, "seq": 632}
+{"kind": "cloud", "stamp_ns": 1649856290813251000, "points": 55238, "last_ms": 99.64680480957031}
+{"kind": "image", "stamp_ns": 1649856290913704257, "seq": 633}
+{"kind": "cloud", "stamp_ns": 1649856290912900000, "points": 54334, "last_ms": 100.17585754394531}
+{"kind": "image", "stamp_ns": 1649856291013698057, "seq": 634}
+{"kind": "cloud", "stamp_ns": 1649856291013078000, "points": 55122, "last_ms": 100.35086059570312}
+{"kind": "image", "stamp_ns": 1649856291113691857, "seq": 635}
+{"kind": "cloud", "stamp_ns": 1649856291113431000, "points": 54746, "last_ms": 100.5299072265625}
+{"kind": "image", "stamp_ns": 1649856291213685657, "seq": 636}
+{"kind": "cloud", "stamp_ns": 1649856291213963000, "points": 54369, "last_ms": 100.67176818847656}
+{"kind": "image", "stamp_ns": 1649856291313679557, "seq": 637}
+{"kind": "cloud", "stamp_ns": 1649856291314637000, "points": 54678, "last_ms": 100.67200469970703}
+{"kind": "image", "stamp_ns": 1649856291413673257, "seq": 638}
+{"kind": "cloud", "stamp_ns": 1649856291415312000, "points": 56136, "last_ms": 100.24475860595703}
+{"kind": "image", "stamp_ns": 1649856291513667057, "seq": 639}
+{"kind": "cloud", "stamp_ns": 1649856291515559000, "points": 57827, "last_ms": 100.21090698242188}
+{"kind": "image", "stamp_ns": 1649856291613660857, "seq": 640}
+{"kind": "cloud", "stamp_ns": 1649856291615772000, "points": 58713, "last_ms": 100.38280487060547}
+{"kind": "image", "stamp_ns": 1649856291713654657, "seq": 641}
+{"kind": "cloud", "stamp_ns": 1649856291716157000, "points": 59022, "last_ms": 100.62194061279297}
+{"kind": "image", "stamp_ns": 1649856291813648457, "seq": 642}
+{"kind": "cloud", "stamp_ns": 1649856291816781000, "points": 60015, "last_ms": 100.61692810058594}
+{"kind": "image", "stamp_ns": 1649856291913642257, "seq": 643}
+{"kind": "cloud", "stamp_ns": 1649856291917401000, "points": 60329, "last_ms": 100.42190551757812}
+{"kind": "image", "stamp_ns": 1649856292013635957, "seq": 644}
+{"kind": "cloud", "stamp_ns": 1649856292017826000, "points": 60343, "last_ms": 100.36682891845703}
+{"kind": "image", "stamp_ns": 1649856292113629857, "seq": 645}
+{"kind": "cloud", "stamp_ns": 1649856292118196000, "points": 60247, "last_ms": 100.16083526611328}
+{"kind": "image", "stamp_ns": 1649856292213623557, "seq": 646}
+{"kind": "cloud", "stamp_ns": 1649856292218359000, "points": 60702, "last_ms": 99.77698516845703}
+{"kind": "image", "stamp_ns": 1649856292313617457, "seq": 647}
+{"kind": "cloud", "stamp_ns": 1649856292318139000, "points": 60742, "last_ms": 100.117919921875}
+{"kind": "image", "stamp_ns": 1649856292413611157, "seq": 648}
+{"kind": "cloud", "stamp_ns": 1649856292418260000, "points": 60764, "last_ms": 100.44169616699219}
+{"kind": "image", "stamp_ns": 1649856292513604957, "seq": 649}
+{"kind": "cloud", "stamp_ns": 1649856292518704000, "points": 60716, "last_ms": 100.67486572265625}
+{"kind": "image", "stamp_ns": 1649856292613598857, "seq": 650}
+{"kind": "cloud", "stamp_ns": 1649856292619381000, "points": 60542, "last_ms": 100.41499328613281}
+{"kind": "image", "stamp_ns": 1649856292713592557, "seq": 651}
+{"kind": "cloud", "stamp_ns": 1649856292719799000, "points": 60354, "last_ms": 100.31390380859375}
+{"kind": "image", "stamp_ns": 1649856292813586457, "seq": 652}
+{"kind": "cloud", "stamp_ns": 1649856292820116000, "points": 60064, "last_ms": 100.16679382324219}
+{"kind": "image", "stamp_ns": 1649856292913580157, "seq": 653}
+{"kind": "cloud", "stamp_ns": 1649856292920285000, "points": 59697, "last_ms": 100.06094360351562}
+{"kind": "image", "stamp_ns": 1649856293013573957, "seq": 654}
+{"kind": "cloud", "stamp_ns": 1649856293020349000, "points": 59570, "last_ms": 99.9257583618164}
+{"kind": "image", "stamp_ns": 1649856293113567757, "seq": 655}
+{"kind": "cloud", "stamp_ns": 1649856293120277000, "points": 58873, "last_ms": 99.5888671875}
+{"kind": "image", "stamp_ns": 1649856293213561557, "seq": 656}
+{"kind": "cloud", "stamp_ns": 1649856293219868000, "points": 57756, "last_ms": 99.761962890625}
+{"kind": "image", "stamp_ns": 1649856293313555357, "seq": 657}
+{"kind": "cloud", "stamp_ns": 1649856293319633000, "points": 55979, "last_ms": 100.29578399658203}
+{"kind": "image", "stamp_ns": 1649856293413549157, "seq": 658}
+{"kind": "cloud", "stamp_ns": 1649856293419931000, "points": 54819, "last_ms": 100.51178741455078}
+{"kind": "image", "stamp_ns": 1649856293513542857, "seq": 659}
+{"kind": "cloud", "stamp_ns": 1649856293520445000, "points": 53062, "last_ms": 100.41260528564453}
+{"kind": "image", "stamp_ns": 1649856293613536757, "seq": 660}
+{"kind": "cloud", "stamp_ns": 1649856293620860000, "points": 52931, "last_ms": 100.43167877197266}
+{"kind": "image", "stamp_ns": 1649856293713530457, "seq": 661}
+{"kind": "cloud", "stamp_ns": 1649856293721294000, "points": 54426, "last_ms": 99.89285278320312}
+{"kind": "image", "stamp_ns": 1649856293813524357, "seq": 662}
+{"kind": "cloud", "stamp_ns": 1649856293821189000, "points": 55823, "last_ms": 99.02882385253906}
+{"kind": "image", "stamp_ns": 1649856293913518157, "seq": 663}
+{"kind": "cloud", "stamp_ns": 1649856293920220000, "points": 56491, "last_ms": 98.67906188964844}
+{"kind": "image", "stamp_ns": 1649856294013511857, "seq": 664}
+{"kind": "cloud", "stamp_ns": 1649856294018902000, "points": 57110, "last_ms": 98.9267807006836}
+{"kind": "image", "stamp_ns": 1649856294113505757, "seq": 665}
+{"kind": "cloud", "stamp_ns": 1649856294117831000, "points": 57313, "last_ms": 99.2279052734375}
+{"kind": "image", "stamp_ns": 1649856294213499457, "seq": 666}
+{"kind": "cloud", "stamp_ns": 1649856294217061000, "points": 57894, "last_ms": 99.53475189208984}
+{"kind": "image", "stamp_ns": 1649856294313493357, "seq": 667}
+{"kind": "cloud", "stamp_ns": 1649856294316598000, "points": 58408, "last_ms": 100.11100769042969}
+{"kind": "image", "stamp_ns": 1649856294413487057, "seq": 668}
+{"kind": "cloud", "stamp_ns": 1649856294416712000, "points": 58198, "last_ms": 100.73780822753906}
+{"kind": "image", "stamp_ns": 1649856294513480857, "seq": 669}
+{"kind": "cloud", "stamp_ns": 1649856294517452000, "points": 58064, "last_ms": 101.18079376220703}
+{"kind": "image", "stamp_ns": 1649856294613474657, "seq": 670}
+{"kind": "cloud", "stamp_ns": 1649856294618635000, "points": 58067, "last_ms": 101.15790557861328}
+{"kind": "image", "stamp_ns": 1649856294713468457, "seq": 671}
+{"kind": "cloud", "stamp_ns": 1649856294719795000, "points": 58061, "last_ms": 100.63887023925781}
+{"kind": "image", "stamp_ns": 1649856294813462257, "seq": 672}
+{"kind": "cloud", "stamp_ns": 1649856294820436000, "points": 58002, "last_ms": 100.24595642089844}
+{"kind": "image", "stamp_ns": 1649856294913456057, "seq": 673}
+{"kind": "cloud", "stamp_ns": 1649856294920685000, "points": 58530, "last_ms": 99.90692138671875}
+{"kind": "image", "stamp_ns": 1649856295013449757, "seq": 674}
+{"kind": "cloud", "stamp_ns": 1649856295020595000, "points": 59069, "last_ms": 99.83587646484375}
+{"kind": "image", "stamp_ns": 1649856295113443657, "seq": 675}
+{"kind": "cloud", "stamp_ns": 1649856295120434000, "points": 58107, "last_ms": 99.8067855834961}
+{"kind": "image", "stamp_ns": 1649856295213437457, "seq": 676}
+{"kind": "cloud", "stamp_ns": 1649856295220243000, "points": 57495, "last_ms": 99.82585906982422}
+{"kind": "image", "stamp_ns": 1649856295313429125, "seq": 677}
+{"kind": "cloud", "stamp_ns": 1649856295320071000, "points": 55854, "last_ms": 100.1119613647461}
+{"kind": "image", "stamp_ns": 1649856295413422925, "seq": 678}
+{"kind": "cloud", "stamp_ns": 1649856295420186000, "points": 54743, "last_ms": 100.25477600097656}
+{"kind": "image", "stamp_ns": 1649856295513416625, "seq": 679}
+{"kind": "cloud", "stamp_ns": 1649856295520443000, "points": 54127, "last_ms": 100.4068832397461}
+{"kind": "image", "stamp_ns": 1649856295613410525, "seq": 680}
+{"kind": "cloud", "stamp_ns": 1649856295620852000, "points": 55979, "last_ms": 100.25787353515625}
+{"kind": "image", "stamp_ns": 1649856295713404225, "seq": 681}
+{"kind": "cloud", "stamp_ns": 1649856295721112000, "points": 57562, "last_ms": 99.70999145507812}
+{"kind": "image", "stamp_ns": 1649856295813398125, "seq": 682}
+{"kind": "cloud", "stamp_ns": 1649856295820825000, "points": 58047, "last_ms": 99.32565307617188}
+{"kind": "image", "stamp_ns": 1649856295913391825, "seq": 683}
+{"kind": "cloud", "stamp_ns": 1649856295920153000, "points": 59184, "last_ms": 99.27796936035156}
+{"kind": "image", "stamp_ns": 1649856296013385625, "seq": 684}
+{"kind": "cloud", "stamp_ns": 1649856296019433000, "points": 60561, "last_ms": 99.52688598632812}
+{"kind": "image", "stamp_ns": 1649856296113379425, "seq": 685}
+{"kind": "cloud", "stamp_ns": 1649856296118963000, "points": 60947, "last_ms": 99.42388916015625}
+{"kind": "image", "stamp_ns": 1649856296213373225, "seq": 686}
+{"kind": "cloud", "stamp_ns": 1649856296218389000, "points": 61218, "last_ms": 99.57695007324219}
+{"kind": "image", "stamp_ns": 1649856296313367025, "seq": 687}
+{"kind": "cloud", "stamp_ns": 1649856296317967000, "points": 61181, "last_ms": 99.9410171508789}
+{"kind": "image", "stamp_ns": 1649856296413360825, "seq": 688}
+{"kind": "cloud", "stamp_ns": 1649856296417911000, "points": 61148, "last_ms": 100.33488464355469}
+{"kind": "image", "stamp_ns": 1649856296513354625, "seq": 689}
+{"kind": "cloud", "stamp_ns": 1649856296518251000, "points": 60921, "last_ms": 100.52609252929688}
+{"kind": "image", "stamp_ns": 1649856296613348425, "seq": 690}
+{"kind": "cloud", "stamp_ns": 1649856296618782000, "points": 60652, "last_ms": 100.54588317871094}
+{"kind": "image", "stamp_ns": 1649856296713342225, "seq": 691}
+{"kind": "cloud", "stamp_ns": 1649856296719332000, "points": 60427, "last_ms": 100.74186706542969}
+{"kind": "image", "stamp_ns": 1649856296813336025, "seq": 692}
+{"kind": "cloud", "stamp_ns": 1649856296820080000, "points": 60250, "last_ms": 100.66079711914062}
+{"kind": "image", "stamp_ns": 1649856296913329825, "seq": 693}
+{"kind": "cloud", "stamp_ns": 1649856296920744000, "points": 60163, "last_ms": 100.11005401611328}
+{"kind": "image", "stamp_ns": 1649856297013323525, "seq": 694}
+{"kind": "cloud", "stamp_ns": 1649856297020854000, "points": 59709, "last_ms": 99.38287353515625}
+{"kind": "image", "stamp_ns": 1649856297113317425, "seq": 695}
+{"kind": "cloud", "stamp_ns": 1649856297120239000, "points": 58997, "last_ms": 98.927978515625}
+{"kind": "image", "stamp_ns": 1649856297213311125, "seq": 696}
+{"kind": "cloud", "stamp_ns": 1649856297219170000, "points": 57284, "last_ms": 99.2269515991211}
+{"kind": "image", "stamp_ns": 1649856297313305025, "seq": 697}
+{"kind": "cloud", "stamp_ns": 1649856297318400000, "points": 57227, "last_ms": 99.93004608154297}
+{"kind": "image", "stamp_ns": 1649856297413298725, "seq": 698}
+{"kind": "cloud", "stamp_ns": 1649856297418333000, "points": 56769, "last_ms": 100.09384155273438}
+{"kind": "image", "stamp_ns": 1649856297513292525, "seq": 699}
+{"kind": "cloud", "stamp_ns": 1649856297518429000, "points": 56357, "last_ms": 100.5258560180664}
+{"kind": "image", "stamp_ns": 1649856297613286325, "seq": 700}
+{"kind": "cloud", "stamp_ns": 1649856297618957000, "points": 57791, "last_ms": 101.24492645263672}
+{"kind": "image", "stamp_ns": 1649856297713280125, "seq": 701}
+{"kind": "cloud", "stamp_ns": 1649856297720205000, "points": 58866, "last_ms": 100.80099487304688}
+{"kind": "image", "stamp_ns": 1649856297813274025, "seq": 702}
+{"kind": "cloud", "stamp_ns": 1649856297821009000, "points": 59617, "last_ms": 99.80106353759766}
+{"kind": "image", "stamp_ns": 1649856297913267725, "seq": 703}
+{"kind": "cloud", "stamp_ns": 1649856297920813000, "points": 60250, "last_ms": 99.07579040527344}
+{"kind": "image", "stamp_ns": 1649856298013261525, "seq": 704}
+{"kind": "cloud", "stamp_ns": 1649856298019891000, "points": 60468, "last_ms": 99.17784118652344}
+{"kind": "image", "stamp_ns": 1649856298113255325, "seq": 705}
+{"kind": "cloud", "stamp_ns": 1649856298119071000, "points": 60784, "last_ms": 99.47586059570312}
+{"kind": "image", "stamp_ns": 1649856298213249125, "seq": 706}
+{"kind": "cloud", "stamp_ns": 1649856298218549000, "points": 60928, "last_ms": 99.78985595703125}
+{"kind": "image", "stamp_ns": 1649856298313242925, "seq": 707}
+{"kind": "cloud", "stamp_ns": 1649856298318341000, "points": 61003, "last_ms": 99.87593078613281}
+{"kind": "image", "stamp_ns": 1649856298413236725, "seq": 708}
+{"kind": "cloud", "stamp_ns": 1649856298418220000, "points": 60535, "last_ms": 99.62892150878906}
+{"kind": "image", "stamp_ns": 1649856298513230425, "seq": 709}
+{"kind": "cloud", "stamp_ns": 1649856298517852000, "points": 60366, "last_ms": 100.06690216064453}
+{"kind": "image", "stamp_ns": 1649856298613224325, "seq": 710}
+{"kind": "cloud", "stamp_ns": 1649856298617922000, "points": 60304, "last_ms": 100.60382080078125}
+{"kind": "image", "stamp_ns": 1649856298713218025, "seq": 711}
+{"kind": "cloud", "stamp_ns": 1649856298718528000, "points": 59741, "last_ms": 100.97289276123047}
+{"kind": "image", "stamp_ns": 1649856298813211925, "seq": 712}
+{"kind": "cloud", "stamp_ns": 1649856298819504000, "points": 59922, "last_ms": 100.15892791748047}
+{"kind": "image", "stamp_ns": 1649856298913205625, "seq": 713}
+{"kind": "cloud", "stamp_ns": 1649856298919666000, "points": 60207, "last_ms": 99.52473449707031}
+{"kind": "image", "stamp_ns": 1649856299013199425, "seq": 714}
+{"kind": "cloud", "stamp_ns": 1649856299019193000, "points": 59640, "last_ms": 99.4780044555664}
+{"kind": "image", "stamp_ns": 1649856299113193325, "seq": 715}
+{"kind": "cloud", "stamp_ns": 1649856299118671000, "points": 58780, "last_ms": 98.87909698486328}
+{"kind": "image", "stamp_ns": 1649856299213187025, "seq": 716}
+{"kind": "cloud", "stamp_ns": 1649856299217553000, "points": 57856, "last_ms": 99.73287963867188}
+{"kind": "image", "stamp_ns": 1649856299313176978, "seq": 717}
+{"kind": "cloud", "stamp_ns": 1649856299317288000, "points": 57099, "last_ms": 101.44186401367188}
+{"kind": "image", "stamp_ns": 1649856299413170678, "seq": 718}
+{"kind": "cloud", "stamp_ns": 1649856299418732000, "points": 55932, "last_ms": 101.72486114501953}
+{"kind": "image", "stamp_ns": 1649856299513164378, "seq": 719}
+{"kind": "cloud", "stamp_ns": 1649856299520459000, "points": 54961, "last_ms": 101.65190887451172}
+{"kind": "image", "stamp_ns": 1649856299613158078, "seq": 720}
+{"kind": "cloud", "stamp_ns": 1649856299622113000, "points": 55239, "last_ms": 100.47984313964844}
+{"kind": "image", "stamp_ns": 1649856299713151778, "seq": 721}
+{"kind": "cloud", "stamp_ns": 1649856299722595000, "points": 55259, "last_ms": 99.54190063476562}
+{"kind": "image", "stamp_ns": 1649856299813145578, "seq": 722}
+{"kind": "cloud", "stamp_ns": 1649856299822139000, "points": 55201, "last_ms": 98.87886047363281}
+{"kind": "image", "stamp_ns": 1649856299913139278, "seq": 723}
+{"kind": "cloud", "stamp_ns": 1649856299921020000, "points": 54764, "last_ms": 98.37985229492188}
+{"kind": "image", "stamp_ns": 1649856300013132978, "seq": 724}
+{"kind": "cloud", "stamp_ns": 1649856300019402000, "points": 54171, "last_ms": 98.18077087402344}
+{"kind": "image", "stamp_ns": 1649856300113126778, "seq": 725}
+{"kind": "cloud", "stamp_ns": 1649856300117585000, "points": 53964, "last_ms": 98.57893371582031}
+{"kind": "image", "stamp_ns": 1649856300213120478, "seq": 726}
+{"kind": "cloud", "stamp_ns": 1649856300216166000, "points": 54091, "last_ms": 98.87767028808594}
+{"kind": "image", "stamp_ns": 1649856300313114278, "seq": 727}
+{"kind": "cloud", "stamp_ns": 1649856300315047000, "points": 53720, "last_ms": 99.17593383789062}
+{"kind": "image", "stamp_ns": 1649856300413107978, "seq": 728}
+{"kind": "cloud", "stamp_ns": 1649856300414226000, "points": 53725, "last_ms": 99.72786712646484}
+{"kind": "image", "stamp_ns": 1649856300513101678, "seq": 729}
+{"kind": "cloud", "stamp_ns": 1649856300513957000, "points": 54337, "last_ms": 100.34489440917969}
+{"kind": "image", "stamp_ns": 1649856300613095478, "seq": 730}
+{"kind": "cloud", "stamp_ns": 1649856300614305000, "points": 55373, "last_ms": 100.8048095703125}
+{"kind": "image", "stamp_ns": 1649856300713089178, "seq": 731}
+{"kind": "cloud", "stamp_ns": 1649856300715116000, "points": 56312, "last_ms": 100.9979248046875}
+{"kind": "image", "stamp_ns": 1649856300813082978, "seq": 732}
+{"kind": "cloud", "stamp_ns": 1649856300816120000, "points": 56308, "last_ms": 100.8350830078125}
+{"kind": "image", "stamp_ns": 1649856300913076678, "seq": 733}
+{"kind": "cloud", "stamp_ns": 1649856300916959000, "points": 56767, "last_ms": 100.10481262207031}
+{"kind": "image", "stamp_ns": 1649856301013070378, "seq": 734}
+{"kind": "cloud", "stamp_ns": 1649856301017066000, "points": 58091, "last_ms": 99.92194366455078}
+{"kind": "image", "stamp_ns": 1649856301113064178, "seq": 735}
+{"kind": "cloud", "stamp_ns": 1649856301116989000, "points": 58919, "last_ms": 100.1119613647461}
+{"kind": "image", "stamp_ns": 1649856301213057878, "seq": 736}
+{"kind": "cloud", "stamp_ns": 1649856301217104000, "points": 59028, "last_ms": 100.1689453125}
+{"kind": "image", "stamp_ns": 1649856301313051678, "seq": 737}
+{"kind": "cloud", "stamp_ns": 1649856301317276000, "points": 60171, "last_ms": 100.25191497802734}
+{"kind": "image", "stamp_ns": 1649856301413045378, "seq": 738}
+{"kind": "cloud", "stamp_ns": 1649856301417531000, "points": 60632, "last_ms": 100.66580963134766}
+{"kind": "image", "stamp_ns": 1649856301513039078, "seq": 739}
+{"kind": "cloud", "stamp_ns": 1649856301518203000, "points": 60632, "last_ms": 100.54302215576172}
+{"kind": "image", "stamp_ns": 1649856301613032878, "seq": 740}
+{"kind": "cloud", "stamp_ns": 1649856301618749000, "points": 60723, "last_ms": 100.48294067382812}
+{"kind": "image", "stamp_ns": 1649856301713026578, "seq": 741}
+{"kind": "cloud", "stamp_ns": 1649856301719238000, "points": 60117, "last_ms": 100.48294067382812}
+{"kind": "image", "stamp_ns": 1649856301813020378, "seq": 742}
+{"kind": "cloud", "stamp_ns": 1649856301819725000, "points": 60473, "last_ms": 99.93099975585938}
+{"kind": "image", "stamp_ns": 1649856301913014078, "seq": 743}
+{"kind": "cloud", "stamp_ns": 1649856301919657000, "points": 60137, "last_ms": 99.78604125976562}
+{"kind": "image", "stamp_ns": 1649856302013007778, "seq": 744}
+{"kind": "cloud", "stamp_ns": 1649856302019444000, "points": 59726, "last_ms": 100.19993591308594}
+{"kind": "image", "stamp_ns": 1649856302113001578, "seq": 745}
+{"kind": "cloud", "stamp_ns": 1649856302119647000, "points": 59379, "last_ms": 100.5198974609375}
+{"kind": "image", "stamp_ns": 1649856302212995278, "seq": 746}
+{"kind": "cloud", "stamp_ns": 1649856302220170000, "points": 59395, "last_ms": 100.5299072265625}
+{"kind": "image", "stamp_ns": 1649856302312989078, "seq": 747}
+{"kind": "cloud", "stamp_ns": 1649856302320703000, "points": 59264, "last_ms": 100.25286865234375}
+{"kind": "image", "stamp_ns": 1649856302412982778, "seq": 748}
+{"kind": "cloud", "stamp_ns": 1649856302420958000, "points": 58815, "last_ms": 99.78199005126953}
+{"kind": "image", "stamp_ns": 1649856302512976478, "seq": 749}
+{"kind": "cloud", "stamp_ns": 1649856302520741000, "points": 57998, "last_ms": 99.37691497802734}
+{"kind": "image", "stamp_ns": 1649856302612970278, "seq": 750}
+{"kind": "cloud", "stamp_ns": 1649856302620121000, "points": 56885, "last_ms": 99.22576141357422}
+{"kind": "image", "stamp_ns": 1649856302712963978, "seq": 751}
+{"kind": "cloud", "stamp_ns": 1649856302719349000, "points": 56410, "last_ms": 99.42698669433594}
+{"kind": "image", "stamp_ns": 1649856302812957778, "seq": 752}
+{"kind": "cloud", "stamp_ns": 1649856302818778000, "points": 57319, "last_ms": 99.52497863769531}
+{"kind": "image", "stamp_ns": 1649856302912951478, "seq": 753}
+{"kind": "cloud", "stamp_ns": 1649856302918306000, "points": 57659, "last_ms": 100.06285095214844}
+{"kind": "image", "stamp_ns": 1649856303012945178, "seq": 754}
+{"kind": "cloud", "stamp_ns": 1649856303018372000, "points": 57887, "last_ms": 100.45289611816406}
+{"kind": "image", "stamp_ns": 1649856303112938978, "seq": 755}
+{"kind": "cloud", "stamp_ns": 1649856303118828000, "points": 57774, "last_ms": 100.35395812988281}
+{"kind": "image", "stamp_ns": 1649856303212932678, "seq": 756}
+{"kind": "cloud", "stamp_ns": 1649856303219185000, "points": 57834, "last_ms": 99.8678207397461}
+{"kind": "image", "stamp_ns": 1649856303312928452, "seq": 757}
+{"kind": "cloud", "stamp_ns": 1649856303319056000, "points": 58117, "last_ms": 99.67994689941406}
+{"kind": "image", "stamp_ns": 1649856303412922152, "seq": 758}
+{"kind": "cloud", "stamp_ns": 1649856303418739000, "points": 58829, "last_ms": 99.62391662597656}
+{"kind": "image", "stamp_ns": 1649856303512915852, "seq": 759}
+{"kind": "cloud", "stamp_ns": 1649856303518366000, "points": 59909, "last_ms": 99.8067855834961}
+{"kind": "image", "stamp_ns": 1649856303612909652, "seq": 760}
+{"kind": "cloud", "stamp_ns": 1649856303618175000, "points": 60254, "last_ms": 100.27790069580078}
+{"kind": "image", "stamp_ns": 1649856303712903352, "seq": 761}
+{"kind": "cloud", "stamp_ns": 1649856303718456000, "points": 60650, "last_ms": 100.53681945800781}
+{"kind": "image", "stamp_ns": 1649856303812897152, "seq": 762}
+{"kind": "cloud", "stamp_ns": 1649856303818995000, "points": 61160, "last_ms": 100.2340316772461}
+{"kind": "image", "stamp_ns": 1649856303912890852, "seq": 763}
+{"kind": "cloud", "stamp_ns": 1649856303919232000, "points": 61208, "last_ms": 100.26812744140625}
+{"kind": "image", "stamp_ns": 1649856304012884552, "seq": 764}
+{"kind": "cloud", "stamp_ns": 1649856304019503000, "points": 61239, "last_ms": 100.0518798828125}
+{"kind": "image", "stamp_ns": 1649856304112878352, "seq": 765}
+{"kind": "cloud", "stamp_ns": 1649856304119558000, "points": 61284, "last_ms": 99.80797576904297}
+{"kind": "image", "stamp_ns": 1649856304212872052, "seq": 766}
+{"kind": "cloud", "stamp_ns": 1649856304219369000, "points": 61183, "last_ms": 99.92003631591797}
+{"kind": "image", "stamp_ns": 1649856304312865852, "seq": 767}
+{"kind": "cloud", "stamp_ns": 1649856304319292000, "points": 60965, "last_ms": 100.03996276855469}
+{"kind": "image", "stamp_ns": 1649856304412859552, "seq": 768}
+{"kind": "cloud", "stamp_ns": 1649856304419335000, "points": 60847, "last_ms": 99.955078125}
+{"kind": "image", "stamp_ns": 1649856304512853252, "seq": 769}
+{"kind": "cloud", "stamp_ns": 1649856304519293000, "points": 60956, "last_ms": 100.07595825195312}
+{"kind": "image", "stamp_ns": 1649856304612847052, "seq": 770}
+{"kind": "cloud", "stamp_ns": 1649856304619372000, "points": 60951, "last_ms": 100.47196960449219}
+{"kind": "image", "stamp_ns": 1649856304712840752, "seq": 771}
+{"kind": "cloud", "stamp_ns": 1649856304719846000, "points": 60966, "last_ms": 100.534912109375}
+{"kind": "image", "stamp_ns": 1649856304812834552, "seq": 772}
+{"kind": "cloud", "stamp_ns": 1649856304820384000, "points": 60886, "last_ms": 100.55589294433594}
+{"kind": "image", "stamp_ns": 1649856304912828252, "seq": 773}
+{"kind": "cloud", "stamp_ns": 1649856304920943000, "points": 60765, "last_ms": 99.93099975585938}
+{"kind": "image", "stamp_ns": 1649856305012821952, "seq": 774}
+{"kind": "cloud", "stamp_ns": 1649856305020877000, "points": 60416, "last_ms": 99.17593383789062}
+{"kind": "image", "stamp_ns": 1649856305112815752, "seq": 775}
+{"kind": "cloud", "stamp_ns": 1649856305120055000, "points": 59968, "last_ms": 98.9778060913086}
+{"kind": "image", "stamp_ns": 1649856305212809452, "seq": 776}
+{"kind": "cloud", "stamp_ns": 1649856305219035000, "points": 60324, "last_ms": 98.92701721191406}
+{"kind": "image", "stamp_ns": 1649856305312803252, "seq": 777}
+{"kind": "cloud", "stamp_ns": 1649856305317965000, "points": 61363, "last_ms": 99.12681579589844}
+{"kind": "image", "stamp_ns": 1649856305412796952, "seq": 778}
+{"kind": "cloud", "stamp_ns": 1649856305417094000, "points": 61321, "last_ms": 99.81990051269531}
+{"kind": "image", "stamp_ns": 1649856305512790652, "seq": 779}
+{"kind": "cloud", "stamp_ns": 1649856305516916000, "points": 61092, "last_ms": 100.3477554321289}
+{"kind": "image", "stamp_ns": 1649856305612784452, "seq": 780}
+{"kind": "cloud", "stamp_ns": 1649856305617266000, "points": 61035, "last_ms": 100.52275848388672}
+{"kind": "image", "stamp_ns": 1649856305712778152, "seq": 781}
+{"kind": "cloud", "stamp_ns": 1649856305717791000, "points": 60694, "last_ms": 100.59976196289062}
+{"kind": "image", "stamp_ns": 1649856305812771952, "seq": 782}
+{"kind": "cloud", "stamp_ns": 1649856305818393000, "points": 61079, "last_ms": 100.5647201538086}
+{"kind": "image", "stamp_ns": 1649856305912765552, "seq": 783}
+{"kind": "cloud", "stamp_ns": 1649856305918960000, "points": 61362, "last_ms": 100.392578125}
+{"kind": "image", "stamp_ns": 1649856306012759252, "seq": 784}
+{"kind": "cloud", "stamp_ns": 1649856306019355000, "points": 61180, "last_ms": 99.95484161376953}
+{"kind": "image", "stamp_ns": 1649856306112753052, "seq": 785}
+{"kind": "cloud", "stamp_ns": 1649856306119313000, "points": 61572, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856306212746752, "seq": 786}
+{"kind": "cloud", "stamp_ns": 1649856306219301000, "points": 61494, "last_ms": 100.15678405761719}
+{"kind": "image", "stamp_ns": 1649856306312740552, "seq": 787}
+{"kind": "cloud", "stamp_ns": 1649856306319460000, "points": 61308, "last_ms": 100.22091674804688}
+{"kind": "image", "stamp_ns": 1649856306412734252, "seq": 788}
+{"kind": "cloud", "stamp_ns": 1649856306419683000, "points": 60902, "last_ms": 99.59101867675781}
+{"kind": "image", "stamp_ns": 1649856306512727952, "seq": 789}
+{"kind": "cloud", "stamp_ns": 1649856306519277000, "points": 60782, "last_ms": 99.37667846679688}
+{"kind": "image", "stamp_ns": 1649856306612721752, "seq": 790}
+{"kind": "cloud", "stamp_ns": 1649856306618656000, "points": 61118, "last_ms": 100.291015625}
+{"kind": "image", "stamp_ns": 1649856306712715452, "seq": 791}
+{"kind": "cloud", "stamp_ns": 1649856306718950000, "points": 61286, "last_ms": 100.96573638916016}
+{"kind": "image", "stamp_ns": 1649856306812709252, "seq": 792}
+{"kind": "cloud", "stamp_ns": 1649856306819918000, "points": 61350, "last_ms": 100.67701721191406}
+{"kind": "image", "stamp_ns": 1649856306912702952, "seq": 793}
+{"kind": "cloud", "stamp_ns": 1649856306920598000, "points": 61544, "last_ms": 99.9257583618164}
+{"kind": "image", "stamp_ns": 1649856307012696652, "seq": 794}
+{"kind": "cloud", "stamp_ns": 1649856307020526000, "points": 62056, "last_ms": 99.82681274414062}
+{"kind": "image", "stamp_ns": 1649856307112690452, "seq": 795}
+{"kind": "cloud", "stamp_ns": 1649856307120355000, "points": 62084, "last_ms": 99.68304443359375}
+{"kind": "image", "stamp_ns": 1649856307212684152, "seq": 796}
+{"kind": "cloud", "stamp_ns": 1649856307220041000, "points": 62000, "last_ms": 99.5738525390625}
+{"kind": "image", "stamp_ns": 1649856307312671866, "seq": 797}
+{"kind": "cloud", "stamp_ns": 1649856307319617000, "points": 62111, "last_ms": 99.64466094970703}
+{"kind": "image", "stamp_ns": 1649856307412665666, "seq": 798}
+{"kind": "cloud", "stamp_ns": 1649856307419264000, "points": 61921, "last_ms": 99.32685089111328}
+{"kind": "image", "stamp_ns": 1649856307512659366, "seq": 799}
+{"kind": "cloud", "stamp_ns": 1649856307518593000, "points": 62098, "last_ms": 99.5798110961914}
+{"kind": "image", "stamp_ns": 1649856307612653166, "seq": 800}
+{"kind": "cloud", "stamp_ns": 1649856307618175000, "points": 62115, "last_ms": 99.94769287109375}
+{"kind": "image", "stamp_ns": 1649856307712646966, "seq": 801}
+{"kind": "cloud", "stamp_ns": 1649856307718125000, "points": 62101, "last_ms": 100.01659393310547}
+{"kind": "image", "stamp_ns": 1649856307812640766, "seq": 802}
+{"kind": "cloud", "stamp_ns": 1649856307818144000, "points": 62225, "last_ms": 100.20279693603516}
+{"kind": "image", "stamp_ns": 1649856307912634566, "seq": 803}
+{"kind": "cloud", "stamp_ns": 1649856307918349000, "points": 62381, "last_ms": 100.21686553955078}
+{"kind": "image", "stamp_ns": 1649856308012628266, "seq": 804}
+{"kind": "cloud", "stamp_ns": 1649856308018568000, "points": 62553, "last_ms": 100.19683837890625}
+{"kind": "image", "stamp_ns": 1649856308112622166, "seq": 805}
+{"kind": "cloud", "stamp_ns": 1649856308118767000, "points": 62694, "last_ms": 100.19469451904297}
+{"kind": "image", "stamp_ns": 1649856308212615866, "seq": 806}
+{"kind": "cloud", "stamp_ns": 1649856308218964000, "points": 62779, "last_ms": 99.84779357910156}
+{"kind": "image", "stamp_ns": 1649856308312609666, "seq": 807}
+{"kind": "cloud", "stamp_ns": 1649856308318814000, "points": 62875, "last_ms": 100.1138687133789}
+{"kind": "image", "stamp_ns": 1649856308412603466, "seq": 808}
+{"kind": "cloud", "stamp_ns": 1649856308418931000, "points": 62916, "last_ms": 100.107666015625}
+{"kind": "image", "stamp_ns": 1649856308512597166, "seq": 809}
+{"kind": "cloud", "stamp_ns": 1649856308519041000, "points": 62946, "last_ms": 100.01683044433594}
+{"kind": "image", "stamp_ns": 1649856308612591066, "seq": 810}
+{"kind": "cloud", "stamp_ns": 1649856308619060000, "points": 63013, "last_ms": 99.84374237060547}
+{"kind": "image", "stamp_ns": 1649856308712584766, "seq": 811}
+{"kind": "cloud", "stamp_ns": 1649856308718906000, "points": 62964, "last_ms": 100.03685760498047}
+{"kind": "image", "stamp_ns": 1649856308812578566, "seq": 812}
+{"kind": "cloud", "stamp_ns": 1649856308818945000, "points": 62726, "last_ms": 100.07095336914062}
+{"kind": "image", "stamp_ns": 1649856308912572366, "seq": 813}
+{"kind": "cloud", "stamp_ns": 1649856308919018000, "points": 62457, "last_ms": 100.10481262207031}
+{"kind": "image", "stamp_ns": 1649856309012566066, "seq": 814}
+{"kind": "cloud", "stamp_ns": 1649856309019125000, "points": 62332, "last_ms": 99.97772979736328}
+{"kind": "image", "stamp_ns": 1649856309112559966, "seq": 815}
+{"kind": "cloud", "stamp_ns": 1649856309119105000, "points": 62078, "last_ms": 99.6806640625}
+{"kind": "image", "stamp_ns": 1649856309212553666, "seq": 816}
+{"kind": "cloud", "stamp_ns": 1649856309218788000, "points": 61852, "last_ms": 99.78485107421875}
+{"kind": "image", "stamp_ns": 1649856309312547566, "seq": 817}
+{"kind": "cloud", "stamp_ns": 1649856309318575000, "points": 61391, "last_ms": 100.48079681396484}
+{"kind": "image", "stamp_ns": 1649856309412541266, "seq": 818}
+{"kind": "cloud", "stamp_ns": 1649856309419058000, "points": 61397, "last_ms": 100.2156753540039}
+{"kind": "image", "stamp_ns": 1649856309512534966, "seq": 819}
+{"kind": "cloud", "stamp_ns": 1649856309519276000, "points": 61288, "last_ms": 100.18777465820312}
+{"kind": "image", "stamp_ns": 1649856309612528866, "seq": 820}
+{"kind": "cloud", "stamp_ns": 1649856309619466000, "points": 61469, "last_ms": 100.59261322021484}
+{"kind": "image", "stamp_ns": 1649856309712522566, "seq": 821}
+{"kind": "cloud", "stamp_ns": 1649856309720061000, "points": 61274, "last_ms": 100.2748031616211}
+{"kind": "image", "stamp_ns": 1649856309812516466, "seq": 822}
+{"kind": "cloud", "stamp_ns": 1649856309820338000, "points": 61242, "last_ms": 99.82085418701172}
+{"kind": "image", "stamp_ns": 1649856309912510166, "seq": 823}
+{"kind": "cloud", "stamp_ns": 1649856309920161000, "points": 61331, "last_ms": 99.73979187011719}
+{"kind": "image", "stamp_ns": 1649856310012503866, "seq": 824}
+{"kind": "cloud", "stamp_ns": 1649856310019903000, "points": 61477, "last_ms": 99.66492462158203}
+{"kind": "image", "stamp_ns": 1649856310112497766, "seq": 825}
+{"kind": "cloud", "stamp_ns": 1649856310119570000, "points": 61512, "last_ms": 99.62582397460938}
+{"kind": "image", "stamp_ns": 1649856310212491466, "seq": 826}
+{"kind": "cloud", "stamp_ns": 1649856310219198000, "points": 61557, "last_ms": 99.62487030029297}
+{"kind": "image", "stamp_ns": 1649856310312485366, "seq": 827}
+{"kind": "cloud", "stamp_ns": 1649856310318825000, "points": 61750, "last_ms": 99.77388000488281}
+{"kind": "image", "stamp_ns": 1649856310412479066, "seq": 828}
+{"kind": "cloud", "stamp_ns": 1649856310418601000, "points": 61528, "last_ms": 99.91574096679688}
+{"kind": "image", "stamp_ns": 1649856310512472866, "seq": 829}
+{"kind": "cloud", "stamp_ns": 1649856310518519000, "points": 61452, "last_ms": 99.96676635742188}
+{"kind": "image", "stamp_ns": 1649856310612466666, "seq": 830}
+{"kind": "cloud", "stamp_ns": 1649856310618488000, "points": 61387, "last_ms": 100.38280487060547}
+{"kind": "image", "stamp_ns": 1649856310712460366, "seq": 831}
+{"kind": "cloud", "stamp_ns": 1649856310718873000, "points": 61299, "last_ms": 100.20684814453125}
+{"kind": "image", "stamp_ns": 1649856310812454266, "seq": 832}
+{"kind": "cloud", "stamp_ns": 1649856310819082000, "points": 61301, "last_ms": 100.07572174072266}
+{"kind": "image", "stamp_ns": 1649856310912447966, "seq": 833}
+{"kind": "cloud", "stamp_ns": 1649856310919160000, "points": 61251, "last_ms": 100.24285125732422}
+{"kind": "image", "stamp_ns": 1649856311012441766, "seq": 834}
+{"kind": "cloud", "stamp_ns": 1649856311019405000, "points": 61270, "last_ms": 100.31390380859375}
+{"kind": "image", "stamp_ns": 1649856311112435566, "seq": 835}
+{"kind": "cloud", "stamp_ns": 1649856311119721000, "points": 61154, "last_ms": 99.9968032836914}
+{"kind": "image", "stamp_ns": 1649856311212429366, "seq": 836}
+{"kind": "cloud", "stamp_ns": 1649856311219720000, "points": 61139, "last_ms": 99.9248046875}
+{"kind": "image", "stamp_ns": 1649856311312423166, "seq": 837}
+{"kind": "cloud", "stamp_ns": 1649856311319647000, "points": 61450, "last_ms": 100.50082397460938}
+{"kind": "image", "stamp_ns": 1649856311412416866, "seq": 838}
+{"kind": "cloud", "stamp_ns": 1649856311420150000, "points": 61397, "last_ms": 100.36182403564453}
+{"kind": "image", "stamp_ns": 1649856311512410666, "seq": 839}
+{"kind": "cloud", "stamp_ns": 1649856311520514000, "points": 61548, "last_ms": 99.9238510131836}
+{"kind": "image", "stamp_ns": 1649856311612404466, "seq": 840}
+{"kind": "cloud", "stamp_ns": 1649856311620440000, "points": 61393, "last_ms": 99.39598846435547}
+{"kind": "image", "stamp_ns": 1649856311712398266, "seq": 841}
+{"kind": "cloud", "stamp_ns": 1649856311719839000, "points": 61369, "last_ms": 99.02787017822266}
+{"kind": "image", "stamp_ns": 1649856311812392066, "seq": 842}
+{"kind": "cloud", "stamp_ns": 1649856311818870000, "points": 61236, "last_ms": 99.1768798828125}
+{"kind": "image", "stamp_ns": 1649856311912385766, "seq": 843}
+{"kind": "cloud", "stamp_ns": 1649856311918050000, "points": 60128, "last_ms": 100.17681121826172}
+{"kind": "image", "stamp_ns": 1649856312012379566, "seq": 844}
+{"kind": "cloud", "stamp_ns": 1649856312018229000, "points": 60765, "last_ms": 100.85987854003906}
+{"kind": "image", "stamp_ns": 1649856312112373366, "seq": 845}
+{"kind": "cloud", "stamp_ns": 1649856312119091000, "points": 60174, "last_ms": 100.32797241210938}
+{"kind": "image", "stamp_ns": 1649856312212367166, "seq": 846}
+{"kind": "cloud", "stamp_ns": 1649856312219422000, "points": 59808, "last_ms": 99.61366271972656}
+{"kind": "image", "stamp_ns": 1649856312312360966, "seq": 847}
+{"kind": "cloud", "stamp_ns": 1649856312319038000, "points": 58535, "last_ms": 99.4780044555664}
+{"kind": "image", "stamp_ns": 1649856312412354766, "seq": 848}
+{"kind": "cloud", "stamp_ns": 1649856312418518000, "points": 58497, "last_ms": 99.58576965332031}
+{"kind": "image", "stamp_ns": 1649856312512348466, "seq": 849}
+{"kind": "cloud", "stamp_ns": 1649856312518106000, "points": 57522, "last_ms": 99.7049789428711}
+{"kind": "image", "stamp_ns": 1649856312612342266, "seq": 850}
+{"kind": "cloud", "stamp_ns": 1649856312617814000, "points": 58748, "last_ms": 99.68280792236328}
+{"kind": "image", "stamp_ns": 1649856312712336066, "seq": 851}
+{"kind": "cloud", "stamp_ns": 1649856312717499000, "points": 60301, "last_ms": 99.37667846679688}
+{"kind": "image", "stamp_ns": 1649856312812329866, "seq": 852}
+{"kind": "cloud", "stamp_ns": 1649856312816879000, "points": 59819, "last_ms": 99.32685089111328}
+{"kind": "image", "stamp_ns": 1649856312912323666, "seq": 853}
+{"kind": "cloud", "stamp_ns": 1649856312916208000, "points": 59000, "last_ms": 99.5748062133789}
+{"kind": "image", "stamp_ns": 1649856313012317366, "seq": 854}
+{"kind": "cloud", "stamp_ns": 1649856313015785000, "points": 57950, "last_ms": 100.07786560058594}
+{"kind": "image", "stamp_ns": 1649856313112311166, "seq": 855}
+{"kind": "cloud", "stamp_ns": 1649856313115865000, "points": 58101, "last_ms": 100.61692810058594}
+{"kind": "image", "stamp_ns": 1649856313212304966, "seq": 856}
+{"kind": "cloud", "stamp_ns": 1649856313216485000, "points": 57090, "last_ms": 100.68488311767578}
+{"kind": "image", "stamp_ns": 1649856313312298766, "seq": 857}
+{"kind": "cloud", "stamp_ns": 1649856313317173000, "points": 57068, "last_ms": 100.73280334472656}
+{"kind": "image", "stamp_ns": 1649856313412292566, "seq": 858}
+{"kind": "cloud", "stamp_ns": 1649856313417908000, "points": 56994, "last_ms": 100.73089599609375}
+{"kind": "image", "stamp_ns": 1649856313512286266, "seq": 859}
+{"kind": "cloud", "stamp_ns": 1649856313518641000, "points": 57059, "last_ms": 100.56591033935547}
+{"kind": "image", "stamp_ns": 1649856313612280166, "seq": 860}
+{"kind": "cloud", "stamp_ns": 1649856313619210000, "points": 57118, "last_ms": 100.23188781738281}
+{"kind": "image", "stamp_ns": 1649856313712273866, "seq": 861}
+{"kind": "cloud", "stamp_ns": 1649856313719444000, "points": 57289, "last_ms": 99.90668487548828}
+{"kind": "image", "stamp_ns": 1649856313812267666, "seq": 862}
+{"kind": "cloud", "stamp_ns": 1649856313819353000, "points": 57497, "last_ms": 99.73764038085938}
+{"kind": "image", "stamp_ns": 1649856313912261466, "seq": 863}
+{"kind": "cloud", "stamp_ns": 1649856313919093000, "points": 57142, "last_ms": 100.08692932128906}
+{"kind": "image", "stamp_ns": 1649856314012255166, "seq": 864}
+{"kind": "cloud", "stamp_ns": 1649856314019182000, "points": 57043, "last_ms": 100.03590393066406}
+{"kind": "image", "stamp_ns": 1649856314112249066, "seq": 865}
+{"kind": "cloud", "stamp_ns": 1649856314119220000, "points": 56988, "last_ms": 100.02279663085938}
+{"kind": "image", "stamp_ns": 1649856314212242766, "seq": 866}
+{"kind": "cloud", "stamp_ns": 1649856314219245000, "points": 56591, "last_ms": 99.89094543457031}
+{"kind": "image", "stamp_ns": 1649856314312236566, "seq": 867}
+{"kind": "cloud", "stamp_ns": 1649856314319139000, "points": 56527, "last_ms": 99.90072631835938}
+{"kind": "image", "stamp_ns": 1649856314412230366, "seq": 868}
+{"kind": "cloud", "stamp_ns": 1649856314419042000, "points": 57260, "last_ms": 99.82276153564453}
+{"kind": "image", "stamp_ns": 1649856314512224066, "seq": 869}
+{"kind": "cloud", "stamp_ns": 1649856314518867000, "points": 56541, "last_ms": 100.19969940185547}
+{"kind": "image", "stamp_ns": 1649856314612217966, "seq": 870}
+{"kind": "cloud", "stamp_ns": 1649856314619069000, "points": 56632, "last_ms": 100.53562927246094}
+{"kind": "image", "stamp_ns": 1649856314712211666, "seq": 871}
+{"kind": "cloud", "stamp_ns": 1649856314719607000, "points": 57107, "last_ms": 100.93760681152344}
+{"kind": "image", "stamp_ns": 1649856314812205566, "seq": 872}
+{"kind": "cloud", "stamp_ns": 1649856314820547000, "points": 57175, "last_ms": 100.88777160644531}
+{"kind": "image", "stamp_ns": 1649856314912199266, "seq": 873}
+{"kind": "cloud", "stamp_ns": 1649856314921437000, "points": 57189, "last_ms": 100.24977111816406}
+{"kind": "image", "stamp_ns": 1649856315012192966, "seq": 874}
+{"kind": "cloud", "stamp_ns": 1649856315021689000, "points": 56928, "last_ms": 99.19285583496094}
+{"kind": "image", "stamp_ns": 1649856315112186866, "seq": 875}
+{"kind": "cloud", "stamp_ns": 1649856315120885000, "points": 56482, "last_ms": 98.42896270751953}
+{"kind": "image", "stamp_ns": 1649856315212180566, "seq": 876}
+{"kind": "cloud", "stamp_ns": 1649856315219317000, "points": 56251, "last_ms": 98.1800537109375}
+{"kind": "image", "stamp_ns": 1649856315312174466, "seq": 877}
+{"kind": "cloud", "stamp_ns": 1649856315317500000, "points": 56167, "last_ms": 98.27876281738281}
+{"kind": "image", "stamp_ns": 1649856315412168166, "seq": 878}
+{"kind": "cloud", "stamp_ns": 1649856315415782000, "points": 56096, "last_ms": 99.02787017822266}
+{"kind": "image", "stamp_ns": 1649856315512161866, "seq": 879}
+{"kind": "cloud", "stamp_ns": 1649856315514812000, "points": 55649, "last_ms": 100.04878234863281}
+{"kind": "image", "stamp_ns": 1649856315612155766, "seq": 880}
+{"kind": "cloud", "stamp_ns": 1649856315614863000, "points": 56650, "last_ms": 100.25382232666016}
+{"kind": "image", "stamp_ns": 1649856315712149466, "seq": 881}
+{"kind": "cloud", "stamp_ns": 1649856315715119000, "points": 57440, "last_ms": 99.97582244873047}
+{"kind": "image", "stamp_ns": 1649856315812143366, "seq": 882}
+{"kind": "cloud", "stamp_ns": 1649856315815097000, "points": 56768, "last_ms": 99.64466094970703}
+{"kind": "image", "stamp_ns": 1649856315912137066, "seq": 883}
+{"kind": "cloud", "stamp_ns": 1649856315914744000, "points": 57075, "last_ms": 99.97796630859375}
+{"kind": "image", "stamp_ns": 1649856316012130866, "seq": 884}
+{"kind": "cloud", "stamp_ns": 1649856316014724000, "points": 57769, "last_ms": 100.58784484863281}
+{"kind": "image", "stamp_ns": 1649856316112124666, "seq": 885}
+{"kind": "cloud", "stamp_ns": 1649856316115314000, "points": 58080, "last_ms": 100.95668029785156}
+{"kind": "image", "stamp_ns": 1649856316212118366, "seq": 886}
+{"kind": "cloud", "stamp_ns": 1649856316216273000, "points": 58253, "last_ms": 100.7637939453125}
+{"kind": "image", "stamp_ns": 1649856316312109343, "seq": 887}
+{"kind": "cloud", "stamp_ns": 1649856316317039000, "points": 57720, "last_ms": 100.53681945800781}
+{"kind": "image", "stamp_ns": 1649856316412103043, "seq": 888}
+{"kind": "cloud", "stamp_ns": 1649856316417578000, "points": 57885, "last_ms": 100.392822265625}
+{"kind": "image", "stamp_ns": 1649856316512096843, "seq": 889}
+{"kind": "cloud", "stamp_ns": 1649856316517973000, "points": 58068, "last_ms": 100.331787109375}
+{"kind": "image", "stamp_ns": 1649856316612090643, "seq": 890}
+{"kind": "cloud", "stamp_ns": 1649856316618307000, "points": 58466, "last_ms": 100.27766418457031}
+{"kind": "image", "stamp_ns": 1649856316712084343, "seq": 891}
+{"kind": "cloud", "stamp_ns": 1649856316718587000, "points": 58272, "last_ms": 100.28195190429688}
+{"kind": "image", "stamp_ns": 1649856316812078243, "seq": 892}
+{"kind": "cloud", "stamp_ns": 1649856316818871000, "points": 58823, "last_ms": 99.89285278320312}
+{"kind": "image", "stamp_ns": 1649856316912071943, "seq": 893}
+{"kind": "cloud", "stamp_ns": 1649856316918766000, "points": 57335, "last_ms": 99.47586059570312}
+{"kind": "image", "stamp_ns": 1649856317012065743, "seq": 894}
+{"kind": "cloud", "stamp_ns": 1649856317018244000, "points": 56299, "last_ms": 99.32685089111328}
+{"kind": "image", "stamp_ns": 1649856317112059543, "seq": 895}
+{"kind": "cloud", "stamp_ns": 1649856317117573000, "points": 56437, "last_ms": 99.69783020019531}
+{"kind": "image", "stamp_ns": 1649856317212053343, "seq": 896}
+{"kind": "cloud", "stamp_ns": 1649856317217273000, "points": 56135, "last_ms": 100.57974243164062}
+{"kind": "image", "stamp_ns": 1649856317312047143, "seq": 897}
+{"kind": "cloud", "stamp_ns": 1649856317317855000, "points": 55998, "last_ms": 101.34196472167969}
+{"kind": "image", "stamp_ns": 1649856317412040843, "seq": 898}
+{"kind": "cloud", "stamp_ns": 1649856317419199000, "points": 56412, "last_ms": 100.89492797851562}
+{"kind": "image", "stamp_ns": 1649856317512034643, "seq": 899}
+{"kind": "cloud", "stamp_ns": 1649856317520097000, "points": 55521, "last_ms": 100.52776336669922}
+{"kind": "image", "stamp_ns": 1649856317612028443, "seq": 900}
+{"kind": "cloud", "stamp_ns": 1649856317620627000, "points": 54955, "last_ms": 99.85971069335938}
+{"kind": "image", "stamp_ns": 1649856317712022243, "seq": 901}
+{"kind": "cloud", "stamp_ns": 1649856317720489000, "points": 55731, "last_ms": 99.12895965576172}
+{"kind": "image", "stamp_ns": 1649856317812016043, "seq": 902}
+{"kind": "cloud", "stamp_ns": 1649856317819618000, "points": 55397, "last_ms": 98.62995147705078}
+{"kind": "image", "stamp_ns": 1649856317912009843, "seq": 903}
+{"kind": "cloud", "stamp_ns": 1649856317918251000, "points": 55397, "last_ms": 98.62995147705078}
+{"kind": "image", "stamp_ns": 1649856318012003543, "seq": 904}
+{"kind": "cloud", "stamp_ns": 1649856318016882000, "points": 53162, "last_ms": 99.07913208007812}
+{"kind": "image", "stamp_ns": 1649856318111997343, "seq": 905}
+{"kind": "cloud", "stamp_ns": 1649856318115964000, "points": 52325, "last_ms": 99.52497863769531}
+{"kind": "image", "stamp_ns": 1649856318211991143, "seq": 906}
+{"kind": "cloud", "stamp_ns": 1649856318215492000, "points": 52181, "last_ms": 99.27582550048828}
+{"kind": "image", "stamp_ns": 1649856318311984943, "seq": 907}
+{"kind": "cloud", "stamp_ns": 1649856318314770000, "points": 52764, "last_ms": 100.27885437011719}
+{"kind": "image", "stamp_ns": 1649856318411978743, "seq": 908}
+{"kind": "cloud", "stamp_ns": 1649856318415051000, "points": 53192, "last_ms": 101.30691528320312}
+{"kind": "image", "stamp_ns": 1649856318511972443, "seq": 909}
+{"kind": "cloud", "stamp_ns": 1649856318516360000, "points": 53360, "last_ms": 101.12380981445312}
+{"kind": "image", "stamp_ns": 1649856318611966243, "seq": 910}
+{"kind": "cloud", "stamp_ns": 1649856318617486000, "points": 54334, "last_ms": 100.87275695800781}
+{"kind": "image", "stamp_ns": 1649856318711960043, "seq": 911}
+{"kind": "cloud", "stamp_ns": 1649856318718361000, "points": 55365, "last_ms": 100.57496643066406}
+{"kind": "image", "stamp_ns": 1649856318811953843, "seq": 912}
+{"kind": "cloud", "stamp_ns": 1649856318818938000, "points": 55585, "last_ms": 99.97677612304688}
+{"kind": "image", "stamp_ns": 1649856318911947643, "seq": 913}
+{"kind": "cloud", "stamp_ns": 1649856318918917000, "points": 56725, "last_ms": 99.95889282226562}
+{"kind": "image", "stamp_ns": 1649856319011941343, "seq": 914}
+{"kind": "cloud", "stamp_ns": 1649856319018878000, "points": 56442, "last_ms": 99.92790222167969}
+{"kind": "image", "stamp_ns": 1649856319111935243, "seq": 915}
+{"kind": "cloud", "stamp_ns": 1649856319118808000, "points": 57090, "last_ms": 99.47991180419922}
+{"kind": "image", "stamp_ns": 1649856319211928943, "seq": 916}
+{"kind": "cloud", "stamp_ns": 1649856319218288000, "points": 57952, "last_ms": 99.53594207763672}
+{"kind": "image", "stamp_ns": 1649856319311922743, "seq": 917}
+{"kind": "cloud", "stamp_ns": 1649856319317826000, "points": 57342, "last_ms": 100.08287048339844}
+{"kind": "image", "stamp_ns": 1649856319411916543, "seq": 918}
+{"kind": "cloud", "stamp_ns": 1649856319417912000, "points": 56669, "last_ms": 100.5036849975586}
+{"kind": "image", "stamp_ns": 1649856319511910243, "seq": 919}
+{"kind": "cloud", "stamp_ns": 1649856319518418000, "points": 57423, "last_ms": 100.42572021484375}
+{"kind": "image", "stamp_ns": 1649856319611904143, "seq": 920}
+{"kind": "cloud", "stamp_ns": 1649856319618846000, "points": 57653, "last_ms": 100.41380310058594}
+{"kind": "image", "stamp_ns": 1649856319711897843, "seq": 921}
+{"kind": "cloud", "stamp_ns": 1649856319719262000, "points": 56855, "last_ms": 100.26097106933594}
+{"kind": "image", "stamp_ns": 1649856319811891643, "seq": 922}
+{"kind": "cloud", "stamp_ns": 1649856319819525000, "points": 57318, "last_ms": 99.96867370605469}
+{"kind": "image", "stamp_ns": 1649856319911885443, "seq": 923}
+{"kind": "cloud", "stamp_ns": 1649856319919496000, "points": 56342, "last_ms": 99.81680297851562}
+{"kind": "image", "stamp_ns": 1649856320011879143, "seq": 924}
+{"kind": "cloud", "stamp_ns": 1649856320019315000, "points": 56831, "last_ms": 99.71380615234375}
+{"kind": "image", "stamp_ns": 1649856320111873043, "seq": 925}
+{"kind": "cloud", "stamp_ns": 1649856320119031000, "points": 56027, "last_ms": 99.37500762939453}
+{"kind": "image", "stamp_ns": 1649856320211866743, "seq": 926}
+{"kind": "cloud", "stamp_ns": 1649856320218409000, "points": 56904, "last_ms": 99.54190063476562}
+{"kind": "image", "stamp_ns": 1649856320311860341, "seq": 927}
+{"kind": "cloud", "stamp_ns": 1649856320317954000, "points": 55737, "last_ms": 99.97081756591797}
+{"kind": "image", "stamp_ns": 1649856320411854141, "seq": 928}
+{"kind": "cloud", "stamp_ns": 1649856320417927000, "points": 55981, "last_ms": 100.48389434814453}
+{"kind": "image", "stamp_ns": 1649856320511847841, "seq": 929}
+{"kind": "cloud", "stamp_ns": 1649856320518414000, "points": 55297, "last_ms": 100.56185913085938}
+{"kind": "image", "stamp_ns": 1649856320611841741, "seq": 930}
+{"kind": "cloud", "stamp_ns": 1649856320618978000, "points": 55140, "last_ms": 100.53181457519531}
+{"kind": "image", "stamp_ns": 1649856320711835541, "seq": 931}
+{"kind": "cloud", "stamp_ns": 1649856320719512000, "points": 55487, "last_ms": 100.42190551757812}
+{"kind": "image", "stamp_ns": 1649856320811829341, "seq": 932}
+{"kind": "cloud", "stamp_ns": 1649856320819936000, "points": 55838, "last_ms": 100.07286071777344}
+{"kind": "image", "stamp_ns": 1649856320911823141, "seq": 933}
+{"kind": "cloud", "stamp_ns": 1649856320920011000, "points": 55386, "last_ms": 99.67469787597656}
+{"kind": "image", "stamp_ns": 1649856321011816841, "seq": 934}
+{"kind": "cloud", "stamp_ns": 1649856321019688000, "points": 54271, "last_ms": 99.27702331542969}
+{"kind": "image", "stamp_ns": 1649856321111810741, "seq": 935}
+{"kind": "cloud", "stamp_ns": 1649856321118965000, "points": 53969, "last_ms": 99.07913208007812}
+{"kind": "image", "stamp_ns": 1649856321211804541, "seq": 936}
+{"kind": "cloud", "stamp_ns": 1649856321218047000, "points": 54597, "last_ms": 99.42412567138672}
+{"kind": "image", "stamp_ns": 1649856321311798341, "seq": 937}
+{"kind": "cloud", "stamp_ns": 1649856321317474000, "points": 54741, "last_ms": 99.84993743896484}
+{"kind": "image", "stamp_ns": 1649856321411792141, "seq": 938}
+{"kind": "cloud", "stamp_ns": 1649856321417326000, "points": 55347, "last_ms": 100.24786376953125}
+{"kind": "image", "stamp_ns": 1649856321511785841, "seq": 939}
+{"kind": "cloud", "stamp_ns": 1649856321517576000, "points": 56146, "last_ms": 100.42595672607422}
+{"kind": "image", "stamp_ns": 1649856321611779741, "seq": 940}
+{"kind": "cloud", "stamp_ns": 1649856321618005000, "points": 55622, "last_ms": 100.74090576171875}
+{"kind": "image", "stamp_ns": 1649856321711773541, "seq": 941}
+{"kind": "cloud", "stamp_ns": 1649856321718749000, "points": 55260, "last_ms": 100.48389434814453}
+{"kind": "image", "stamp_ns": 1649856321811767341, "seq": 942}
+{"kind": "cloud", "stamp_ns": 1649856321819236000, "points": 55651, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856321911761141, "seq": 943}
+{"kind": "cloud", "stamp_ns": 1649856321919238000, "points": 55898, "last_ms": 99.8077392578125}
+{"kind": "image", "stamp_ns": 1649856322011754841, "seq": 944}
+{"kind": "cloud", "stamp_ns": 1649856322019048000, "points": 56497, "last_ms": 99.71189880371094}
+{"kind": "image", "stamp_ns": 1649856322111748741, "seq": 945}
+{"kind": "cloud", "stamp_ns": 1649856322118762000, "points": 56814, "last_ms": 99.37691497802734}
+{"kind": "image", "stamp_ns": 1649856322211742541, "seq": 946}
+{"kind": "cloud", "stamp_ns": 1649856322218142000, "points": 57948, "last_ms": 99.71070098876953}
+{"kind": "image", "stamp_ns": 1649856322311736341, "seq": 947}
+{"kind": "cloud", "stamp_ns": 1649856322317855000, "points": 58300, "last_ms": 100.25906372070312}
+{"kind": "image", "stamp_ns": 1649856322411730141, "seq": 948}
+{"kind": "cloud", "stamp_ns": 1649856322418117000, "points": 58694, "last_ms": 100.37970733642578}
+{"kind": "image", "stamp_ns": 1649856322511723841, "seq": 949}
+{"kind": "cloud", "stamp_ns": 1649856322518499000, "points": 60046, "last_ms": 100.58403015136719}
+{"kind": "image", "stamp_ns": 1649856322611717741, "seq": 950}
+{"kind": "cloud", "stamp_ns": 1649856322619086000, "points": 60536, "last_ms": 100.55589294433594}
+{"kind": "image", "stamp_ns": 1649856322711711541, "seq": 951}
+{"kind": "cloud", "stamp_ns": 1649856322719645000, "points": 60244, "last_ms": 100.58283996582031}
+{"kind": "image", "stamp_ns": 1649856322811705341, "seq": 952}
+{"kind": "cloud", "stamp_ns": 1649856322820230000, "points": 59640, "last_ms": 100.00276184082031}
+{"kind": "image", "stamp_ns": 1649856322911699141, "seq": 953}
+{"kind": "cloud", "stamp_ns": 1649856322920235000, "points": 58469, "last_ms": 98.978759765625}
+{"kind": "image", "stamp_ns": 1649856323011692841, "seq": 954}
+{"kind": "cloud", "stamp_ns": 1649856323019216000, "points": 58198, "last_ms": 98.42967987060547}
+{"kind": "image", "stamp_ns": 1649856323111686741, "seq": 955}
+{"kind": "cloud", "stamp_ns": 1649856323117648000, "points": 58627, "last_ms": 98.5300521850586}
+{"kind": "image", "stamp_ns": 1649856323211680541, "seq": 956}
+{"kind": "cloud", "stamp_ns": 1649856323216178000, "points": 58621, "last_ms": 99.02906799316406}
+{"kind": "image", "stamp_ns": 1649856323311674341, "seq": 957}
+{"kind": "cloud", "stamp_ns": 1649856323315210000, "points": 58829, "last_ms": 99.78985595703125}
+{"kind": "image", "stamp_ns": 1649856323411668141, "seq": 958}
+{"kind": "cloud", "stamp_ns": 1649856323415003000, "points": 56444, "last_ms": 100.3427505493164}
+{"kind": "image", "stamp_ns": 1649856323511661841, "seq": 959}
+{"kind": "cloud", "stamp_ns": 1649856323515348000, "points": 55511, "last_ms": 100.59403991699219}
+{"kind": "image", "stamp_ns": 1649856323611655741, "seq": 960}
+{"kind": "cloud", "stamp_ns": 1649856323615945000, "points": 57309, "last_ms": 100.74687194824219}
+{"kind": "image", "stamp_ns": 1649856323711649541, "seq": 961}
+{"kind": "cloud", "stamp_ns": 1649856323716695000, "points": 57739, "last_ms": 100.83293914794922}
+{"kind": "image", "stamp_ns": 1649856323811643341, "seq": 962}
+{"kind": "cloud", "stamp_ns": 1649856323817531000, "points": 58393, "last_ms": 100.45767211914062}
+{"kind": "image", "stamp_ns": 1649856323911637141, "seq": 963}
+{"kind": "cloud", "stamp_ns": 1649856323917991000, "points": 57907, "last_ms": 99.92599487304688}
+{"kind": "image", "stamp_ns": 1649856324011630841, "seq": 964}
+{"kind": "cloud", "stamp_ns": 1649856324017920000, "points": 58433, "last_ms": 99.70378875732422}
+{"kind": "image", "stamp_ns": 1649856324111624741, "seq": 965}
+{"kind": "cloud", "stamp_ns": 1649856324117626000, "points": 57983, "last_ms": 99.62582397460938}
+{"kind": "image", "stamp_ns": 1649856324211618541, "seq": 966}
+{"kind": "cloud", "stamp_ns": 1649856324217254000, "points": 57604, "last_ms": 99.76506042480469}
+{"kind": "image", "stamp_ns": 1649856324311612341, "seq": 967}
+{"kind": "cloud", "stamp_ns": 1649856324317022000, "points": 58027, "last_ms": 99.73287963867188}
+{"kind": "image", "stamp_ns": 1649856324411606141, "seq": 968}
+{"kind": "cloud", "stamp_ns": 1649856324416758000, "points": 56795, "last_ms": 99.37691497802734}
+{"kind": "image", "stamp_ns": 1649856324511599841, "seq": 969}
+{"kind": "cloud", "stamp_ns": 1649856324516138000, "points": 56691, "last_ms": 99.48086547851562}
+{"kind": "image", "stamp_ns": 1649856324611593741, "seq": 970}
+{"kind": "cloud", "stamp_ns": 1649856324615622000, "points": 56758, "last_ms": 100.14295959472656}
+{"kind": "image", "stamp_ns": 1649856324711587541, "seq": 971}
+{"kind": "cloud", "stamp_ns": 1649856324715768000, "points": 57140, "last_ms": 100.86369323730469}
+{"kind": "image", "stamp_ns": 1649856324811581341, "seq": 972}
+{"kind": "cloud", "stamp_ns": 1649856324816636000, "points": 57264, "last_ms": 101.11474609375}
+{"kind": "image", "stamp_ns": 1649856324911575141, "seq": 973}
+{"kind": "cloud", "stamp_ns": 1649856324917753000, "points": 57521, "last_ms": 100.92282104492188}
+{"kind": "image", "stamp_ns": 1649856325011568841, "seq": 974}
+{"kind": "cloud", "stamp_ns": 1649856325018678000, "points": 57600, "last_ms": 100.64387512207031}
+{"kind": "image", "stamp_ns": 1649856325111562741, "seq": 975}
+{"kind": "cloud", "stamp_ns": 1649856325119324000, "points": 57661, "last_ms": 100.1799087524414}
+{"kind": "image", "stamp_ns": 1649856325211556541, "seq": 976}
+{"kind": "cloud", "stamp_ns": 1649856325219506000, "points": 57536, "last_ms": 99.88689422607422}
+{"kind": "image", "stamp_ns": 1649856325311550341, "seq": 977}
+{"kind": "cloud", "stamp_ns": 1649856325319396000, "points": 57392, "last_ms": 99.81083679199219}
+{"kind": "image", "stamp_ns": 1649856325411544141, "seq": 978}
+{"kind": "cloud", "stamp_ns": 1649856325419211000, "points": 57115, "last_ms": 100.05998229980469}
+{"kind": "image", "stamp_ns": 1649856325511537841, "seq": 979}
+{"kind": "cloud", "stamp_ns": 1649856325519273000, "points": 57301, "last_ms": 100.05378723144531}
+{"kind": "image", "stamp_ns": 1649856325611531741, "seq": 980}
+{"kind": "cloud", "stamp_ns": 1649856325619331000, "points": 57375, "last_ms": 99.8239517211914}
+{"kind": "image", "stamp_ns": 1649856325711525541, "seq": 981}
+{"kind": "cloud", "stamp_ns": 1649856325719157000, "points": 57545, "last_ms": 99.6408462524414}
+{"kind": "image", "stamp_ns": 1649856325811519341, "seq": 982}
+{"kind": "cloud", "stamp_ns": 1649856325818800000, "points": 57556, "last_ms": 99.65086364746094}
+{"kind": "image", "stamp_ns": 1649856325911513141, "seq": 983}
+{"kind": "cloud", "stamp_ns": 1649856325918453000, "points": 57578, "last_ms": 99.9410171508789}
+{"kind": "image", "stamp_ns": 1649856326011506841, "seq": 984}
+{"kind": "cloud", "stamp_ns": 1649856326018397000, "points": 57978, "last_ms": 100.02183532714844}
+{"kind": "image", "stamp_ns": 1649856326111500741, "seq": 985}
+{"kind": "cloud", "stamp_ns": 1649856326118422000, "points": 58062, "last_ms": 99.88284301757812}
+{"kind": "image", "stamp_ns": 1649856326211494541, "seq": 986}
+{"kind": "cloud", "stamp_ns": 1649856326218307000, "points": 58157, "last_ms": 99.90096282958984}
+{"kind": "image", "stamp_ns": 1649856326311488341, "seq": 987}
+{"kind": "cloud", "stamp_ns": 1649856326318211000, "points": 58167, "last_ms": 100.117919921875}
+{"kind": "image", "stamp_ns": 1649856326411482141, "seq": 988}
+{"kind": "cloud", "stamp_ns": 1649856326418332000, "points": 58522, "last_ms": 100.14271545410156}
+{"kind": "image", "stamp_ns": 1649856326511475841, "seq": 989}
+{"kind": "cloud", "stamp_ns": 1649856326518477000, "points": 58584, "last_ms": 99.884033203125}
+{"kind": "image", "stamp_ns": 1649856326611469741, "seq": 990}
+{"kind": "cloud", "stamp_ns": 1649856326618364000, "points": 58594, "last_ms": 99.89881896972656}
+{"kind": "image", "stamp_ns": 1649856326711463541, "seq": 991}
+{"kind": "cloud", "stamp_ns": 1649856326718266000, "points": 58624, "last_ms": 100.09693908691406}
+{"kind": "image", "stamp_ns": 1649856326811457341, "seq": 992}
+{"kind": "cloud", "stamp_ns": 1649856326818366000, "points": 58766, "last_ms": 100.25096130371094}
+{"kind": "image", "stamp_ns": 1649856326911451141, "seq": 993}
+{"kind": "cloud", "stamp_ns": 1649856326918620000, "points": 58854, "last_ms": 100.13675689697266}
+{"kind": "image", "stamp_ns": 1649856327011444841, "seq": 994}
+{"kind": "cloud", "stamp_ns": 1649856327018759000, "points": 58865, "last_ms": 100.02088928222656}
+{"kind": "image", "stamp_ns": 1649856327111438741, "seq": 995}
+{"kind": "cloud", "stamp_ns": 1649856327118782000, "points": 58835, "last_ms": 100.08883666992188}
+{"kind": "image", "stamp_ns": 1649856327211432541, "seq": 996}
+{"kind": "cloud", "stamp_ns": 1649856327218873000, "points": 58975, "last_ms": 99.95985412597656}
+{"kind": "image", "stamp_ns": 1649856327311426341, "seq": 997}
+{"kind": "cloud", "stamp_ns": 1649856327318835000, "points": 59014, "last_ms": 99.85184478759766}
+{"kind": "image", "stamp_ns": 1649856327411420141, "seq": 998}
+{"kind": "cloud", "stamp_ns": 1649856327418689000, "points": 58901, "last_ms": 99.77197265625}
+{"kind": "image", "stamp_ns": 1649856327511413841, "seq": 999}
+{"kind": "cloud", "stamp_ns": 1649856327518464000, "points": 58920, "last_ms": 100.07190704345703}
+{"kind": "image", "stamp_ns": 1649856327611407741, "seq": 1000}
+{"kind": "cloud", "stamp_ns": 1649856327618539000, "points": 58965, "last_ms": 100.26073455810547}
+{"kind": "image", "stamp_ns": 1649856327711401541, "seq": 1001}
+{"kind": "cloud", "stamp_ns": 1649856327718802000, "points": 58931, "last_ms": 100.14390563964844}
+{"kind": "image", "stamp_ns": 1649856327811395341, "seq": 1002}
+{"kind": "cloud", "stamp_ns": 1649856327818948000, "points": 58920, "last_ms": 100.07190704345703}
+{"kind": "image", "stamp_ns": 1649856327911389141, "seq": 1003}
+{"kind": "cloud", "stamp_ns": 1649856327919023000, "points": 59037, "last_ms": 99.9298095703125}
+{"kind": "image", "stamp_ns": 1649856328011382841, "seq": 1004}
+{"kind": "cloud", "stamp_ns": 1649856328018955000, "points": 59133, "last_ms": 99.9288558959961}
+{"kind": "image", "stamp_ns": 1649856328111376741, "seq": 1005}
+{"kind": "cloud", "stamp_ns": 1649856328118886000, "points": 59174, "last_ms": 99.98893737792969}
+{"kind": "image", "stamp_ns": 1649856328211370541, "seq": 1006}
+{"kind": "cloud", "stamp_ns": 1649856328218878000, "points": 59339, "last_ms": 99.8728256225586}
+{"kind": "image", "stamp_ns": 1649856328311364341, "seq": 1007}
+{"kind": "cloud", "stamp_ns": 1649856328318753000, "points": 59353, "last_ms": 99.90096282958984}
+{"kind": "image", "stamp_ns": 1649856328411358141, "seq": 1008}
+{"kind": "cloud", "stamp_ns": 1649856328418657000, "points": 59300, "last_ms": 100.06379699707031}
+{"kind": "image", "stamp_ns": 1649856328511351841, "seq": 1009}
+{"kind": "cloud", "stamp_ns": 1649856328518723000, "points": 59451, "last_ms": 99.96295166015625}
+{"kind": "image", "stamp_ns": 1649856328611345741, "seq": 1010}
+{"kind": "cloud", "stamp_ns": 1649856328618689000, "points": 59336, "last_ms": 100.02374267578125}
+{"kind": "image", "stamp_ns": 1649856328711339541, "seq": 1011}
+{"kind": "cloud", "stamp_ns": 1649856328718715000, "points": 59376, "last_ms": 100.02994537353516}
+{"kind": "image", "stamp_ns": 1649856328811333341, "seq": 1012}
+{"kind": "cloud", "stamp_ns": 1649856328818747000, "points": 59312, "last_ms": 99.97582244873047}
+{"kind": "image", "stamp_ns": 1649856328911327141, "seq": 1013}
+{"kind": "cloud", "stamp_ns": 1649856328918725000, "points": 59429, "last_ms": 100.00682067871094}
+{"kind": "image", "stamp_ns": 1649856329011320841, "seq": 1014}
+{"kind": "cloud", "stamp_ns": 1649856329018734000, "points": 59434, "last_ms": 100.02780151367188}
+{"kind": "image", "stamp_ns": 1649856329111314741, "seq": 1015}
+{"kind": "cloud", "stamp_ns": 1649856329118764000, "points": 59502, "last_ms": 100.0518798828125}
+{"kind": "image", "stamp_ns": 1649856329211308541, "seq": 1016}
+{"kind": "cloud", "stamp_ns": 1649856329218818000, "points": 59387, "last_ms": 99.99703979492188}
+{"kind": "image", "stamp_ns": 1649856329311302341, "seq": 1017}
+{"kind": "cloud", "stamp_ns": 1649856329318818000, "points": 59377, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856329411296141, "seq": 1018}
+{"kind": "cloud", "stamp_ns": 1649856329418827000, "points": 59395, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856329511289941, "seq": 1019}
+{"kind": "cloud", "stamp_ns": 1649856329518820000, "points": 59420, "last_ms": 99.99775695800781}
+{"kind": "image", "stamp_ns": 1649856329611283741, "seq": 1020}
+{"kind": "cloud", "stamp_ns": 1649856329618820000, "points": 59477, "last_ms": 100.04306030273438}
+{"kind": "image", "stamp_ns": 1649856329711277541, "seq": 1021}
+{"kind": "cloud", "stamp_ns": 1649856329718866000, "points": 59489, "last_ms": 99.9948959350586}
+{"kind": "image", "stamp_ns": 1649856329811271341, "seq": 1022}
+{"kind": "cloud", "stamp_ns": 1649856329818864000, "points": 59574, "last_ms": 99.92289733886719}
+{"kind": "image", "stamp_ns": 1649856329911265141, "seq": 1023}
+{"kind": "cloud", "stamp_ns": 1649856329918790000, "points": 59557, "last_ms": 99.99370574951172}
+{"kind": "image", "stamp_ns": 1649856330011258941, "seq": 1024}
+{"kind": "cloud", "stamp_ns": 1649856330018786000, "points": 59489, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856330111252741, "seq": 1025}
+{"kind": "cloud", "stamp_ns": 1649856330118792000, "points": 59573, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856330211246541, "seq": 1026}
+{"kind": "cloud", "stamp_ns": 1649856330218794000, "points": 59507, "last_ms": 100.03089904785156}
+{"kind": "image", "stamp_ns": 1649856330311240341, "seq": 1027}
+{"kind": "cloud", "stamp_ns": 1649856330318828000, "points": 59522, "last_ms": 100.00466918945312}
+{"kind": "image", "stamp_ns": 1649856330411234141, "seq": 1028}
+{"kind": "cloud", "stamp_ns": 1649856330418835000, "points": 59560, "last_ms": 99.9948959350586}
+{"kind": "image", "stamp_ns": 1649856330511227941, "seq": 1029}
+{"kind": "cloud", "stamp_ns": 1649856330518832000, "points": 59515, "last_ms": 99.9460220336914}
+{"kind": "image", "stamp_ns": 1649856330611221741, "seq": 1030}
+{"kind": "cloud", "stamp_ns": 1649856330618781000, "points": 59498, "last_ms": 99.89189910888672}
+{"kind": "image", "stamp_ns": 1649856330711215541, "seq": 1031}
+{"kind": "cloud", "stamp_ns": 1649856330718676000, "points": 59427, "last_ms": 99.98274230957031}
+{"kind": "image", "stamp_ns": 1649856330811209341, "seq": 1032}
+{"kind": "cloud", "stamp_ns": 1649856330818661000, "points": 59434, "last_ms": 100.0459213256836}
+{"kind": "image", "stamp_ns": 1649856330911203141, "seq": 1033}
+{"kind": "cloud", "stamp_ns": 1649856330918709000, "points": 59385, "last_ms": 100.02279663085938}
+{"kind": "image", "stamp_ns": 1649856331011196941, "seq": 1034}
+{"kind": "cloud", "stamp_ns": 1649856331018734000, "points": 59401, "last_ms": 99.9398193359375}
+{"kind": "image", "stamp_ns": 1649856331111190741, "seq": 1035}
+{"kind": "cloud", "stamp_ns": 1649856331118676000, "points": 59448, "last_ms": 100.01492309570312}
+{"kind": "image", "stamp_ns": 1649856331211184541, "seq": 1036}
+{"kind": "cloud", "stamp_ns": 1649856331218693000, "points": 59349, "last_ms": 100.01492309570312}
+{"kind": "image", "stamp_ns": 1649856331311178341, "seq": 1037}
+{"kind": "cloud", "stamp_ns": 1649856331318711000, "points": 59333, "last_ms": 99.96176147460938}
+{"kind": "image", "stamp_ns": 1649856331411172141, "seq": 1038}
+{"kind": "cloud", "stamp_ns": 1649856331418675000, "points": 59384, "last_ms": 100.0070571899414}
+{"kind": "image", "stamp_ns": 1649856331511165941, "seq": 1039}
+{"kind": "cloud", "stamp_ns": 1649856331518685000, "points": 59437, "last_ms": 100.01778411865234}
+{"kind": "image", "stamp_ns": 1649856331611159741, "seq": 1040}
+{"kind": "cloud", "stamp_ns": 1649856331618705000, "points": 59390, "last_ms": 100.01182556152344}
+{"kind": "image", "stamp_ns": 1649856331711153541, "seq": 1041}
+{"kind": "cloud", "stamp_ns": 1649856331718719000, "points": 59395, "last_ms": 100.02183532714844}
+{"kind": "image", "stamp_ns": 1649856331811147341, "seq": 1042}
+{"kind": "cloud", "stamp_ns": 1649856331818743000, "points": 59409, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856331911141141, "seq": 1043}
+{"kind": "cloud", "stamp_ns": 1649856331918736000, "points": 59372, "last_ms": 99.97582244873047}
+{"kind": "image", "stamp_ns": 1649856332011134941, "seq": 1044}
+{"kind": "cloud", "stamp_ns": 1649856332018714000, "points": 59432, "last_ms": 99.97296142578125}
+{"kind": "image", "stamp_ns": 1649856332111128741, "seq": 1045}
+{"kind": "cloud", "stamp_ns": 1649856332118690000, "points": 59435, "last_ms": 100.00491333007812}
+{"kind": "image", "stamp_ns": 1649856332211122541, "seq": 1046}
+{"kind": "cloud", "stamp_ns": 1649856332218698000, "points": 59430, "last_ms": 100.00896453857422}
+{"kind": "image", "stamp_ns": 1649856332311116341, "seq": 1047}
+{"kind": "cloud", "stamp_ns": 1649856332318710000, "points": 59443, "last_ms": 100.00372314453125}
+{"kind": "image", "stamp_ns": 1649856332411110141, "seq": 1048}
+{"kind": "cloud", "stamp_ns": 1649856332418716000, "points": 59461, "last_ms": 100.00395965576172}
+{"kind": "image", "stamp_ns": 1649856332511103941, "seq": 1049}
+{"kind": "cloud", "stamp_ns": 1649856332518723000, "points": 59375, "last_ms": 99.9808349609375}
+{"kind": "image", "stamp_ns": 1649856332611097741, "seq": 1050}
+{"kind": "cloud", "stamp_ns": 1649856332618706000, "points": 59426, "last_ms": 99.98297882080078}
+{"kind": "image", "stamp_ns": 1649856332711091541, "seq": 1051}
+{"kind": "cloud", "stamp_ns": 1649856332718692000, "points": 59455, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856332811085341, "seq": 1052}
+{"kind": "cloud", "stamp_ns": 1649856332818685000, "points": 59367, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856332911079141, "seq": 1053}
+{"kind": "cloud", "stamp_ns": 1649856332918688000, "points": 59377, "last_ms": 100.00991821289062}
+{"kind": "image", "stamp_ns": 1649856333011072941, "seq": 1054}
+{"kind": "cloud", "stamp_ns": 1649856333018701000, "points": 59319, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856333111066741, "seq": 1055}
+{"kind": "cloud", "stamp_ns": 1649856333118694000, "points": 59259, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856333211060541, "seq": 1056}
+{"kind": "cloud", "stamp_ns": 1649856333218681000, "points": 59349, "last_ms": 99.96270751953125}
+{"kind": "image", "stamp_ns": 1649856333311054341, "seq": 1057}
+{"kind": "cloud", "stamp_ns": 1649856333318646000, "points": 59397, "last_ms": 99.97296142578125}
+{"kind": "image", "stamp_ns": 1649856333411048141, "seq": 1058}
+{"kind": "cloud", "stamp_ns": 1649856333418622000, "points": 59406, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856333511041941, "seq": 1059}
+{"kind": "cloud", "stamp_ns": 1649856333518609000, "points": 59385, "last_ms": 99.99894714355469}
+{"kind": "image", "stamp_ns": 1649856333611035741, "seq": 1060}
+{"kind": "cloud", "stamp_ns": 1649856333618611000, "points": 59262, "last_ms": 99.99990844726562}
+{"kind": "image", "stamp_ns": 1649856333711029541, "seq": 1061}
+{"kind": "cloud", "stamp_ns": 1649856333718614000, "points": 59272, "last_ms": 99.98774719238281}
+{"kind": "image", "stamp_ns": 1649856333811023341, "seq": 1062}
+{"kind": "cloud", "stamp_ns": 1649856333818604000, "points": 59253, "last_ms": 100.01683044433594}
+{"kind": "image", "stamp_ns": 1649856333911017141, "seq": 1063}
+{"kind": "cloud", "stamp_ns": 1649856333918623000, "points": 59114, "last_ms": 100.02994537353516}
+{"kind": "image", "stamp_ns": 1649856334011010941, "seq": 1064}
+{"kind": "cloud", "stamp_ns": 1649856334018656000, "points": 59109, "last_ms": 100.03685760498047}
+{"kind": "image", "stamp_ns": 1649856334111004741, "seq": 1065}
+{"kind": "cloud", "stamp_ns": 1649856334118695000, "points": 59083, "last_ms": 100.01778411865234}
+{"kind": "image", "stamp_ns": 1649856334210998541, "seq": 1066}
+{"kind": "cloud", "stamp_ns": 1649856334218715000, "points": 59131, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856334310989417, "seq": 1067}
+{"kind": "cloud", "stamp_ns": 1649856334318701000, "points": 59074, "last_ms": 99.95794677734375}
+{"kind": "image", "stamp_ns": 1649856334410983217, "seq": 1068}
+{"kind": "cloud", "stamp_ns": 1649856334418662000, "points": 58997, "last_ms": 99.94292449951172}
+{"kind": "image", "stamp_ns": 1649856334510977017, "seq": 1069}
+{"kind": "cloud", "stamp_ns": 1649856334518608000, "points": 58938, "last_ms": 99.92790222167969}
+{"kind": "image", "stamp_ns": 1649856334610970817, "seq": 1070}
+{"kind": "cloud", "stamp_ns": 1649856334618539000, "points": 58877, "last_ms": 99.94578552246094}
+{"kind": "image", "stamp_ns": 1649856334710964617, "seq": 1071}
+{"kind": "cloud", "stamp_ns": 1649856334718487000, "points": 58832, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856334810958417, "seq": 1072}
+{"kind": "cloud", "stamp_ns": 1649856334818474000, "points": 58876, "last_ms": 100.02279663085938}
+{"kind": "image", "stamp_ns": 1649856334910952217, "seq": 1073}
+{"kind": "cloud", "stamp_ns": 1649856334918499000, "points": 58838, "last_ms": 100.01301574707031}
+{"kind": "image", "stamp_ns": 1649856335010946017, "seq": 1074}
+{"kind": "cloud", "stamp_ns": 1649856335018515000, "points": 58849, "last_ms": 99.9898910522461}
+{"kind": "image", "stamp_ns": 1649856335110939817, "seq": 1075}
+{"kind": "cloud", "stamp_ns": 1649856335118508000, "points": 58894, "last_ms": 99.98178100585938}
+{"kind": "image", "stamp_ns": 1649856335210933617, "seq": 1076}
+{"kind": "cloud", "stamp_ns": 1649856335218492000, "points": 58813, "last_ms": 99.97796630859375}
+{"kind": "image", "stamp_ns": 1649856335310927417, "seq": 1077}
+{"kind": "cloud", "stamp_ns": 1649856335318473000, "points": 58879, "last_ms": 99.97772979736328}
+{"kind": "image", "stamp_ns": 1649856335410921217, "seq": 1078}
+{"kind": "cloud", "stamp_ns": 1649856335418453000, "points": 58892, "last_ms": 99.98798370361328}
+{"kind": "image", "stamp_ns": 1649856335510915017, "seq": 1079}
+{"kind": "cloud", "stamp_ns": 1649856335518444000, "points": 58883, "last_ms": 99.99775695800781}
+{"kind": "image", "stamp_ns": 1649856335610908817, "seq": 1080}
+{"kind": "cloud", "stamp_ns": 1649856335618444000, "points": 58905, "last_ms": 100.00491333007812}
+{"kind": "image", "stamp_ns": 1649856335710902617, "seq": 1081}
+{"kind": "cloud", "stamp_ns": 1649856335718451000, "points": 58881, "last_ms": 100.00777435302734}
+{"kind": "image", "stamp_ns": 1649856335810896417, "seq": 1082}
+{"kind": "cloud", "stamp_ns": 1649856335818461000, "points": 58829, "last_ms": 100.01301574707031}
+{"kind": "image", "stamp_ns": 1649856335910890217, "seq": 1083}
+{"kind": "cloud", "stamp_ns": 1649856335918477000, "points": 58873, "last_ms": 99.99775695800781}
+{"kind": "image", "stamp_ns": 1649856336010884017, "seq": 1084}
+{"kind": "cloud", "stamp_ns": 1649856336018477000, "points": 58891, "last_ms": 100.00300598144531}
+{"kind": "image", "stamp_ns": 1649856336110877817, "seq": 1085}
+{"kind": "cloud", "stamp_ns": 1649856336118483000, "points": 58836, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856336210871617, "seq": 1086}
+{"kind": "cloud", "stamp_ns": 1649856336218487000, "points": 58849, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856336310865417, "seq": 1087}
+{"kind": "cloud", "stamp_ns": 1649856336318474000, "points": 58831, "last_ms": 99.98583984375}
+{"kind": "image", "stamp_ns": 1649856336410859217, "seq": 1088}
+{"kind": "cloud", "stamp_ns": 1649856336418462000, "points": 58811, "last_ms": 99.9908447265625}
+{"kind": "image", "stamp_ns": 1649856336510853017, "seq": 1089}
+{"kind": "cloud", "stamp_ns": 1649856336518455000, "points": 58870, "last_ms": 100.00586700439453}
+{"kind": "image", "stamp_ns": 1649856336610846817, "seq": 1090}
+{"kind": "cloud", "stamp_ns": 1649856336618463000, "points": 58851, "last_ms": 100.01396942138672}
+{"kind": "image", "stamp_ns": 1649856336710840617, "seq": 1091}
+{"kind": "cloud", "stamp_ns": 1649856336718480000, "points": 58855, "last_ms": 100.0008544921875}
+{"kind": "image", "stamp_ns": 1649856336810834417, "seq": 1092}
+{"kind": "cloud", "stamp_ns": 1649856336818484000, "points": 58838, "last_ms": 99.98393249511719}
+{"kind": "image", "stamp_ns": 1649856336910828217, "seq": 1093}
+{"kind": "cloud", "stamp_ns": 1649856336918471000, "points": 58822, "last_ms": 99.98368835449219}
+{"kind": "image", "stamp_ns": 1649856337010822017, "seq": 1094}

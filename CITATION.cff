@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release and the accompanying manuscript."
+title: "lvi-measurement-validity: measurement-validity assessment for tightly coupled LiDAR-visual-inertial odometry"
+type: software
+authors:
+  - family-names: "H0risans"
+version: "0.3.2-w4c"
+date-released: "2026-11-21"
+license: "MIT"
+repository-code: "https://github.com/H0risans/lvi-measurement-validity"
+url: "https://github.com/H0risans/lvi-measurement-validity"
+abstract: >-
+  Research code and derived data for event-level fault injection, processing-exposure
+  verification, measurement-validity assessment, and output-hold supervision in
+  tightly coupled LiDAR-visual-inertial odometry. The release accompanies the
+  manuscript "When Is a Visual Measurement Still Valid? Event-Level Injection and
+  Output Hold in Tightly Coupled LiDAR-Visual-Inertial Odometry".
+keywords:
+  - measurement validity
+  - fault injection
+  - measurement traceability
+  - LiDAR-visual-inertial odometry
+  - pose error
+  - output hold

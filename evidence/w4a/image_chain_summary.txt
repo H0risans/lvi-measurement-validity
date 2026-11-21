@@ -1,0 +1,4 @@
+images=1094 clouds=1094
+image_span=109.293s cloud_span=109.295s
+img-cloud nearest |dt| p50=6.1ms p95=7.7ms
+EXPECT images~1094 clouds~1094 (raw 4376 images decimated 4:1)

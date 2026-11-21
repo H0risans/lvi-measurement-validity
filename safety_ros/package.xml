@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>safety_supervisor</name>
+  <version>0.1.0</version>
+  <description>External reliability supervisor and output-abstention gate for LIVO systems (Level A: topic-only).</description>
+  <maintainer email="research@example.invalid">Reliability Research</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>std_msgs</depend>
+</package>

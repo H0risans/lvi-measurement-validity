@@ -1,0 +1,6 @@
+w4c_r3_drop_hold1_r2: invalid
+counts: odom=2 safety=2 state=2
+state_counts: {"OK": 2}
+first DEGRADED=None UNKNOWN=None OK_after=None
+hold_frames=0 hold_disp=0 m raw_env=0.168365 safety_env=0.168365
+invalid_reasons=odom=2<500,state=2<500,safety_odom=2<500,no_DEGRADED,no_UNKNOWN,hold_arm_has_no_hold

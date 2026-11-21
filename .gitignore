@@ -1,0 +1,26 @@
+# Build outputs
+build/
+devel/
+install/
+logs/
+*.o
+*.so
+*.a
+
+# ROS / bags (not redistributed)
+*.bag
+*.bag.active
+
+# Local Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Keep the release package out of git; the source tree is the repo
+*.tar.gz

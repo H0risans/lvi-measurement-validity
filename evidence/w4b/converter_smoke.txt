@@ -1,0 +1,25 @@
+# W4b converter smoke test (0 P0)
+
+- VM: nano@192.168.58.129
+- Source: exp18_corridor_lower_gallery_2.bag (first 8 s, `rosbag play --clock -u 8`)
+- Nodes: `hilti_lvisam_adapter/point_cloud_converter.py` only; no LVI-SAM, no estimator. ROS master port 11313.
+- Recorded: `/lvisam/points`, 3 messages, `/tmp/w4b_points.bag` (4.4 MB).
+
+## Message contract
+
+| item | observed |
+|---|---|
+| message count | 3 |
+| width | 60,976 / 60,965 |
+| point_step | 24 |
+| fields | x(0,float32), y(4,float32), z(8,float32), intensity(12,float32), ring(16,uint16), time(20,float32) |
+| ring range | 0..31 |
+| time range | 0.000001..0.100003 s (relative to header stamp) |
+| coordinates finite | true |
+
+## Files
+
+- converter: `adapters/lvisam/ros/hilti_lvisam_adapter/scripts/point_cloud_converter.py`
+- sha256: `6994687f26f0bf0ecc9b5745341c30092b642c5997a062fb1c4a1c625cbb855b`
+- smoke bag (VM only): `/tmp/w4b_points.bag`
+- no P0 consumed; budget unchanged at 277/280.

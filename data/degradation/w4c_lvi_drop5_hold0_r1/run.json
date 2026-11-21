@@ -1,0 +1,43 @@
+{
+  "status": "done",
+  "valid": true,
+  "exit_code": 0,
+  "bag": "/home/nano/experiments/w4c_20261119/runs/w4c_lvi_drop5_hold0_r1/w4b_topics.bag",
+  "duration_s": 109.39,
+  "counts": {
+    "/clock": 10176,
+    "/lvi_sam/lidar/mapping/odometry": 546,
+    "/safety/state": 556,
+    "/safety/odom": 556
+  },
+  "state_counts": {
+    "OK": 316,
+    "DEGRADED": 10,
+    "UNKNOWN": 230
+  },
+  "hold_frames": 0,
+  "raw_odom": 546,
+  "safety_odom": 556,
+  "first_raw": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "last_raw": [
+    441.57830810546875,
+    155.10850524902344,
+    -37.27471923828125
+  ],
+  "first_safety": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "last_safety": [
+    441.57830810546875,
+    155.10850524902344,
+    -37.27471923828125
+  ],
+  "missing": [],
+  "note": "clean W4b LVI-SAM adapter run; no accuracy or abstention claim"
+}

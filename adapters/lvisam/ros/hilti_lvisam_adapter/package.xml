@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hilti_lvisam_adapter</name>
+  <version>0.1.0</version>
+  <description>Hilti22 Hesai XT32 to LVI-SAM point-cloud contract adapter.</description>
+  <maintainer email="nano@example.com">nano</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <exec_depend>python3-numpy</exec_depend>
+</package>

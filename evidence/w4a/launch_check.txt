@@ -1,0 +1,28 @@
+W4a adapter static checks (0 P0)
+date: 2026-11-19
+scope: launch/remap only; no estimator started
+
+local:
+$ python3 adapters/r3live/check_w4a_launch.py adapters/r3live/r3live_with_supervisor.launch
+W4a launch OK: r3live_with_supervisor.launch
+
+VM launch-tree resolution (does not start nodes):
+$ source /opt/ros/noetic/setup.bash
+$ source ~/catkin_ws_safety/devel/setup.bash
+$ source ~/catkin_r3live_ws/devel/setup.bash
+$ export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:$HOME/catkin_ws_safety/src
+$ roslaunch --files ~/experiments/w4a/w4a/r3live_with_supervisor.launch audit_path:=/tmp/w4a_audit.jsonl
+
+/home/nano/experiments/w4a/w4a/r3live_with_supervisor.launch
+/home/nano/catkin_r3live_ws/src/hilti_r3live_adapter/launch/hilti_r3live.launch
+
+topics:
+  image: /r3live_hilti_adapter/image_out
+  lidar: /r3live_hilti_adapter/cloud_out
+  odom:  /aft_mapped_to_init
+  state: /safety/state
+  odom:  /safety/odom
+
+not yet run:
+- R3LIVE estimator with supervisor (would need W4a pre-registration and P0)
+- lidar_p05/p50 calibration on R3LIVE cloud_out

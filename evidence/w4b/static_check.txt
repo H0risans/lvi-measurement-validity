@@ -1,0 +1,48 @@
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\package.xml
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\CMakeLists.txt
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\scripts\point_cloud_converter.py
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\launch\hilti_lvisam_cloud.launch
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\launch\lvisam_hilti.launch
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\launch\lvisam_hilti_stack.launch
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\config\params_lidar_hilti.yaml
+OK   exists: adapters\lvisam\ros\hilti_lvisam_adapter\config\params_camera_hilti.yaml
+OK   exists: adapters\lvisam\patches\opencv4_cxx14.patch
+OK   XML parses: hilti_lvisam_cloud.launch
+OK   XML parses: lvisam_hilti.launch
+OK   XML parses: lvisam_hilti_stack.launch
+OK   stack contains pkg="camera_fault_injector"
+OK   stack contains pkg="hilti_r3live_adapter"
+OK   stack contains pkg="safety_supervisor"
+OK   stack contains $(find hilti_lvisam_adapter)/launch/hilti_lvisam_cloud.launch
+OK   stack contains $(find hilti_lvisam_adapter)/launch/lvisam_hilti.launch
+OK   stack contains image_topic" value="/r3live_hilti_adapter/image_out"
+OK   stack contains lidar_topic" value="/lvisam/points"
+OK   stack contains odom_topic" value="/lvi_sam/lidar/mapping/odometry"
+OK   stack contains ~image_in" to="/fault_injector/image_raw"
+OK   no R3LIVE estimator in W4b stack
+OK   no RViz node in stack
+OK   LVI-SAM node lvi_sam_imuPreintegration
+OK   LVI-SAM node lvi_sam_imageProjection
+OK   LVI-SAM node lvi_sam_featureExtraction
+OK   LVI-SAM node lvi_sam_mapOptmization
+OK   LVI-SAM node lvi_sam_visual_feature
+OK   LVI-SAM node lvi_sam_visual_odometry
+OK   visual loop is not launched
+OK   converter package in cloud launch
+OK   converter node type
+OK   lidar config: pointCloudTopic
+OK   lidar config: imuTopic
+OK   lidar config: N_SCAN=32
+OK   lidar config: Horizon_SCAN=1800
+OK   lidar config: loop closure disabled
+OK   lidar config: T_IL
+OK   camera config: PINHOLE
+OK   camera config: image topic
+OK   camera config: fisheye off
+OK   camera config: loop closure off
+OK   camera config: R_IC matrix
+OK   camera config: zero distortion
+OK   converter has transform, explicit layout and fail-closed path
+OK   converter default output /lvisam/points
+
+W4b static check: PASS

@@ -1,0 +1,58 @@
+<launch>
+  <!-- Full W4b stack: injector -> Hilti adapter -> LVI-SAM, plus supervisor.
+       Does NOT include R3LIVE or RViz. Run only after a pre-registered P0 budget row.
+  -->
+  <arg name="injector_config" default="$(find camera_fault_injector)/config/hilti22_select10.yaml" />
+  <arg name="injector_fault_log" default="$(env HOME)/experiments/w4b/fault_events.csv" />
+  <arg name="audit_path" default="$(env HOME)/experiments/w4b/adapter_audit.jsonl" />
+  <arg name="hold_output" default="true" />
+  <arg name="lidar_p05" default="55008" />
+  <arg name="lidar_p50" default="58931" />
+  <arg name="state_topic" default="/safety/state" />
+  <arg name="odom_out_topic" default="/safety/odom" />
+
+  <param name="/use_sim_time" value="true" />
+
+  <!-- Camera selection: 40 Hz raw -> 10 Hz selected, contract required by Hilti adapter/LVI-SAM. -->
+  <node pkg="camera_fault_injector" type="camera_fault_injector_node"
+        name="camera_fault_injector" output="screen" required="true">
+    <rosparam command="load" file="$(arg injector_config)" />
+    <param name="fault_log_enable" value="true" />
+    <param name="fault_log_path" value="$(arg injector_fault_log)" />
+  </node>
+
+  <!-- Image rectification + Hilti camera overlay. Cloud output is unused here. -->
+  <node pkg="hilti_r3live_adapter" type="hilti_adapter_node.py"
+        name="r3live_hilti_adapter" output="screen" required="true">
+    <param name="audit_path" value="$(arg audit_path)" />
+    <remap from="~cloud_in" to="/hesai/pandar" />
+    <remap from="~image_in" to="/fault_injector/image_raw" />
+  </node>
+
+  <!-- Hesai XT32 -> PointXYZIRT contract for LVI-SAM. -->
+  <include file="$(find hilti_lvisam_adapter)/launch/hilti_lvisam_cloud.launch" />
+
+  <!-- Hilti IMU is 6-axis; fill the missing orientation with identity so
+       LVI-SAM's 9-axis check does not shut the estimator down. -->
+  <node pkg="hilti_lvisam_adapter" type="imu_converter.py"
+        name="hilti_lvisam_imu" output="screen" required="true">
+    <param name="input_topic" value="/alphasense/imu" />
+    <param name="output_topic" value="/lvisam/imu" />
+  </node>
+
+  <!-- LVI-SAM core, no visual loop / no RViz. -->
+  <include file="$(find hilti_lvisam_adapter)/launch/lvisam_hilti.launch" />
+
+  <!-- External supervisor: Level-A only; no LVI-SAM source change. -->
+  <node pkg="safety_supervisor" type="supervisor_node"
+        name="safety_supervisor" output="screen" required="true">
+    <param name="image_topic" value="/r3live_hilti_adapter/image_out" />
+    <param name="lidar_topic" value="/lvisam/points" />
+    <param name="odom_topic" value="/lvi_sam/lidar/mapping/odometry" />
+    <param name="state_topic" value="$(arg state_topic)" />
+    <param name="odom_out_topic" value="$(arg odom_out_topic)" />
+    <param name="hold_output" value="$(arg hold_output)" />
+    <param name="lidar_p05" value="$(arg lidar_p05)" />
+    <param name="lidar_p50" value="$(arg lidar_p50)" />
+  </node>
+</launch>

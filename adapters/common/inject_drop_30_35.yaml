@@ -1,0 +1,25 @@
+mode: drop_burst
+input_topic: /alphasense/cam0/image_raw
+output_topic: /fault_injector/image_raw
+
+# W4c degradation probe: no image is published for the complete [30,33) window
+# after 4:1 selection. Used only to exercise W16 UNKNOWN -> hold -> release.
+start_time_s: 30.0
+end_time_s: 35.0
+magnitude_ms: 0.0
+burst_length_frames: 0
+drop_probability: 0.0
+seed: 20260819
+drift_hold_after_end: true
+delay_clock: ros
+preserve_order: true
+select_stride: 4
+select_phase: 0
+timer_period_ms: 1.0
+subscriber_queue_size: 200
+publisher_queue_size: 200
+log_every_n: 200
+
+fault_log_enable: true
+fault_log_path: fault_events.csv
+fault_log_flush_every: 50

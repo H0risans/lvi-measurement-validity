@@ -1,0 +1,29 @@
+{
+  "file": "C:\\Users\\28747\\Desktop\\多模态小论文方案\\工程化\\..\\第4-5章_判别与恢复\\m12_stage\\m12c1\\m12c1_safety.csv",
+  "rows": 2599,
+  "compared": 2599,
+  "mismatches": 0,
+  "first_mismatches": [],
+  "states": {
+    "OK": 281,
+    "DEGRADED": 10,
+    "UNKNOWN": 2308
+  },
+  "transitions": [
+    {
+      "t": "28.4352",
+      "from": "OK",
+      "to": "DEGRADED"
+    },
+    {
+      "t": "29.4352",
+      "from": "DEGRADED",
+      "to": "UNKNOWN"
+    }
+  ],
+  "p50": 1406.5,
+  "p05": 14.0,
+  "has_state_column": true,
+  "non_ok": 2318,
+  "ok": true
+}

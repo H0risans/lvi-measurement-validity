@@ -1,0 +1,497 @@
+[33m[WARN] [1795080097.465749539, 1649856228.146607769]: Not enough features! Only 73 edge and 86 planar features available.[0m
+[33m[WARN] [1795080097.659486399, 1649856228.338166167]: Not enough features! Only 71 edge and 87 planar features available.[0m
+[33m[WARN] [1795080097.856613406, 1649856228.540051742]: Not enough features! Only 73 edge and 89 planar features available.[0m
+[33m[WARN] [1795080098.059149597, 1649856228.738462684]: Not enough features! Only 68 edge and 87 planar features available.[0m
+[33m[WARN] [1795080098.253619151, 1649856228.932935802]: Not enough features! Only 73 edge and 89 planar features available.[0m
+[33m[WARN] [1795080098.458826634, 1649856229.145257250]: Not enough features! Only 76 edge and 90 planar features available.[0m
+[33m[WARN] [1795080098.657059818, 1649856229.332101110]: Not enough features! Only 69 edge and 90 planar features available.[0m
+[33m[WARN] [1795080098.854233882, 1649856229.539957536]: Not enough features! Only 78 edge and 94 planar features available.[0m
+[33m[WARN] [1795080099.060350344, 1649856229.743730776]: Not enough features! Only 73 edge and 99 planar features available.[0m
+[33m[WARN] [1795080099.456585858, 1649856230.133585495]: Not enough features! Only 81 edge and 96 planar features available.[0m
+[33m[WARN] [1795080099.655800991, 1649856230.340895411]: Not enough features! Only 85 edge and 92 planar features available.[0m
+[33m[WARN] [1795080099.657268761, 1649856230.340895411]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080099.854239477, 1649856230.537849455]: Not enough features! Only 88 edge and 89 planar features available.[0m
+[33m[WARN] [1795080100.054335100, 1649856230.741273618]: Not enough features! Only 80 edge and 90 planar features available.[0m
+[33m[WARN] [1795080100.253157234, 1649856230.938732714]: Not enough features! Only 79 edge and 83 planar features available.[0m
+[33m[WARN] [1795080100.455522087, 1649856231.139208770]: Not enough features! Only 67 edge and 78 planar features available.[0m
+[33m[WARN] [1795080100.651020228, 1649856231.331729332]: Not enough features! Only 71 edge and 78 planar features available.[0m
+[33m[WARN] [1795080100.853861921, 1649856231.536695585]: Not enough features! Only 63 edge and 72 planar features available.[0m
+[33m[WARN] [1795080101.056159581, 1649856231.740016998]: Not enough features! Only 73 edge and 82 planar features available.[0m
+[33m[WARN] [1795080101.261347120, 1649856231.950103293]: Not enough features! Only 72 edge and 85 planar features available.[0m
+[33m[WARN] [1795080101.461233973, 1649856232.148258573]: Not enough features! Only 84 edge and 96 planar features available.[0m
+[33m[WARN] [1795080101.653462553, 1649856232.332987812]: Not enough features! Only 88 edge and 100 planar features available.[0m
+[33m[WARN] [1795080101.855677281, 1649856232.537841618]: Not enough features! Only 79 edge and 100 planar features available.[0m
+[33m[WARN] [1795080102.055525527, 1649856232.741732681]: Not enough features! Only 79 edge and 88 planar features available.[0m
+[33m[WARN] [1795080102.255704501, 1649856232.941063863]: Not enough features! Only 89 edge and 91 planar features available.[0m
+[33m[WARN] [1795080102.257267157, 1649856232.941063863]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080102.456217000, 1649856233.137622046]: Not enough features! Only 92 edge and 87 planar features available.[0m
+[33m[WARN] [1795080102.656623877, 1649856233.340954207]: Not enough features! Only 87 edge and 82 planar features available.[0m
+[33m[WARN] [1795080102.858616704, 1649856233.538402246]: Not enough features! Only 76 edge and 75 planar features available.[0m
+[33m[WARN] [1795080103.052921357, 1649856233.741418835]: Not enough features! Only 83 edge and 78 planar features available.[0m
+[33m[WARN] [1795080103.261315481, 1649856233.945334363]: Not enough features! Only 87 edge and 82 planar features available.[0m
+[31m[ERROR] [1795080103.345906563, 1649856234.029556007]: VINS big IMU acc bias estimation 2.529079, restart estimator![0m
+[31m[ERROR] [1795080103.346042891, 1649856234.029556007]: VINS failure detection![0m
+[31m[ERROR] [1795080103.346837988, 1649856234.029556007]: VINS system reboot![0m
+[33m[WARN] [1795080103.466071528, 1649856234.150476677]: Not enough features! Only 78 edge and 85 planar features available.[0m
+[33m[WARN] [1795080103.657153670, 1649856234.337933419]: Not enough features! Only 83 edge and 87 planar features available.[0m
+[33m[WARN] [1795080103.854687325, 1649856234.536478259]: Not enough features! Only 89 edge and 93 planar features available.[0m
+[33m[WARN] [1795080104.061303371, 1649856234.749503668]: Not enough features! Only 83 edge and 90 planar features available.[0m
+[33m[WARN] [1795080104.261035633, 1649856234.949884037]: Not enough features! Only 80 edge and 87 planar features available.[0m
+[33m[WARN] [1795080104.463146084, 1649856235.148728040]: Not enough features! Only 76 edge and 84 planar features available.[0m
+[33m[WARN] [1795080104.660472063, 1649856235.346657567]: Not enough features! Only 82 edge and 80 planar features available.[0m
+[33m[WARN] [1795080104.860092362, 1649856235.548028032]: Not enough features! Only 75 edge and 88 planar features available.[0m
+[31m[ERROR] [1795080105.047180978, 1649856235.733140508]: VINS big IMU acc bias estimation 2.583501, restart estimator![0m
+[31m[ERROR] [1795080105.047397733, 1649856235.733140508]: VINS failure detection![0m
+[31m[ERROR] [1795080105.047935083, 1649856235.733140508]: VINS system reboot![0m
+[33m[WARN] [1795080105.054094304, 1649856235.733140508]: Not enough features! Only 75 edge and 87 planar features available.[0m
+[33m[WARN] [1795080105.055769285, 1649856235.733140508]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080105.262710416, 1649856235.949463726]: Not enough features! Only 86 edge and 86 planar features available.[0m
+[33m[WARN] [1795080105.454642838, 1649856236.140704279]: Not enough features! Only 81 edge and 95 planar features available.[0m
+[33m[WARN] [1795080105.661617965, 1649856236.350542033]: Not enough features! Only 75 edge and 75 planar features available.[0m
+[33m[WARN] [1795080105.868151557, 1649856236.551451040]: Not enough features! Only 76 edge and 74 planar features available.[0m
+[33m[WARN] [1795080106.058177521, 1649856236.743794795]: Not enough features! Only 78 edge and 77 planar features available.[0m
+[33m[WARN] [1795080106.262437292, 1649856236.946229166]: Not enough features! Only 78 edge and 77 planar features available.[0m
+[33m[WARN] [1795080106.459946379, 1649856237.144974653]: Not enough features! Only 79 edge and 86 planar features available.[0m
+[33m[WARN] [1795080106.666875821, 1649856237.348755159]: Not enough features! Only 69 edge and 95 planar features available.[0m
+[33m[WARN] [1795080106.857552453, 1649856237.539730278]: Not enough features! Only 75 edge and 100 planar features available.[0m
+[33m[WARN] [1795080107.263498703, 1649856237.945455245]: Not enough features! Only 73 edge and 78 planar features available.[0m
+[33m[WARN] [1795080107.470214145, 1649856238.157150115]: Not enough features! Only 72 edge and 81 planar features available.[0m
+[33m[WARN] [1795080107.662251571, 1649856238.346268206]: Not enough features! Only 73 edge and 77 planar features available.[0m
+[33m[WARN] [1795080107.664071106, 1649856238.346268206]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080107.863475027, 1649856238.548354658]: Not enough features! Only 72 edge and 75 planar features available.[0m
+[33m[WARN] [1795080108.060760770, 1649856238.741312959]: Not enough features! Only 77 edge and 83 planar features available.[0m
+[33m[WARN] [1795080108.272057786, 1649856238.956549268]: Not enough features! Only 76 edge and 83 planar features available.[0m
+[33m[WARN] [1795080108.471535182, 1649856239.150615513]: Not enough features! Only 74 edge and 79 planar features available.[0m
+[33m[WARN] [1795080108.662596849, 1649856239.345942150]: Not enough features! Only 79 edge and 83 planar features available.[0m
+[33m[WARN] [1795080108.862488557, 1649856239.547433404]: Not enough features! Only 76 edge and 80 planar features available.[0m
+[33m[WARN] [1795080109.052143091, 1649856239.741153143]: Not enough features! Only 80 edge and 82 planar features available.[0m
+[33m[WARN] [1795080109.255137610, 1649856239.933291154]: Not enough features! Only 78 edge and 83 planar features available.[0m
+[33m[WARN] [1795080109.453699831, 1649856240.131863305]: Not enough features! Only 78 edge and 82 planar features available.[0m
+[33m[WARN] [1795080109.662145537, 1649856240.350891786]: Not enough features! Only 72 edge and 89 planar features available.[0m
+[33m[WARN] [1795080109.861193166, 1649856240.545888960]: Not enough features! Only 79 edge and 88 planar features available.[0m
+[31m[ERROR] [1795080110.279033522, 1649856240.960720638]: VINS big IMU acc bias estimation 3.510079, restart estimator![0m
+[31m[ERROR] [1795080110.279105690, 1649856240.960720638]: VINS failure detection![0m
+[31m[ERROR] [1795080110.279581790, 1649856240.960720638]: VINS system reboot![0m
+[33m[WARN] [1795080111.268116595, 1649856241.950398746]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080112.983986287, 1649856243.670149696]: VINS little feature 0![0m
+[31m[ERROR] [1795080113.080183162, 1649856243.761444995]: VINS little feature 0![0m
+[33m[WARN] [1795080114.472145574, 1649856245.160045040]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080114.975791418, 1649856245.656678127]: VINS big IMU acc bias estimation 3.500805, restart estimator![0m
+[31m[ERROR] [1795080114.975859670, 1649856245.656678127]: VINS failure detection![0m
+[31m[ERROR] [1795080114.976302985, 1649856245.656678127]: VINS system reboot![0m
+[31m[ERROR] [1795080116.365283342, 1649856247.051974175]: VINS big IMU acc bias estimation 2.603498, restart estimator![0m
+[31m[ERROR] [1795080116.365398402, 1649856247.051974175]: VINS failure detection![0m
+[31m[ERROR] [1795080116.365794098, 1649856247.051974175]: VINS system reboot![0m
+[33m[WARN] [1795080117.090370390, 1649856247.761019998]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080119.401144989, 1649856250.083531835]: VINS big IMU acc bias estimation 2.527995, restart estimator![0m
+[31m[ERROR] [1795080119.401194454, 1649856250.083531835]: VINS failure detection![0m
+[31m[ERROR] [1795080119.401355077, 1649856250.083531835]: VINS system reboot![0m
+[33m[WARN] [1795080119.693873978, 1649856250.382603042]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080122.294701476, 1649856252.978102020]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080123.398091824, 1649856254.086920359]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080123.398151180, 1649856254.086920359]: VINS failure detection![0m
+[31m[ERROR] [1795080123.398287463, 1649856254.086920359]: VINS system reboot![0m
+[31m[ERROR] [1795080124.576426901, 1649856255.261619180]: VINS little feature 0![0m
+[31m[ERROR] [1795080124.740646057, 1649856255.314043797]: VINS little feature 1![0m
+[31m[ERROR] [1795080124.832942419, 1649856255.314043797]: VINS little feature 1![0m
+[33m[WARN] [1795080125.120230746, 1649856255.802427073]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080127.671280548, 1649856258.352227500]: VINS big IMU acc bias estimation 2.963530, restart estimator![0m
+[31m[ERROR] [1795080127.671379232, 1649856258.352227500]: VINS failure detection![0m
+[31m[ERROR] [1795080127.671542215, 1649856258.352227500]: VINS system reboot![0m
+[33m[WARN] [1795080128.298806379, 1649856258.980645739]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080132.089546537, 1649856262.774092094]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080132.597538065, 1649856263.278653724]: VINS big IMU acc bias estimation 2.714582, restart estimator![0m
+[31m[ERROR] [1795080132.597679947, 1649856263.278653724]: VINS failure detection![0m
+[31m[ERROR] [1795080132.598557574, 1649856263.278653724]: VINS system reboot![0m
+[31m[ERROR] [1795080133.799036777, 1649856264.483504014]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080133.799143742, 1649856264.483504014]: VINS failure detection![0m
+[31m[ERROR] [1795080133.799667483, 1649856264.483504014]: VINS system reboot![0m
+[33m[WARN] [1795080135.792400687, 1649856266.477361840]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080135.803255646, 1649856266.487735741]: VINS big IMU acc bias estimation 2.551712, restart estimator![0m
+[31m[ERROR] [1795080135.803381289, 1649856266.487735741]: VINS failure detection![0m
+[31m[ERROR] [1795080135.803893419, 1649856266.487735741]: VINS system reboot![0m
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+W1119 01:22:17.171945 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.174314 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.176795 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.177924 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.182096 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.182854 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.186571 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.187335 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.190042 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+W1119 01:22:17.192412 403612 levenberg_marquardt_strategy.cc:114] Linear solver failure. Failed to compute a step: Eigen failure. Unable to perform dense Cholesky factorization.
+[33m[WARN] [1795080140.360493312, 1649856271.007960970]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080141.111910307, 1649856271.711215942]: VINS big IMU acc bias estimation 3.047142, restart estimator![0m
+[31m[ERROR] [1795080141.112003888, 1649856271.711215942]: VINS failure detection![0m
+[31m[ERROR] [1795080141.112563865, 1649856271.711215942]: VINS system reboot![0m
+[31m[ERROR] [1795080142.010883283, 1649856272.693222465]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080142.010991681, 1649856272.693222465]: VINS failure detection![0m
+[31m[ERROR] [1795080142.011768611, 1649856272.693222465]: VINS system reboot![0m
+[31m[ERROR] [1795080144.395266649, 1649856275.082559399]: VINS big IMU acc bias estimation 2.974038, restart estimator![0m
+[31m[ERROR] [1795080144.395318834, 1649856275.082559399]: VINS failure detection![0m
+[31m[ERROR] [1795080144.395655145, 1649856275.082559399]: VINS system reboot![0m
+[33m[WARN] [1795080144.771898087, 1649856275.457367191]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080146.389509237, 1649856277.059081957]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080146.389631549, 1649856277.059081957]: VINS failure detection![0m
+[31m[ERROR] [1795080146.389916641, 1649856277.059081957]: VINS system reboot![0m
+[33m[WARN] [1795080147.399090659, 1649856278.083175242]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080147.698837869, 1649856278.381242493]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080147.698895788, 1649856278.381242493]: VINS failure detection![0m
+[31m[ERROR] [1795080147.699573220, 1649856278.381242493]: VINS system reboot![0m
+[31m[ERROR] [1795080149.919952832, 1649856280.605364901]: VINS big IMU acc bias estimation 2.602859, restart estimator![0m
+[31m[ERROR] [1795080149.920072055, 1649856280.605364901]: VINS failure detection![0m
+[31m[ERROR] [1795080149.920564810, 1649856280.605364901]: VINS system reboot![0m
+[31m[ERROR] [1795080151.286438570, 1649856281.971683723]: VINS big IMU acc bias estimation 3.009485, restart estimator![0m
+[31m[ERROR] [1795080151.286518646, 1649856281.971683723]: VINS failure detection![0m
+[31m[ERROR] [1795080151.287021119, 1649856281.971683723]: VINS system reboot![0m
+[31m[ERROR] [1795080152.506796920, 1649856283.184990176]: VINS big IMU acc bias estimation 3.771040, restart estimator![0m
+[31m[ERROR] [1795080152.506889137, 1649856283.184990176]: VINS failure detection![0m
+[31m[ERROR] [1795080152.507346654, 1649856283.184990176]: VINS system reboot![0m
+[31m[ERROR] [1795080153.716111190, 1649856284.380932934]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080153.716188527, 1649856284.380932934]: VINS failure detection![0m
+[31m[ERROR] [1795080153.716562573, 1649856284.380932934]: VINS system reboot![0m
+[31m[ERROR] [1795080154.993831254, 1649856285.679917067]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080154.993922528, 1649856285.679917067]: VINS failure detection![0m
+[31m[ERROR] [1795080154.994332407, 1649856285.679917067]: VINS system reboot![0m
+[33m[WARN] [1795080155.023111146, 1649856285.711743551]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080156.873817877, 1649856287.558927025]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080156.873896479, 1649856287.558927025]: VINS failure detection![0m
+[31m[ERROR] [1795080156.874236446, 1649856287.558927025]: VINS system reboot![0m
+[31m[ERROR] [1795080158.192152443, 1649856288.880208249]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080158.192250330, 1649856288.880208249]: VINS failure detection![0m
+[31m[ERROR] [1795080158.192668696, 1649856288.880208249]: VINS system reboot![0m
+[31m[ERROR] [1795080159.398760785, 1649856290.081867712]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080159.398835245, 1649856290.081867712]: VINS failure detection![0m
+[31m[ERROR] [1795080159.398977868, 1649856290.081867712]: VINS system reboot![0m
+[33m[WARN] [1795080160.541257622, 1649856291.202513273]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080160.620912536, 1649856291.202513273]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080160.621088901, 1649856291.202513273]: VINS failure detection![0m
+[31m[ERROR] [1795080160.621678079, 1649856291.202513273]: VINS system reboot![0m
+[31m[ERROR] [1795080164.895070844, 1649856295.579140895]: VINS big IMU acc bias estimation 4.308194, restart estimator![0m
+[31m[ERROR] [1795080164.895137321, 1649856295.579140895]: VINS failure detection![0m
+[31m[ERROR] [1795080164.895954095, 1649856295.579140895]: VINS system reboot![0m
+[33m[WARN] [1795080166.102327282, 1649856296.782883336]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080166.106048981, 1649856296.793011175]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080166.106123102, 1649856296.793011175]: VINS failure detection![0m
+[31m[ERROR] [1795080166.106693184, 1649856296.793011175]: VINS system reboot![0m
+[33m[WARN] [1795080169.461823429, 1649856300.147671640]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080170.571510054, 1649856301.254915497]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080170.571581978, 1649856301.254915497]: VINS failure detection![0m
+[31m[ERROR] [1795080170.571789129, 1649856301.254915497]: VINS system reboot![0m
+[31m[ERROR] [1795080171.877393754, 1649856302.557137776]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080171.877530161, 1649856302.557137776]: VINS failure detection![0m
+[31m[ERROR] [1795080171.877787476, 1649856302.557137776]: VINS system reboot![0m
+[33m[WARN] [1795080172.982468015, 1649856303.668174305]: Not enough features! Only 59 edge and 92 planar features available.[0m
+[33m[WARN] [1795080173.179235251, 1649856303.867260699]: Not enough features! Only 70 edge and 95 planar features available.[0m
+[31m[ERROR] [1795080173.265060955, 1649856303.947374816]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080173.265139134, 1649856303.947374816]: VINS failure detection![0m
+[31m[ERROR] [1795080173.265243029, 1649856303.947374816]: VINS system reboot![0m
+[33m[WARN] [1795080174.209995651, 1649856304.893709994]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080176.472279357, 1649856307.157154170]: VINS big IMU acc bias estimation 2.568283, restart estimator![0m
+[31m[ERROR] [1795080176.472349929, 1649856307.157154170]: VINS failure detection![0m
+[31m[ERROR] [1795080176.472708793, 1649856307.157154170]: VINS system reboot![0m
+[31m[ERROR] [1795080177.755462956, 1649856308.437551354]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080177.755519078, 1649856308.437551354]: VINS failure detection![0m
+[31m[ERROR] [1795080177.755828883, 1649856308.437551354]: VINS system reboot![0m
+[31m[ERROR] [1795080179.062619867, 1649856309.744522090]: VINS big IMU acc bias estimation 2.575725, restart estimator![0m
+[31m[ERROR] [1795080179.062742256, 1649856309.744522090]: VINS failure detection![0m
+[31m[ERROR] [1795080179.063147514, 1649856309.744522090]: VINS system reboot![0m
+[31m[ERROR] [1795080180.371283170, 1649856311.054793467]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080180.371376823, 1649856311.054793467]: VINS failure detection![0m
+[31m[ERROR] [1795080180.371741769, 1649856311.054793467]: VINS system reboot![0m
+[31m[ERROR] [1795080181.567046852, 1649856312.255915373]: VINS little feature 0![0m
+[31m[ERROR] [1795080181.658689695, 1649856312.337234057]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080181.658756459, 1649856312.337234057]: VINS failure detection![0m
+[31m[ERROR] [1795080181.658917984, 1649856312.337234057]: VINS system reboot![0m
+[33m[WARN] [1795080182.170072566, 1649856312.857059173]: Not enough features! Only 59 edge and 100 planar features available.[0m
+[33m[WARN] [1795080182.374053354, 1649856313.057867203]: Not enough features! Only 65 edge and 80 planar features available.[0m
+[33m[WARN] [1795080182.567485661, 1649856313.254232498]: Not enough features! Only 64 edge and 76 planar features available.[0m
+[33m[WARN] [1795080182.761914416, 1649856313.442176639]: Not enough features! Only 62 edge and 70 planar features available.[0m
+[33m[WARN] [1795080182.972628783, 1649856313.659466428]: Not enough features! Only 69 edge and 75 planar features available.[0m
+[33m[WARN] [1795080183.169583207, 1649856313.855402253]: Not enough features! Only 71 edge and 92 planar features available.[0m
+[31m[ERROR] [1795080183.358410131, 1649856314.041631049]: VINS big IMU acc bias estimation 2.589881, restart estimator![0m
+[31m[ERROR] [1795080183.358478890, 1649856314.041631049]: VINS failure detection![0m
+[31m[ERROR] [1795080183.358681602, 1649856314.041631049]: VINS system reboot![0m
+[33m[WARN] [1795080183.387968889, 1649856314.068236606]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080183.567723570, 1649856314.250940554]: Not enough features! Only 49 edge and 54 planar features available.[0m
+[33m[WARN] [1795080183.768845497, 1649856314.453854611]: Not enough features! Only 37 edge and 24 planar features available.[0m
+[33m[WARN] [1795080183.964791194, 1649856314.651792389]: Not enough features! Only 21 edge and 16 planar features available.[0m
+[33m[WARN] [1795080184.179081389, 1649856314.867920752]: Not enough features! Only 4 edge and 9 planar features available.[0m
+[33m[WARN] [1795080184.375406499, 1649856315.056907679]: Not enough features! Only 11 edge and 10 planar features available.[0m
+[33m[WARN] [1795080184.562488819, 1649856315.247655605]: Not enough features! Only 20 edge and 9 planar features available.[0m
+[33m[WARN] [1795080184.761799708, 1649856315.444672656]: Not enough features! Only 13 edge and 7 planar features available.[0m
+[33m[WARN] [1795080184.965182391, 1649856315.646637449]: Not enough features! Only 19 edge and 12 planar features available.[0m
+[33m[WARN] [1795080185.162176786, 1649856315.844380703]: Not enough features! Only 14 edge and 28 planar features available.[0m
+[33m[WARN] [1795080185.365977886, 1649856316.046481372]: Not enough features! Only 24 edge and 31 planar features available.[0m
+[33m[WARN] [1795080185.570793608, 1649856316.257965432]: Not enough features! Only 36 edge and 34 planar features available.[0m
+[33m[WARN] [1795080185.761448781, 1649856316.441524430]: Not enough features! Only 52 edge and 60 planar features available.[0m
+[33m[WARN] [1795080186.168584342, 1649856316.851578447]: Not enough features! Only 44 edge and 61 planar features available.[0m
+[33m[WARN] [1795080186.170447569, 1649856316.851578447]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080186.361301594, 1649856317.045281114]: VINS big IMU acc bias estimation 2.540999, restart estimator![0m
+[31m[ERROR] [1795080186.361400774, 1649856317.045281114]: VINS failure detection![0m
+[31m[ERROR] [1795080186.361644334, 1649856317.045281114]: VINS system reboot![0m
+[33m[WARN] [1795080186.367058998, 1649856317.055952899]: Not enough features! Only 5 edge and 21 planar features available.[0m
+[0m[INFO] [1795080094.017022715]: camera_fault_injector fault_events -> /home/nano/experiments/w4b_20261119/runs/w4b_exp18_clean_hold_imu1/fault_events.csv[0m
+[0m[INFO] [1795080094.020148018]: camera_fault_injector ready: mode=passthrough input=/alphasense/cam0/image_raw output=/fault_injector/image_raw window=[0, -1) s magnitude=0 ms seed=20260819 select=4@0[0m
+[0m[INFO] [1795080101.929114097, 1649856232.612490751]: camera_fault_injector progress: t=4.975 received=200 published=50 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=150 pending=0[0m
+[0m[INFO] [1795080106.931704348, 1649856237.614479955]: camera_fault_injector progress: t=9.974 received=400 published=100 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=300 pending=0[0m
+[0m[INFO] [1795080111.930270558, 1649856242.612443633]: camera_fault_injector progress: t=14.974 received=600 published=150 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=450 pending=0[0m
+[0m[INFO] [1795080116.930125522, 1649856247.610402521]: camera_fault_injector progress: t=19.974 received=800 published=200 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=600 pending=0[0m
+[0m[INFO] [1795080121.933669025, 1649856252.614624243]: camera_fault_injector progress: t=24.973 received=1000 published=250 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=750 pending=0[0m
+[0m[INFO] [1795080126.927500835, 1649856257.614562946]: camera_fault_injector progress: t=29.973 received=1200 published=300 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=900 pending=0[0m
+[0m[INFO] [1795080131.935376887, 1649856262.609252268]: camera_fault_injector progress: t=34.973 received=1400 published=350 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1050 pending=0[0m
+[0m[INFO] [1795080136.929049113, 1649856267.606792211]: camera_fault_injector progress: t=39.973 received=1600 published=400 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1200 pending=0[0m
+[0m[INFO] [1795080141.929524172, 1649856272.609426962]: camera_fault_injector progress: t=44.972 received=1800 published=450 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1350 pending=0[0m
+[0m[INFO] [1795080146.930417005, 1649856277.607698519]: camera_fault_injector progress: t=49.972 received=2000 published=500 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1500 pending=0[0m
+[0m[INFO] [1795080151.930123217, 1649856282.606252549]: camera_fault_injector progress: t=54.972 received=2200 published=550 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1650 pending=0[0m
+[0m[INFO] [1795080156.930524267, 1649856287.609941854]: camera_fault_injector progress: t=59.971 received=2400 published=600 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1800 pending=0[0m
+[0m[INFO] [1795080161.974339344, 1649856292.310214950]: camera_fault_injector progress: t=64.971 received=2600 published=650 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=1950 pending=0[0m
+[0m[INFO] [1795080166.930001769, 1649856297.618905234]: camera_fault_injector progress: t=69.971 received=2800 published=700 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=2100 pending=0[0m
+[0m[INFO] [1795080171.927818970, 1649856302.611528274]: camera_fault_injector progress: t=74.970 received=3000 published=750 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=2250 pending=0[0m
+[0m[INFO] [1795080176.927908204, 1649856307.609479434]: camera_fault_injector progress: t=79.970 received=3200 published=800 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=2400 pending=0[0m
+[0m[INFO] [1795080181.925921415, 1649856312.601863089]: camera_fault_injector progress: t=84.970 received=3400 published=850 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=2550 pending=0[0m
+[0m[INFO] [1795080186.925458443, 1649856317.610286296]: camera_faul[31m[ERROR] [1795080187.772755320, 1649856318.451442656]: VINS big IMU acc bias estimation 14.700780, restart estimator![0m
+[31m[ERROR] [1795080187.772836760, 1649856318.451442656]: VINS failure detection![0m
+[31m[ERROR] [1795080187.772994040, 1649856318.461760142]: VINS system reboot![0m
+[31m[ERROR] [1795080189.770354948, 1649856320.451900865]: VINS big IMU acc bias estimation 2.617764, restart estimator![0m
+[31m[ERROR] [1795080189.770415355, 1649856320.451900865]: VINS failure detection![0m
+[31m[ERROR] [1795080189.770701586, 1649856320.451900865]: VINS system reboot![0m
+[33m[WARN] [1795080190.592687473, 1649856321.277295762]: Large bias, reset IMU-preintegration![0m
+[33m[WARN] [1795080193.408378769, 1649856324.090192876]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080194.255351613, 1649856324.943047021]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080194.255428922, 1649856324.943047021]: VINS failure detection![0m
+[31m[ERROR] [1795080194.255627141, 1649856324.943047021]: VINS system reboot![0m
+[31m[ERROR] [1795080195.858135593, 1649856326.545159088]: VINS big IMU acc bias estimation 2.782403, restart estimator![0m
+[31m[ERROR] [1795080195.858201844, 1649856326.545159088]: VINS failure detection![0m
+[31m[ERROR] [1795080195.858597368, 1649856326.545159088]: VINS system reboot![0m
+[31m[ERROR] [1795080197.155362436, 1649856327.842196273]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080197.155425720, 1649856327.842196273]: VINS failure detection![0m
+[31m[ERROR] [1795080197.155897871, 1649856327.842196273]: VINS system reboot![0m
+[31m[ERROR] [1795080198.388493355, 1649856329.074182387]: VINS big IMU acc bias estimation 2.710214, restart estimator![0m
+[31m[ERROR] [1795080198.388594853, 1649856329.074182387]: VINS failure detection![0m
+[31m[ERROR] [1795080198.388960117, 1649856329.074182387]: VINS system reboot![0m
+[31m[ERROR] [1795080199.573620074, 1649856330.253518304]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080199.573706361, 1649856330.253518304]: VINS failure detection![0m
+[31m[ERROR] [1795080199.574241599, 1649856330.253518304]: VINS system reboot![0m
+[31m[ERROR] [1795080200.851725441, 1649856331.525837264]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080200.851844488, 1649856331.525837264]: VINS failure detection![0m
+[31m[ERROR] [1795080200.852129301, 1649856331.525837264]: VINS system reboot![0m
+[31m[ERROR] [1795080202.055522954, 1649856332.743484476]: VINS big IMU acc bias estimation 4.239992, restart estimator![0m
+[31m[ERROR] [1795080202.055587756, 1649856332.743484476]: VINS failure detection![0m
+[31m[ERROR] [1795080202.055836598, 1649856332.743484476]: VINS system reboot![0m
+[33m[WARN] [1795080202.589382598, 1649856333.268822104]: Large bias, reset IMU-preintegration![0m
+[31m[ERROR] [1795080204.371862212, 1649856335.053253630]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080204.371940481, 1649856335.053253630]: VINS failure detection![0m
+[31m[ERROR] [1795080204.372245255, 1649856335.053253630]: VINS system reboot![0m
+[31m[ERROR] [1795080205.947928795, 1649856336.630991628]: VINS big z translation, restart estimator![0m
+[31m[ERROR] [1795080205.948031456, 1649856336.630991628]: VINS failure detection![0m
+[31m[ERROR] [1795080205.948517260, 1649856336.630991628]: VINS system reboot![0m
+[0m[INFO] [1795080094.213357637]: [1;32m----> Lidar Feature Extraction Started.[0m[0m
+[0m[INFO] [1795080094.182781172]: [1;32m----> Lidar IMU Preintegration Started.[0m[0m
+[0m[INFO] [1795080094.250820023]: [1;32m----> Lidar Map Optimization Started.[0m[0m
+[0m[INFO] [1795080094.145187045]: safety_supervisor: image=/r3live_hilti_adapter/image_out lidar=/lvisam/points odom=/lvi_sam/lidar/mapping/odometry hold=on[0m
+[0m[INFO] [1795080094.191293957]: [1;32m----> Lidar Cloud Deskew Started.[0m[0m
+terminate called without an active exception
+[0m[INFO] [1795080094.218533267]: [1;32m----> Visual Feature Tracker Started.[0m[0m
+t_injector progress: t=89.969 received=3600 published=900 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=2700 pending=0[0m
+[0m[INFO] [1795080191.926177582, 1649856322.601410205]: camera_fault_injector progress: t=94.969 received=3800 published=950 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=2850 pending=0[0m
+[0m[INFO] [1795080196.925669926, 1649856327.609822128]: camera_fault_injector progress: t=99.969 received=4000 published=1000 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=3000 pending=0[0m
+[0m[INFO] [1795080201.925736391, 1649856332.609212894]: camera_fault_injector progress: t=104.968 received=4200 published=1050 modified_stamp=0 modified_content=0 delayed=0 dropped=0 select_skipped=3150 pending=0[0m
+[INFO] [1795080099.486597, 1649856230.166143]: imu_converter: 1000 msgs (1000 filled, 0 passed)
+[INFO] [1795080101.989762, 1649856232.676942]: imu_converter: 2000 msgs (2000 filled, 0 passed)
+[INFO] [1795080104.494829, 1649856235.175589]: imu_converter: 3000 msgs (3000 filled, 0 passed)
+[INFO] [1795080107.000153, 1649856237.682421]: imu_converter: 4000 msgs (4000 filled, 0 passed)
+[INFO] [1795080109.505198, 1649856240.191756]: imu_converter: 5000 msgs (5000 filled, 0 passed)
+[INFO] [1795080112.010103, 1649856242.695633]: imu_converter: 6000 msgs (6000 filled, 0 passed)
+[INFO] [1795080114.517350, 1649856245.206214]: imu_converter: 7000 msgs (7000 filled, 0 passed)
+[INFO] [1795080117.019754, 1649856247.699045]: imu_converter: 8000 msgs (8000 filled, 0 passed)
+[INFO] [1795080119.525387, 1649856250.208392]: imu_converter: 9000 msgs (9000 filled, 0 passed)
+[INFO] [1795080122.032055, 1649856252.715333]: imu_converter: 10000 msgs (10000 filled, 0 passed)
+[INFO] [1795080124.551716, 1649856255.214813]: imu_converter: 11000 msgs (11000 filled, 0 passed)
+[INFO] [1795080127.061048, 1649856257.748599]: imu_converter: 12000 msgs (12000 filled, 0 passed)
+[INFO] [1795080129.563001, 1649856260.221214]: imu_converter: 13000 msgs (13000 filled, 0 passed)
+[INFO] [1795080132.070069, 1649856262.715244]: imu_converter: 14000 msgs (14000 filled, 0 passed)
+[INFO] [1795080134.559059, 1649856265.235770]: imu_converter: 15000 msgs (15000 filled, 0 passed)
+[INFO] [1795080137.067190, 1649856267.755152]: imu_converter: 16000 msgs (16000 filled, 0 passed)
+[INFO] [1795080139.593330, 1649856270.205987]: imu_converter: 17000 msgs (17000 filled, 0 passed)
+[INFO] [1795080142.070590, 1649856272.755060]: imu_converter: 18000 msgs (18000 filled, 0 passed)
+[INFO] [1795080144.587056, 1649856275.257924]: imu_converter: 19000 msgs (19000 filled, 0 passed)
+[INFO] [1795080147.102226, 1649856277.781732]: imu_converter: 20000 msgs (20000 filled, 0 passed)
+[INFO] [1795080149.599001, 1649856280.262001]: imu_converter: 21000 msgs (21000 filled, 0 passed)
+[INFO] [1795080152.129715, 1649856282.816938]: imu_converter: 22000 msgs (22000 filled, 0 passed)
+[INFO] [1795080154.595725, 1649856285.281851]: imu_converter: 23000 msgs (23000 filled, 0 passed)
+[INFO] [1795080157.102356, 1649856287.788211]: imu_converter: 24000 msgs (24000 filled, 0 passed)
+[INFO] [1795080159.610114, 1649856290.281475]: imu_converter: 25000 msgs (25000 filled, 0 passed)
+[INFO] [1795080162.111091, 1649856292.792038]: imu_converter: 26000 msgs (26000 filled, 0 passed)
+[INFO] [1795080164.616111, 1649856295.297521]: imu_converter: 27000 msgs (27000 filled, 0 passed)
+[INFO] [1795080167.123137, 1649856297.808734]: imu_converter: 28000 msgs (28000 filled, 0 passed)
+[INFO] [1795080169.634093, 1649856300.308533]: imu_converter: 29000 msgs (29000 filled, 0 passed)
+[INFO] [1795080172.137090, 1649856302.816269]: imu_converter: 30000 msgs (30000 filled, 0 passed)
+[INFO] [1795080174.639309, 1649856305.327669]: imu_converter: 31000 msgs (31000 filled, 0 passed)
+[INFO] [1795080177.141910, 1649856307.825394]: imu_converter: 32000 msgs (32000 filled, 0 passed)
+[INFO] [1795080179.645998, 1649856310.328016]: imu_converter: 33000 msgs (33000 filled, 0 passed)
+[INFO] [1795080182.153253, 1649856312.835911]: imu_converter: 34000 msgs (34000 filled, 0 passed)
+[INFO] [1795080184.657598, 1649856315.345999]: imu_converter: 35000 msgs (35000 filled, 0 passed)
+[INFO] [1795080187.161906, 1649856317.850702]: imu_converter: 36000 msgs (36000 filled, 0 passed)
+[INFO] [1795080189.668741, 1649856320.357444]: imu_converter: 37000 msgs (37000 filled, 0 passed)
+[INFO] [1795080192.171093, 1649856322.852151]: imu_converter: 38000 msgs (38000 filled, 0 passed)
+[INFO] [1795080194.677099, 1649856325.361000]: imu_converter: 39000 msgs (39000 filled, 0 passed)
+[INFO] [1795080197.182341, 1649856327.868181]: imu_converter: 40000 msgs (40000 filled, 0 passed)
+[INFO] [1795080199.686771, 1649856330.369990]: imu_converter: 41000 msgs (41000 filled, 0 passed)
+[INFO] [1795080202.191711, 1649856332.877958]: imu_converter: 42000 msgs (42000 filled, 0 passed)
+[INFO] [1795080204.699517, 1649856335.377099]: imu_converter: 43000 msgs (43000 filled, 0 passed)
+[INFO] [1795080094.314795, 0.000000]: converter: /hesai/pandar -> /lvisam/points
+[INFO] [1795080106.849133, 1649856237.529223]: converted scans=100 points=61018 rel=[0.0000,0.1000]
+[INFO] [1795080116.859703, 1649856247.545651]: converted scans=200 points=57378 rel=[0.0000,0.0993]
+[INFO] [1795080126.852778, 1649856257.531848]: converted scans=300 points=60167 rel=[0.0000,0.1000]
+[INFO] [1795080136.864894, 1649856267.547010]: converted scans=400 points=56655 rel=[0.0000,0.0998]
+[INFO] [1795080146.868432, 1649856277.554688]: converted scans=500 points=55566 rel=[0.0000,0.1005]
+[INFO] [1795080156.853496, 1649856287.529944]: converted scans=600 points=55551 rel=[0.0000,0.1000]
+[INFO] [1795080166.845070, 1649856297.524693]: converted scans=700 points=56357 rel=[0.0000,0.1005]
+[INFO] [1795080176.847453, 1649856307.527510]: converted scans=800 points=62098 rel=[0.0000,0.0996]
+[INFO] [1795080186.849642, 1649856317.528989]: converted scans=900 points=55521 rel=[0.0000,0.1005]
+[INFO] [1795080196.844987, 1649856327.525924]: converted scans=1000 points=58920 rel=[0.0000,0.1001]
+... logging to /home/nano/.ros/log/9c9d18f4-e3fa-11f1-a3cc-77008e9f7a34/roslaunch-ubuntu-403513.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/nano/catkin_lvisam_ws/src/hilti_lvisam_adapter/launch/lvisam_hilti_stack.launch
+[1mstarted roslaunch server http://ubuntu:33275/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /PROJECT_NAME: lvi_sam
+ * /camera_fault_injector/burst_length_frames: 0
+ * /camera_fault_injector/delay_clock: ros
+ * /camera_fault_injector/drift_hold_after_end: True
+ * /camera_fault_injector/drop_probability: 0.0
+ * /camera_fault_injector/end_time_s: -1.0
+ * /camera_fault_injector/fault_log_enable: True
+ * /camera_fault_injector/fault_log_flush_every: 50
+ * /camera_fault_injector/fault_log_path: /home/nano/experi...
+ * /camera_fault_injector/input_topic: /alphasense/cam0/...
+ * /camera_fault_injector/log_every_n: 200
+ * /camera_fault_injector/magnitude_ms: 0.0
+ * /camera_fault_injector/mode: passthrough
+ * /camera_fault_injector/output_topic: /fault_injector/i...
+ * /camera_fault_injector/preserve_order: True
+ * /camera_fault_injector/publisher_queue_size: 200
+ * /camera_fault_injector/seed: 20260819
+ * /camera_fault_injector/select_phase: 0
+ * /camera_fault_injector/select_stride: 4
+ * /camera_fault_injector/start_time_s: 0.0
+ * /camera_fault_injector/subscriber_queue_size: 200
+ * /camera_fault_injector/timer_period_ms: 1.0
+ * /hilti_lvisam_cloud/frame_id: hilti_lidar_imu_axes
+ * /hilti_lvisam_cloud/input_topic: /hesai/pandar
+ * /hilti_lvisam_cloud/max_rel_s: 0.2
+ * /hilti_lvisam_cloud/n_scan: 32
+ * /hilti_lvisam_cloud/output_topic: /lvisam/points
+ * /hilti_lvisam_imu/input_topic: /alphasense/imu
+ * /hilti_lvisam_imu/output_topic: /lvisam/imu
+ * /lvi_sam/Horizon_SCAN: 1800
+ * /lvi_sam/N_SCAN: 32
+ * /lvi_sam/downsampleRate: 1
+ * /lvi_sam/edgeFeatureMinValidNum: 10
+ * /lvi_sam/edgeThreshold: 1.0
+ * /lvi_sam/extrinsicRPY: [1, 0, 0, 0, 1, 0...
+ * /lvi_sam/extrinsicRot: [1, 0, 0, 0, 1, 0...
+ * /lvi_sam/extrinsicTrans: [-0.001, -0.00855...
+ * /lvi_sam/globalMapVisualizationLeafSize: 1.0
+ * /lvi_sam/globalMapVisualizationPoseDensity: 10.0
+ * /lvi_sam/globalMapVisualizationSearchRadius: 1000.0
+ * /lvi_sam/historyKeyframeFitnessScore: 0.3
+ * /lvi_sam/historyKeyframeSearchNum: 25
+ * /lvi_sam/historyKeyframeSearchRadius: 20.0
+ * /lvi_sam/historyKeyframeSearchTimeDiff: 30.0
+ * /lvi_sam/imuAccBiasN: 6.435665935353257...
+ * /lvi_sam/imuAccNoise: 0.003993957088823881
+ * /lvi_sam/imuGravity: 9.80511
+ * /lvi_sam/imuGyrBiasN: 3.564031869636761...
+ * /lvi_sam/imuGyrNoise: 0.001563634394969...
+ * /lvi_sam/imuTopic: /lvisam/imu
+ * /lvi_sam/loopClosureEnableFlag: False
+ * /lvi_sam/mappingCornerLeafSize: 0.2
+ * /lvi_sam/mappingProcessInterval: 0.15
+ * /lvi_sam/mappingSurfLeafSize: 0.4
+ * /lvi_sam/numberOfCores: 4
+ * /lvi_sam/odometrySurfLeafSize: 0.4
+ * /lvi_sam/pointCloudTopic: /lvisam/points
+ * /lvi_sam/rotation_tollerance: 1000
+ * /lvi_sam/savePCD: False
+ * /lvi_sam/savePCDDirectory: /Downloads/LOAM/
+ * /lvi_sam/surfFeatureMinValidNum: 100
+ * /lvi_sam/surfThreshold: 0.1
+ * /lvi_sam/surroundingKeyframeDensity: 2.0
+ * /lvi_sam/surroundingKeyframeSearchRadius: 50.0
+ * /lvi_sam/surroundingKeyframeSize: 25
+ * /lvi_sam/surroundingkeyframeAddingAngleThreshold: 0.2
+ * /lvi_sam/surroundingkeyframeAddingDistThreshold: 1.0
+ * /lvi_sam/timeField: time
+ * /lvi_sam/useImuHeadingInitialization: False
+ * /lvi_sam/z_tollerance: 1000
+ * /r3live_hilti_adapter/audit_path: /home/nano/experi...
+ * /rosdistro: noetic
+ * /rosversion: 1.17.4
+ * /safety_supervisor/hold_output: True
+ * /safety_supervisor/image_topic: /r3live_hilti_ada...
+ * /safety_supervisor/lidar_p05: 55008
+ * /safety_supervisor/lidar_p50: 58931
+ * /safety_supervisor/lidar_topic: /lvisam/points
+ * /safety_supervisor/odom_out_topic: /safety/odom
+ * /safety_supervisor/odom_topic: /lvi_sam/lidar/ma...
+ * /safety_supervisor/state_topic: /safety/state
+ * /use_sim_time: True
+ * /vins_config_file: /home/nano/catkin...
+
+NODES
+  /
+    camera_fault_injector (camera_fault_injector/camera_fault_injector_node)
+    hilti_lvisam_cloud (hilti_lvisam_adapter/point_cloud_converter.py)
+    hilti_lvisam_imu (hilti_lvisam_adapter/imu_converter.py)
+    lvi_sam_featureExtraction (lvi_sam/lvi_sam_featureExtraction)
+    lvi_sam_imageProjection (lvi_sam/lvi_sam_imageProjection)
+    lvi_sam_imuPreintegration (lvi_sam/lvi_sam_imuPreintegration)
+    lvi_sam_mapOptmization (lvi_sam/lvi_sam_mapOptmization)
+    lvi_sam_visual_feature (lvi_sam/lvi_sam_visual_feature)
+    lvi_sam_visual_odometry (lvi_sam/lvi_sam_visual_odometry)
+    r3live_hilti_adapter (hilti_r3live_adapter/hilti_adapter_node.py)
+    safety_supervisor (safety_supervisor/supervisor_node)
+
+auto-starting new master
+[1mprocess[master]: started with pid [403545][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/nano/catkin_lvisam_ws/src/hilti_lvisam_adapter/launch/lvisam_hilti_stack.launch http://localhost:11311
+[1msetting /run_id to 9c9d18f4-e3fa-11f1-a3cc-77008e9f7a34[0m
+[1mprocess[rosout-1]: started with pid [403555][0m
+started core service [/rosout]
+[1mprocess[camera_fault_injector-2]: started with pid [403562][0m
+[1mprocess[r3live_hilti_adapter-3]: started with pid [403563][0m
+[1mprocess[hilti_lvisam_cloud-4]: started with pid [403565][0m
+[1mprocess[hilti_lvisam_imu-5]: started with pid [403569][0m
+[1mprocess[lvi_sam_imuPreintegration-6]: started with pid [403571][0m
+[1mprocess[lvi_sam_imageProjection-7]: started with pid [403572][0m
+[1mprocess[lvi_sam_featureExtraction-8]: started with pid [403573][0m
+[1mprocess[lvi_sam_mapOptmization-9]: started with pid [403575][0m
+[1mprocess[lvi_sam_visual_feature-10]: started with pid [403583][0m
+[1mprocess[lvi_sam_visual_odometry-11]: started with pid [403586][0m
+[1mprocess[safety_supervisor-12]: started with pid [403587][0m
+[safety_supervisor-12] killing on exit
+[lvi_sam_visual_feature-10] killing on exit
+[lvi_sam_visual_odometry-11] killing on exit
+[lvi_sam_featureExtraction-8] killing on exit
+[lvi_sam_mapOptmization-9] killing on exit
+[lvi_sam_imageProjection-7] killing on exit
+[hilti_lvisam_imu-5] killing on exit
+[lvi_sam_imuPreintegration-6] killing on exit
+[hilti_lvisam_cloud-4] killing on exit
+[r3live_hilti_adapter-3] killing on exit
+[camera_fault_injector-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
