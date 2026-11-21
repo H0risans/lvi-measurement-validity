@@ -5,7 +5,7 @@
 - Refresh W4c after one repeat per arm (n=2).  No estimator code or W16
   thresholds changed; W4c goes from 6 to 12 P0 and the ledger from 285/300
   to 291/300.
-- Update `W4c_退化段记录`, `ADAPTERS.md`, per-system manifests and
+- Update `docs/EXPERIMENTS.md`, `ADAPTERS.md`, per-system manifests and
   `MANIFEST.yaml` with the repeat rows.  Hold freeze reproduces in all four
   valid hold rows (`hold_disp=0`), but UNKNOWN duration/envelope vary widely;
   no stability or effect-size claim is made.

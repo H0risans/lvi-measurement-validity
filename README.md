@@ -24,7 +24,7 @@ The supervisor only observes ROS topics. It never writes back into the estimator
 | `data/degradation/` | W4c degradation summaries and dropout-chain evidence |
 | `data/paper/` | Paper-facing derived tables (content replay, hold, degradation) |
 | `figs/` | Final English SVG/PDF figures and their generator |
-| `docs/` | W0 baseline, W4a/W4b/W4c records, full engineering route |
+| `docs/` | English experiment log (`docs/EXPERIMENTS.md`) and W0 baseline |
 | `evidence/` | W1–W4 evidence summaries and small test artifacts |
 | `MANIFEST.yaml` | Release/baseline/file hashes and P0 accounting |
 | `REPRODUCE.md` | Reproduction commands and expected numbers |
@@ -56,7 +56,7 @@ The full experiment matrix requires the HILTI22 bags and the three estimator bui
 - `hold_runs.csv` — six online output-hold runs: first UNKNOWN, published envelope, frozen fraction, internal/published final positions.
 - `degradation_runs.csv` — eleven W4c/adapter runs: state counts, first DEGRADED/UNKNOWN/OK-after, hold frames, hold displacement, raw/safety envelopes.
 
-`data/content_replay/<tag>/` holds the per-run `run.json`, `fault_events.csv`, `safety_risk.csv` and estimator trajectory. `data/degradation/<tag>/` holds the degradation JSON and the recorded topic bag only where retained; multi-GB raw bags are not included.
+`data/content_replay/<tag>/` holds the per-run `run.json`, `fault_events.csv`, `safety_risk.csv` and estimator trajectory. `data/degradation/<tag>/` holds the degradation JSON and logs; multi-GB raw topic bags are not included.
 
 The paper's data statement should point to this repository at the tag below. If a DOI is required, archive the tagged release with Zenodo and replace the repository URL in the manuscript with the DOI.
 

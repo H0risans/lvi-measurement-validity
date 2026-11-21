@@ -1,26 +1,27 @@
-# W4a 证据（R3LIVE Level-A 接入）
+# W4a evidence (R3LIVE Level-A integration)
 
-## 文件
+## Files
 
-| 文件 | 内容 |
+| File | Content |
 |---|---|
-| `launch_check.txt` | 0 P0：launch 静态检查与 VM `roslaunch --files` 解析 |
-| `calibration_exp18.csv` | 0 P0：exp18 的 1094 帧 `cloud_out` 点数分位（p05=55,008 / p50=58,931） |
-| `image_chain_summary.txt` | 0 P0：injector→adapter 10 Hz 链路，images=1094、clouds=1094、\|dt\| p50=6.1 ms |
-| `fix1/run.json` | 第三次有效 clean 运行的汇总（done/valid/exit 0） |
-| `fix1/adapter_audit.jsonl` | adapter 逐帧 audit；修复后 image=1094、cloud=1094 |
-| `fix1/w4a_topics.bag` | `/safety/state`、`/safety/odom`、`/aft_mapped_to_init` 记录 |
-| `fix1/vio_summary.txt` | R3LIVE VIO 计数：1094 callback、1028 state update、6 skipped |
+| `launch_check.txt` | 0 P0: launch static check and VM `roslaunch --files` resolution |
+| `calibration_exp18.csv` | 0 P0: 1094-frame `cloud_out` point-count quantiles for exp18 (p05=55,008 / p50=58,931) |
+| `image_chain_summary.txt` | 0 P0: injector→adapter 10 Hz chain, images=1094, clouds=1094, \|dt\| p50=6.1 ms |
+| `fix1/run.json` | Summary of the third (valid) clean run: done/valid/exit 0 |
+| `fix1/adapter_audit.jsonl` | Per-frame adapter audit; after the fix image=1094, cloud=1094 |
+| `fix1/vio_summary.txt` | R3LIVE VIO counts: 1094 callbacks, 1028 state updates, 6 skipped |
 
-## clean exp18 结果
+The recorded topic bag from the clean run is not committed; the multi-megabyte bag remains in the author's archive.
 
-- `/aft_mapped_to_init`、`/safety/odom`、`/safety/state` 各 **1033** 条。
-- `state_counts = {"OK": 1033}`，无 UNKNOWN/DEGRADED，`hold_frames = 0`。
-- 配对 993 帧中，`/safety/odom` 与原始 odom 最大位置差 **0.0 m**。
-- 最终位置 `(-16.602989, 7.970427, -33.120181)`。
+## clean exp18 result
 
-## 边界
+- `/aft_mapped_to_init`, `/safety/odom` and `/safety/state` each **1033** messages.
+- `state_counts = {"OK": 1033}`, no UNKNOWN/DEGRADED, `hold_frames = 0`.
+- Across 993 paired frames, the maximum position difference between `/safety/odom` and raw odometry is **0.0 m**.
+- Final position: `(-16.602989, 7.970427, -33.120181)`.
 
-- clean 行没有触发降级，因此不能据此声称“UNKNOWN 弃权已在线验证”。
-- 3 P0 中含 2 次技术无效（缺 supervisor 节点、40 Hz 原图绕过 10 Hz 选帧）；第 3 次有效。
-- R3LIVE 源码未改；只改 launch/remap 与 10 Hz 选帧链。
+## Boundary
+
+- A clean row does not trigger degradation; it cannot support a claim that "UNKNOWN hold was validated online."
+- The 3 P0 include two technical-invalid runs (missing supervisor node; 40 Hz raw images bypassing the 10 Hz selection). The third run is valid.
+- R3LIVE source is unchanged; only launch/remap and the 10 Hz image chain were added.

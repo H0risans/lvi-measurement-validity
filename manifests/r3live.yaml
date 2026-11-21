@@ -1,4 +1,4 @@
-# R3LIVE 适配清单（W4c）
+# R3LIVE adapter manifest (W4c)
 system: r3live
 algorithm_type: "ESIKF + RGB point cloud"
 integration_level: "Level A (external supervisor, read-only topics)"
@@ -22,10 +22,10 @@ validated:
   - "event/acceptance layer: 36/36 data rows identical to FAST-LIVO2 P2 arm"
   - "dropout [30,33): hold1 1121 state/safety, OK 987 / DEG 10 / UNK 124, hold_frames 124, hold_disp 0 m; hold0 same states, hold_frames 0, safety==raw by header"
 evidence:
-  - "工程化/evidence/w4a/fix1/"
-  - "工程化/evidence/w4a/calibration_exp18.csv"
-  - "工程化/evidence/w4c/w4c_r3_drop_hold1_r1f/"
-  - "工程化/evidence/w4c/w4c_r3_drop_hold0_r1/"
+  - "evidence/w4a/fix1/"
+  - "evidence/w4a/calibration_exp18.csv"
+  - "evidence/w4c/w4c_r3_drop_hold1_r1f/"
+  - "evidence/w4c/w4c_r3_drop_hold0_r1/"
 gaps:
   - "n=2 per arm; repeat variability large (UNKNOWN 124 vs 56 frames)"
   - "estimator stops odom when images stop; supervisor 10 Hz timer required and verified in W2, not separately unit-tested"

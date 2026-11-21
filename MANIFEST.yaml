@@ -25,12 +25,13 @@ baseline:
 configs:
   hilti22_base:
     path: "config/HILTI22.yaml"
-    sha256: "daeb30e2ebea970c650cc94281ed9f1903db3a2662f77faff595c704022c7f3d"
+    sha256: "2c7ef2c0ebfdeacf205b81cce2ec591c891db68ebb1b90457ac650c32d1930f8"
+    note: "reference snapshot shipped with the release; the run-time file used by the recorded experiments had sha256 daeb30e2... (author archive)"
   threshold_v2:
-    path: "第4-5章_判别与恢复/safety_thresholds_v2.txt"
+    path: "config/safety_thresholds_v2.txt"
     sha256: "dc7b1d0a312cec1077596577802029d930f64a87871d33930b7a429f0ded3cec"
   w16_source_of_truth:
-    path: "第4-5章_判别与恢复/m12_stage/safety_reliability.h"
+    path: "safety_core/include/safety/reliability.h"
     upstream_sha256: "8fb1efc07a6ff785b3c618bf9528f017cd36bd32efdf3f58f7a82e08f218f93f"
     copied_to: "safety_core/include/safety/reliability.h"
     copied_sha256: "4415906ed1c6f6cea010b32809553bfadd7754e2f3a8fa8ca39efc58a0b0d9b2"
@@ -46,15 +47,15 @@ datasets:
     bytes: 20302484455
     sha256: "3489d7983699773c920d4680f192462d177b9957814c66c79a8d1237bf1ae84d"
   m12e1_safety_csv:
-    path: "第4-5章_判别与恢复/m12_stage/m12e1_safety.csv"
+    path: "data/w3/m12e1_safety.csv"
     sha256: "1c9a9b6a045af8d5652ebc1fac50c06f275174bf7c48f8d7fd1096c33b2de03d"
     note: "recorded with the old p25 resume rule; W3 uses p50=67"
   m12c1_safety_csv:
-    path: "第4-5章_判别与恢复/m12_stage/m12c1/m12c1_safety.csv"
+    path: "data/w3/m12c1/m12c1_safety.csv"
     sha256: "4f082a886fce2ba1fc1812366ef0f9803be91c57e20ae01d4c68432413df7699"
     note: "recorded with v2 p50 rule"
   m12r1_safety_csv:
-    path: "第4-5章_判别与恢复/m12_stage/m12r1_safety.csv"
+    path: "data/w3/m12r1_safety.csv"
     sha256: "0f21d3bcfc64d2505c73f7896fe3db6f775975b0afec89420cf451f272de8b43"
     note: "clean exp14 reference; no rel_state column"
 
@@ -170,7 +171,7 @@ adapters:
       run_w4b_bag.sh: "5e6aaa11b73cab6e0c6a4a9a939b1f833a5b7ab7b39b52f906f8f4f1c4a25cd2"
       summarize_w4b.py: "5cab706201e3fca46f721cd9186176c7fa84006dafb67af0a3d5cc7fce066f44"
     check_tool: "adapters/lvisam/check_w4b_launch.py"
-    check_tool_sha256: "aa362a4a22f61cce7899f5e70274db2927744653dec167192e43f4083b8689f6"
+    check_tool_sha256: "208db6cc5cf69779948f12af9ad8842a01ba8a1469471207bfa77d879c52620c"
     topics:
       image: "/r3live_hilti_adapter/image_out"
       lidar: "/lvisam/points"
@@ -197,16 +198,15 @@ w4c:
     r3live: "manifests/r3live.yaml"
     lvisam: "manifests/lvisam.yaml"
   files:
-    ADAPTERS.md: "00a31da4ed11ab6acc2266334d7f37cf78c2142c7eb273bb4b534f9dd59ac344"
-    manifests/fast_livo2.yaml: "0f7e0c8821125a4f0820ff5d7715c1a8b19552a2dd469cfd6300370362650527"
-    manifests/r3live.yaml: "48d24c16ec5e00196f21ad0f0e1d793265a73a8a218e07840439e041afae7b52"
-    manifests/lvisam.yaml: "4f130334ea8cf72b4f1cb13e96797d290073e5a7a5773b2257e69b327ff786f4"
-    W4c_退化段记录_20261119.md: "692fc9a56615e23b9ce013bee06de09bda33a1ce626ad9c0a88a691a7b9651ce"
+    ADAPTERS.md: "f7a0a21ab422c93aedc27b57aa51d3e66e851eb90525e4434bc6fdea709e0619"
+    manifests/fast_livo2.yaml: "993930f98e798cc7e6a46e42a94c2e60e900d8e0b13d7e0e4bd60166e1b69d50"
+    manifests/r3live.yaml: "a5f35f63045a0b164584d83659652d4108a3f03b626dec6777dd6c1b69514109"
+    manifests/lvisam.yaml: "a8d279702db8b5d34143dc550afc601b91eb8aee4b93cd6d74b5870bcb4ce7dd"
     adapters/common/summarize_degradation.py: "c73ee329f868b60ff6272ac88229d77ad6887c9f76e3400a439686c292dd45ff"
     adapters/common/inject_drop_30_33.yaml: "7183dfbab72ef6fef3259e83358ab6586213f08770bbd83a10f4acc7ca7f16ae"
     adapters/common/inject_drop_30_35.yaml: "8b1a3b94c162495ef99684df276cbe73e3d95b35c289b036daed783cd8ef2df0"
   status: "complete; three systems mapped; R3LIVE and LVI-SAM degradation/hold behavior verified in 12 P0 (6 initial + 6 repeats; 2 repeat rows technical-invalid); n=2 per arm; hold freeze reproduced, but UNKNOWN duration/envelope vary widely"
-  degradation_record: "W4c_退化段记录_20261119.md"
+  degradation_record: "docs/EXPERIMENTS.md"
   degradation:
     r3live:
       dropout: "3 s [30,33)"

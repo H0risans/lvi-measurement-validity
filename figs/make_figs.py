@@ -12,7 +12,7 @@ import os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))
-PULL = os.path.join(ROOT, "第4-5章_判别与恢复", "f_stage", "pull")
+PULL = os.path.join(ROOT, "data", "content_replay")
 
 FONT = "Arial, Helvetica, sans-serif"
 INK = "#1f2933"

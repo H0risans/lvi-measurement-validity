@@ -1,7 +1,6 @@
 # Reproduce this snapshot
 
-This file is the release-level quick path.  The full experiment commands and
-per-run expected values are in `docs/REPRODUCE_full.md`.
+This file is the release-level quick path.  Experiment commands, pre-registration rules and expected counts are in `docs/EXPERIMENTS.md` and the adapter READMEs.
 
 ## A. Core build and offline check (no ROS, no estimator)
 
@@ -48,12 +47,9 @@ first_UNKNOWN=26` and `W2 PASS`.
 
 W4a/W4b/W4c require the HILTI22 bags, R3LIVE/LVI-SAM source trees and a GPU
 host.  They are **not** part of this release build.  The exact commands,
-pre-registration rules and expected counts are in
-`docs/REPRODUCE_full.md`; the concise results are in:
+pre-registration rules and expected counts are in `docs/EXPERIMENTS.md`; the concise results are in:
 
-- `docs/W4a_接入记录_20261119.md`
-- `docs/W4b_接入记录_20261119.md`
-- `docs/W4c_退化段记录_20261119.md`
+- `docs/EXPERIMENTS.md`
 - `evidence/w4a/`, `evidence/w4b/`, `evidence/w4c/`
 
 The W4a/W4b/W4c rows consumed 17 P0 in total (W4c 12 after repeats); this release itself consumes

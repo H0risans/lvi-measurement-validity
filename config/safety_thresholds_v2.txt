@@ -1,0 +1,14 @@
+tau_d2=700.0
+tau_photo_z=32.0
+tau_coverage_min=0.15
+tau_improve_min=0.0
+tau_dpos=0.05
+tau_dvel=0.3
+tau_drot_deg=3.0
+tau_dbias=0.01
+tau_alarm=1.0
+tau_recover=0.5
+n_fail=3
+n_recover=10
+n_confirm=10
+recovery_w_min=0.25

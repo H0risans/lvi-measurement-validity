@@ -2,7 +2,7 @@
 """Static W4b check: adapter package, launch graph, configs, and fail-closed rules.
 
 No ROS and no estimator. Run from the repository root:
-    python3 工程化/adapters/lvisam/check_w4b_launch.py
+    python3 adapters/lvisam/check_w4b_launch.py
 """
 import os
 import re
@@ -10,7 +10,7 @@ import sys
 import xml.etree.ElementTree as ET
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(os.path.dirname(HERE))  # 工程化/adapters/lvisam -> 工程化
+ROOT = os.path.dirname(os.path.dirname(HERE))  # adapters/lvisam -> repository root
 PKG = os.path.join(HERE, "ros", "hilti_lvisam_adapter")
 FAIL = []
 

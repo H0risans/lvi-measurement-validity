@@ -10,7 +10,7 @@ export PYTHONIOENCODING="${PYTHONIOENCODING:-utf-8}"
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT="$(cd "$HERE/.." && pwd)"
-DATA="${1:-$ROOT/../第4-5章_判别与恢复/m12_stage}"
+DATA="${1:-$ROOT/data/w3}"
 OUT="${2:-$ROOT/evidence/w3}"
 PY="${PYTHON:-python3}"
 

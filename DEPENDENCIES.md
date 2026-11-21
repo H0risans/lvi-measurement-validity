@@ -59,7 +59,7 @@ The LVI-SAM upstream tree must be obtained separately at commit
 `0d822f6dcac3378312f6703b4f45829e049f221a`; apply
 `adapters/lvisam/patches/opencv4_cxx14.patch` before building.  R3LIVE must be
 obtained at commit `6143a38537f28cb36eb24e9bbe2e39c8f7967157` and built with
-the Hilti22 adapter option described in `docs/W4a_接入记录_20261119.md`.
+the Hilti22 adapter option described in `docs/EXPERIMENTS.md`.
 
 ## Python
 

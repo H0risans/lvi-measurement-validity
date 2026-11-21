@@ -53,8 +53,8 @@ These CSVs are generated from the run records above:
 
 ## Provenance
 
-- `data/content_replay/` derives from the f-stage runs (`第4-5章_判别与恢复/f_stage/`).
-- `data/hold/` derives from the a-stage runs (`第4-5章_判别与恢复/a_stage/`).
-- `data/degradation/` derives from the W4c evidence (`工程化/evidence/w4c/`), with multi-GB bags removed.
+- `data/content_replay/` contains the eight content-replay runs (trajectory, run summary, fault events, safety CSV).
+- `data/hold/` contains the six online hold runs (`a_results.csv`, `a_summary.md`).
+- `data/degradation/` contains the W4c degradation summaries and logs, with multi-GB bags removed.
 
 See `../MANIFEST.yaml` for baseline commits and `../REPRODUCE.md` for commands.
